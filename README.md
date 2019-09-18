@@ -1,8 +1,13 @@
 # rOpenSci Twitter data
 
-There are two types of files. 
+There are two types of files here: 1) multiple files of rOpenSci tweets downloaded monthly from Twitter; 2) one file of data about rOpenSci Twitter activity, created and edited manually once a month, with one row per month.
+
+### Files like `tweet_activity_metrics_rOpenSci_20190101_20190201_en.csv`
 
 rOpenSci tweets starting in December 2016 are saved in many files e.g. `tweet_activity_metrics_rOpenSci_20190101_20190201_en.csv` created from monthly downloads (unmodified) from https://analytics.twitter.com.
+
+
+### `twitter_metrics_monthly_rOpenSci.csv`
 
 @stefaniebutland collects data manually from https://analytics.twitter.com/user/rOpenSci/home once a month near the first of each month and adds it to the file `twitter_metrics_monthly_rOpenSci.csv`. Example data source shown in screenshot below. This file contains:
 - `commit_date`: date of GitHub commit of csv file with new data.
