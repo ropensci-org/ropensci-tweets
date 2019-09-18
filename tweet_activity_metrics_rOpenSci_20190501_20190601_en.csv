@@ -1,0 +1,163 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1134474618603880448","https://twitter.com/rOpenSci/status/1134474618603880448","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/DaTRESJBVg","2019-05-31 15:00 +0000","3405.0","36.0","0.010572687224669603","4.0","0.0","4.0","5.0","17.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1133392314137812993","https://twitter.com/rOpenSci/status/1133392314137812993","[blog] ramlegacy: a package for RAM Legacy Database
+
+#rstats package to access stock assessment results of commercially exploited marine populations 🐟 🌎
+
+📝by Kshitiz Gupta &amp; @cboettig 
+
+🔗https://t.co/wM8bryfLSg","2019-05-28 15:19 +0000","4495.0","43.0","0.009566184649610678","8.0","0.0","9.0","3.0","16.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1133062239974412290","https://twitter.com/rOpenSci/status/1133062239974412290","Let pkg maintainers know you use/ 💚 their work!
+
+""Receiving three tweets a year declaring the joy the authors had using #bib2df is a fair compensation for an average of 10 minutes a week it takes to fulfill the ‘social contract’ I signed."" 
+
+@0ttlngr on pkg maintenance https://t.co/0k531e2dFA","2019-05-27 17:27 +0000","18923.0","78.0","0.004121967975479575","18.0","0.0","33.0","10.0","0.0","5.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1131567961951670274","https://twitter.com/rOpenSci/status/1131567961951670274","ropsec pkg about operations security for #rstats users &amp; developers would welcome YOU as a new contributor
+
+Some issues with clear purpose: bug 🐛, help wanted ✋🏽. Some to figure out with @czeildi 
+
+How to contribute: https://t.co/9slACChj3r
+
+Issues: https://t.co/Pkck5QG1Tt https://t.co/05YoCm2VZG","2019-05-23 14:30 +0000","7436.0","102.0","0.013717052178590641","7.0","1.0","13.0","5.0","25.0","1.0","6.0","0.0","0","0","0","0","0","44","44","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1131213129583669248","https://twitter.com/rOpenSci/status/1131213129583669248","[use case] #rcrossref for #TidyTuesday
+
+@jakekaupp used rcrossref to get citation counts for Nobel Prize winners (DOI was present in the dataset) &amp; visualized the citation patterns by author and Nobel category 
+
+code available!
+
+https://t.co/tPp7HRhkY9
+
+#rstats https://t.co/fiplwRyeE3","2019-05-22 15:00 +0000","5775.0","176.0","0.030476190476190476","6.0","0.0","14.0","3.0","37.0","0.0","9.0","0.0","0","0","0","0","0","107","107","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1130850735757844482","https://twitter.com/rOpenSci/status/1130850735757844482","[technotes] {rodev}: helpers for rOpenSci package authors
+
+Discover our efforts to automate ""rote-but-fussy stuff""^1 from our guidance for 📦 authors
+
+#rstats 🗒 by @ma_salmon
+
+🔗https://t.co/z5K6N6IA6h
+
+^1: @JennyBryan's phrase","2019-05-21 15:00 +0000","6674.0","60.0","0.008990110878034162","9.0","0.0","15.0","8.0","20.0","1.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1130657363625517056","https://twitter.com/rOpenSci/status/1130657363625517056","@koen_hufkens @SteniBocker Our online book addresses scope, submission, review, and much more. @SteniBocker this might answer many questions
+
+https://t.co/I1wJZcDQB9","2019-05-21 02:11 +0000","157.0","2.0","0.012738853503184714","0.0","0.0","1.0","0.0","1.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1130546267271061504","https://twitter.com/rOpenSci/status/1130546267271061504","Meet up with our Community Manager @StefanieButland this week at @RLadiesSeattle, Wed May 22,  6pm
+
+""rOpenSci Community Manager Joins Her Community: Learning #rstats by Listening""
+
+Plus speakers @malisas7 &amp;
+@Pamela_Moriarty
+
+RSVP https://t.co/F7VhjZAwq6 https://t.co/lLYAYRRy5q","2019-05-20 18:50 +0000","5446.0","43.0","0.00789570326845391","5.0","1.0","12.0","7.0","3.0","1.0","4.0","0.0","0","0","0","0","0","10","10","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1129048337724743680","https://twitter.com/rOpenSci/status/1129048337724743680","🙏 Thank you to these folks who suggested improvements incorporated into the book @rmflight @wmlandau @gittaca @bikesRdata @patilindrajeets @hadleywickham Kevin Wright. We're listening!","2019-05-16 15:37 +0000","5762.0","38.0","0.006594932315168344","3.0","2.0","11.0","7.0","0.0","0.0","15.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1129031248117153794","https://twitter.com/rOpenSci/status/1129031248117153794","[blog] We've updated our #rstats book - rOpenSci Packages: Development, Maintenance, and Peer Review! 🎉
+
+Highlights:
+
+✨ The book now has a cover! Work by @LockeCreatives.
+
+🔥 We now explicitly accept assignment with =, not only &lt;-.
+
+Read more: https://t.co/I1wJZcmfJB https://t.co/OznGasbl9R","2019-05-16 14:30 +0000","38193.0","832.0","0.02178409656219726","33.0","6.0","110.0","49.0","264.0","6.0","85.0","0.0","0","0","1","0","0","278","278","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1128692955596738560","https://twitter.com/rOpenSci/status/1128692955596738560","@SCAR_Tweets More on the rOpenSci Antarctic/Southern Ocean community https://t.co/KWg3ENVmJT","2019-05-15 16:05 +0000","2424.0","8.0","0.0033003300330033004","1.0","0.0","4.0","0.0","3.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1128692700016857089","https://twitter.com/rOpenSci/status/1128692700016857089","Tools for Southern Ocean Spatial Analysis and Modeling - Course 2-6 September 2019, Brussels. Apply by June 15
+
+Pleased to work with @SCAR_Tweets to help raise up the community of people using #rstats for #Antarctic and Southern Ocean Research. 
+
+https://t.co/KWg3ENVmJT https://t.co/81s51GYFOO","2019-05-15 16:04 +0000","5338.0","22.0","0.004121393780442113","7.0","1.0","6.0","1.0","2.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1128676413949612033","https://twitter.com/rOpenSci/status/1128676413949612033","[use case] nasapower 📦: Can rainfall be a useful predictor of epidemic risk across temporal and spatial scales?
+
+by @edelponte, pkg by @adamhsparks 
+
+https://t.co/ffdmP24rgo
+
+#nasapower blog post: https://t.co/g7hiC1baWM
+
+#rstats https://t.co/PvEirvPP5r","2019-05-15 15:00 +0000","9379.0","237.0","0.025269218466787504","13.0","0.0","25.0","13.0","64.0","1.0","7.0","0.0","0","0","0","0","0","114","114","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1128676408992182272","https://twitter.com/rOpenSci/status/1128676408992182272","Follow @rocitations to see when rOpenSci packages (maybe yours!) are cited
+
+Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/UXcM3v32sI","2019-05-15 15:00 +0000","3091.0","32.0","0.01035263668715626","1.0","0.0","3.0","8.0","0.0","0.0","4.0","0.0","0","0","0","0","0","16","16","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1128307851858812930","https://twitter.com/rOpenSci/status/1128307851858812930","@adamhsparks @NASA_Langley Shoutouts in the post to reviewers @BoyerAlison @Zofiathewitch and for input from @databsurdist @edelponte @PaulMelloy Daniel Reis Pereira 
+ &amp; @sckottie
+
+You can read the full software review thread: https://t.co/1vKzqM7LZK","2019-05-14 14:35 +0000","4376.0","37.0","0.008455210237659964","4.0","0.0","9.0","2.0","13.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1128306409483919360","https://twitter.com/rOpenSci/status/1128306409483919360","[blog] New post in our #SoftwarePeerReview series: ""POWER to the People""  
+
+📝by @adamhsparks 
+
+#nasapower package accesses “NASA Prediction of Worldwide Energy Resources” from @NASA_Langley
+
+🔗https://t.co/g7hiC1baWM
+
+#rstats https://t.co/vrUi7LJfp1","2019-05-14 14:29 +0000","7956.0","456.0","0.05731523378582202","11.0","2.0","34.0","12.0","118.0","4.0","21.0","0.0","0","0","0","0","0","254","254","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1128062366459973632","https://twitter.com/rOpenSci/status/1128062366459973632","rOpenSci News is out https://t.co/3ACj8xoZmu #rstats #openscience 
+
+- Pkgs: 10 new versions 📦
+- Review: 1 submitted, 2 approved ✅
+- Use cases: 10 articles, 3 forum use cases 📖
+- Blog: posts on qualtRics and tradestatistics pkgs  
+- &amp; more …","2019-05-13 22:20 +0000","6702.0","97.0","0.014473291554759774","6.0","0.0","11.0","1.0","74.0","2.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1126523269585063936","https://twitter.com/rOpenSci/status/1126523269585063936","@pachamaltese @EmilyRiederer @bikesRdata @dobbleobble @cimentadaj @pachamaltese says he was inspired to create Open Trade Statistics, in part by limited access to UN Comtrade @UNTradeStats for Latin American universities","2019-05-09 16:24 +0000","3227.0","64.0","0.019832661915091417","1.0","0.0","7.0","7.0","0.0","0.0","49.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1126516844385300480","https://twitter.com/rOpenSci/status/1126516844385300480","@pachamaltese Thanks for the reminder. We aim to follow package authors and reviewers","2019-05-09 15:58 +0000","234.0","4.0","0.017094017094017096","0.0","1.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1126516521352609792","https://twitter.com/rOpenSci/status/1126516521352609792","@pachamaltese Shoutouts in the post to package reviewers and contributors @EmilyRiederer @bikesRdata @dobbleobble @cimentadaj 
+
+You can read the full review: https://t.co/weqeBV0M1f","2019-05-09 15:57 +0000","4278.0","26.0","0.006077606358111267","3.0","2.0","8.0","2.0","4.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1126515110556491777","https://twitter.com/rOpenSci/status/1126515110556491777","[blog] New post in our #SoftwarePeerReview series: ""Open Trade Statistics""
+
+Lowers barrier to working with international economic trade data. Includes public API, dashboard, and R package for data retrieval.
+
+by @pachamaltese 
+
+🔗https://t.co/qSRm3CgwUi
+
+#rstats","2019-05-09 15:51 +0000","8984.0","165.0","0.018365983971504896","16.0","2.0","30.0","12.0","85.0","0.0","20.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1126261457346109440","https://twitter.com/rOpenSci/status/1126261457346109440","Video of our Community Call on Security for R with @czeildi &amp; @hrbrmstr is posted
+
+All resources are linked from https://t.co/xP164wvFjK
+
+- video, Q&amp;A notes, slides, vignette on commit signing with #ropsec, R-centric &amp; dev/datasci ecosystem security resources
+
+#rstats https://t.co/mpv4Iz8tjL","2019-05-08 23:03 +0000","8029.0","116.0","0.014447627350853157","15.0","0.0","27.0","9.0","29.0","0.0","13.0","0.0","0","0","0","0","0","861","23","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1126140197622751232","https://twitter.com/rOpenSci/status/1126140197622751232","[use case] Using drake to power a new soil respiration database
+
+https://t.co/9sV2CqDQOV
+
+use case by @BenBondLamberty; pkg by @wmlandau
+
+#rstats https://t.co/v05GkkInyf","2019-05-08 15:02 +0000","5547.0","121.0","0.021813592933117","9.0","0.0","13.0","4.0","26.0","0.0","17.0","0.0","0","0","0","0","0","52","52","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1126139707446849536","https://twitter.com/rOpenSci/status/1126139707446849536","[use case] qualtRics: the @StackOverflow Developer Survey 
+
+@juliasilge used the qualtRics 📦 to access the almost 90,000 responses to the survey. Made workflow more reproducible and simpler.
+
+https://t.co/EM5ulldPuv
+
+#rstats #qualtRics https://t.co/aKxrJAgxav","2019-05-08 15:00 +0000","9979.0","316.0","0.031666499649263456","13.0","2.0","32.0","11.0","74.0","3.0","19.0","0.0","0","0","1","0","0","161","161","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1125855025614344192","https://twitter.com/rOpenSci/status/1125855025614344192","@hrbrmstr Thank you boB 💚","2019-05-07 20:08 +0000","843.0","3.0","0.0035587188612099642","0.0","0.0","1.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1125808326804103169","https://twitter.com/rOpenSci/status/1125808326804103169","Slides for @hrbrmstr's presentation are posted now too https://t.co/xP164wvFjK
+
+See you in an hour - Security for #rstats (11am PDT)
+
+Zoom link here: https://t.co/xP164wvFjK https://t.co/skzZjaPAHL","2019-05-07 17:03 +0000","6313.0","58.0","0.009187391097734834","4.0","0.0","9.0","4.0","33.0","1.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1125520617111867392","https://twitter.com/rOpenSci/status/1125520617111867392","Get yourself ready for live demo in Security for #rstats Community Call
+
+Install #ropsec with devtools::install_github(""ropenscilabs/ropsec"")
+
+Vignette about commit signing: https://t.co/lAuMa7rzuf
+
+Other resources:
+https://t.co/xP164wvFjK https://t.co/v3TLfzY8n3","2019-05-06 22:00 +0000","7297.0","57.0","0.007811429354529258","6.0","0.0","10.0","1.0","27.0","0.0","13.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1125460222141710341","https://twitter.com/rOpenSci/status/1125460222141710341","Tomorrow!
+
+☎️Community Call: Security for R
+📆 Tuesday, May 7th, 11 AM PDT
+📣Speakers @czeildi &amp; @hrbrmstr
+
+Details and lots of resources: https://t.co/E77XfT5zyG
+
+#rstats https://t.co/JGoHG149EE","2019-05-06 18:00 +0000","6633.0","215.0","0.03241368913010704","13.0","1.0","14.0","20.0","62.0","0.0","38.0","0.0","0","0","0","0","0","67","67","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1124417024048783360","https://twitter.com/rOpenSci/status/1124417024048783360","@potterzot @Hao_and_Y @usda_nass Information on submitting a package for software peer review is here https://t.co/X5ZmpJYkGm","2019-05-03 20:54 +0000","233.0","9.0","0.03862660944206009","0.0","1.0","2.0","0.0","5.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"

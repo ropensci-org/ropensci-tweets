@@ -1,0 +1,171 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1001209144211206145","https://twitter.com/rOpenSci/status/1001209144211206145","Our essurvey pkg by @cimentadaj is in April 2018 “Top 40” New Packages, from @RStudioJoe 
+
+https://t.co/OY2KVpLPwK
+
+Stay tuned for a blog post about essurvey in July","2018-05-28 21:10 +0000","5999.0","77.0","0.012835472578763127","4.0","0.0","9.0","4.0","49.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1000073057333985280","https://twitter.com/rOpenSci/status/1000073057333985280","[technotes] vcr: record and replay HTTP requests (in #rstats)
+ https://t.co/avMSV2uc0C","2018-05-25 17:56 +0000","5933.0","32.0","0.0053935614360357325","6.0","1.0","7.0","5.0","12.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1000024996876468224","https://twitter.com/rOpenSci/status/1000024996876468224","A sincere thank you to all participants in #runconf18 
+
+This thread👇includes links to all project repos: 
+https://t.co/2PhAz4zSuK
+
+#rstats https://t.co/8SICcWkQ0v","2018-05-25 14:45 +0000","23607.0","834.0","0.035328504257211846","43.0","2.0","131.0","18.0","211.0","13.0","92.0","5.0","0","0","1","0","0","318","318","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999771127395188736","https://twitter.com/rOpenSci/status/999771127395188736","@SloanFoundation @azureadvocates @Google @googlecloud @rstudio Curious about how you can  connect with the rOpenSci community?
+
+Lots of ways to connect, from reading about new packages to reviewing them: https://t.co/728SOCUq8c","2018-05-24 21:56 +0000","6950.0","38.0","0.005467625899280576","3.0","0.0","7.0","3.0","19.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999770182489796608","https://twitter.com/rOpenSci/status/999770182489796608","Thank you to our generous #runconf18 sponsors @SloanFoundation @azureadvocates @Google @googlecloud @rstudio","2018-05-24 21:52 +0000","4201.0","14.0","0.0033325398714591763","1.0","1.0","4.0","2.0","0.0","1.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999767079321415680","https://twitter.com/rOpenSci/status/999767079321415680","@seankross ...and you can follow #runconf18 participants &amp; project contributors via #rstats rtweet
+
+How? Gist by @ma_salmon: https://t.co/oFjS0KF7z5","2018-05-24 21:40 +0000","3146.0","28.0","0.008900190718372537","1.0","1.0","3.0","1.0","13.0","3.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999765665190850560","https://twitter.com/rOpenSci/status/999765665190850560","All #runconf18 #rstats projects can be browsed here https://t.co/v7069uOPZF, thanks to @seankross
+
+Most unconf projects are experimentation &amp; exploration. Try them out and let the developers know if you have use cases for them!","2018-05-24 21:34 +0000","6897.0","48.0","0.006959547629404089","8.0","1.0","8.0","1.0","15.0","1.0","14.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999763357371580416","https://twitter.com/rOpenSci/status/999763357371580416","greta - simple and scalable statistical modelling in R (work done on existing pkg)
+https://t.co/DMxD813wTD
+#runconf18 #rstats","2018-05-24 21:25 +0000","2599.0","32.0","0.012312427856868027","1.0","1.0","3.0","0.0","20.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999762852914151425","https://twitter.com/rOpenSci/status/999762852914151425","testevil - Package for testing for potentially malicious or unsafe coding practices
+https://t.co/SJqwCPNkyJ
+#runconf18 #rstats","2018-05-24 21:23 +0000","3127.0","34.0","0.010873041253597697","3.0","1.0","5.0","0.0","20.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999761343191306240","https://twitter.com/rOpenSci/status/999761343191306240","proxy-bias-vignette - Ethical Machine Learning
+https://t.co/ZMy6pEEMyP
+#runconf18 #rstats","2018-05-24 21:17 +0000","3365.0","26.0","0.007726597325408618","5.0","1.0","4.0","2.0","13.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999675723911610368","https://twitter.com/rOpenSci/status/999675723911610368","[technote] taxize: seven years of taxonomy in #rstats  
+ https://t.co/coL2tUvrSk https://t.co/Wx8R8pvb6C","2018-05-24 15:37 +0000","7415.0","81.0","0.010923803101820635","13.0","0.0","22.0","2.0","43.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999083685553975296","https://twitter.com/rOpenSci/status/999083685553975296","roomba - tidy your nested hairballs
+https://t.co/SsPyvftg9t
+#runconf18 #rstats","2018-05-23 00:24 +0000","5543.0","152.0","0.02742197366047267","5.0","1.0","21.0","1.0","85.0","7.0","32.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999083397459791872","https://twitter.com/rOpenSci/status/999083397459791872","greta - simple and scalable statistical modelling in R
+https://t.co/DMxD813wTD
+#runconf18 #rstats","2018-05-23 00:23 +0000","5547.0","119.0","0.02145303767802416","8.0","1.0","17.0","5.0","62.0","3.0","23.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999083083985862656","https://twitter.com/rOpenSci/status/999083083985862656","httr in webmockr
+https://t.co/JxToIXPR1p
+#runconf18 #rstats","2018-05-23 00:22 +0000","2449.0","20.0","0.008166598611678236","1.0","1.0","2.0","1.0","12.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999082526579687424","https://twitter.com/rOpenSci/status/999082526579687424","jobstatus - Send Job Information Between Functions and Processes
+https://t.co/B5Zms2p1MP
+#runconf18 #rstats","2018-05-23 00:20 +0000","2241.0","18.0","0.008032128514056224","0.0","1.0","2.0","1.0","11.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999082170344878080","https://twitter.com/rOpenSci/status/999082170344878080","keybase - Tools to Work with the Keybase API
+https://t.co/ZHCSDytDVW
+#runconf18 #rstats","2018-05-23 00:18 +0000","2536.0","19.0","0.00749211356466877","1.0","1.0","4.0","2.0","9.0","1.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999081836151128064","https://twitter.com/rOpenSci/status/999081836151128064","rOpenInterviews - .rprofile and .renviron interview blog series
+
+Read the interviews published so far: https://t.co/Z6yZfXyEnf
+#runconf18 #rstats","2018-05-23 00:17 +0000","10341.0","82.0","0.007929600618895659","3.0","1.0","5.0","12.0","24.0","3.0","34.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999080451795922944","https://twitter.com/rOpenSci/status/999080451795922944","umapr - wrapper for umap dimensionality reduction algorithm
+https://t.co/Y7erEYFDxZ
+#runconf18 #rstats","2018-05-23 00:11 +0000","5166.0","114.0","0.022067363530778164","9.0","1.0","19.0","2.0","46.0","2.0","35.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999079577480646656","https://twitter.com/rOpenSci/status/999079577480646656","QcodeR - Lightweight package to do qualitative coding
+https://t.co/Agep5OjriC
+#runconf18 #rstats","2018-05-23 00:08 +0000","4023.0","77.0","0.019139945314441957","9.0","1.0","11.0","2.0","39.0","1.0","14.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999078920061308928","https://twitter.com/rOpenSci/status/999078920061308928","trackmd - RStudio addin for tracking changes in Markdown format
+https://t.co/j2pyJDBhbT
+#runconf18 #rstats","2018-05-23 00:05 +0000","14320.0","272.0","0.01899441340782123","16.0","3.0","47.0","6.0","158.0","2.0","40.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999077827860283394","https://twitter.com/rOpenSci/status/999077827860283394","dataspice - create basic, lightweight and concise metadata files
+https://t.co/hVZ9o7S9cH
+#runconf18 #rstats","2018-05-23 00:01 +0000","3898.0","77.0","0.019753719856336584","6.0","1.0","25.0","2.0","30.0","2.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999077171644612608","https://twitter.com/rOpenSci/status/999077171644612608","mchtoolbox - A toolbox for maternal child health data
+https://t.co/UMZHznBhwI
+#runconf18 #rstats","2018-05-22 23:58 +0000","2728.0","29.0","0.01063049853372434","4.0","1.0","13.0","0.0","8.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999076850465832960","https://twitter.com/rOpenSci/status/999076850465832960","ropsec - Personal Workstation Safety Checks and Utilities
+https://t.co/UqDuIJDzYh
+#runconf18 #rstats","2018-05-22 23:57 +0000","2304.0","29.0","0.012586805555555556","3.0","1.0","6.0","0.0","17.0","1.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999076548731781120","https://twitter.com/rOpenSci/status/999076548731781120","defender - check code for dangerous calls
+https://t.co/yBTKGLgryw
+#runconf18 #rstats","2018-05-22 23:56 +0000","2160.0","31.0","0.014351851851851852","3.0","1.0","8.0","0.0","18.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999076111488204801","https://twitter.com/rOpenSci/status/999076111488204801","middlechild - R interface to MITM
+https://t.co/RcFIBY9XYL
+#runconf18 #rstats","2018-05-22 23:54 +0000","2590.0","30.0","0.011583011583011582","3.0","1.0","5.0","2.0","13.0","1.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999075793668993025","https://twitter.com/rOpenSci/status/999075793668993025","OpenCV - Open Source Computer Vision Library
+https://t.co/x0s3w9Pdfg
+#runconf18 #rstats","2018-05-22 23:53 +0000","3103.0","57.0","0.018369320012890752","4.0","1.0","10.0","5.0","33.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999075402541772800","https://twitter.com/rOpenSci/status/999075402541772800","pkgreviewr - Automated reports for rOpenSci package reviews https://t.co/ebLN1wlm5k
+#runconf18 #rstats","2018-05-22 23:51 +0000","2202.0","28.0","0.012715712988192553","3.0","1.0","6.0","3.0","11.0","2.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999074538666188800","https://twitter.com/rOpenSci/status/999074538666188800","rOpenSciEd - A Community for those who Educate with R https://t.co/PE26T38lTS
+#runconf18 #rstats","2018-05-22 23:48 +0000","5395.0","184.0","0.034105653382761815","13.0","3.0","22.0","8.0","97.0","2.0","39.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"999072156800565250","https://twitter.com/rOpenSci/status/999072156800565250","#runconf18 reporting out is starting! #rstats https://t.co/k1oBhdOhTI","2018-05-22 23:38 +0000","25518.0","586.0","0.0229641821459362","20.0","3.0","59.0","36.0","29.0","20.0","145.0","0.0","0","0","1","0","0","273","273","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"998638158899101696","https://twitter.com/rOpenSci/status/998638158899101696","rOpenSci News is out https://t.co/4DnMGoUXIq (pkgs [1 new, 12 releases], software review [2 new subs], 5 blog posts, &amp; more) #rstats","2018-05-21 18:54 +0000","6705.0","63.0","0.009395973154362415","5.0","0.0","8.0","5.0","42.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"997485647886663680","https://twitter.com/rOpenSci/status/997485647886663680","[Tech Note] drake's improved high-performance computing power
+
+https://t.co/V0ubCmLfnc
+
+by @wmlandau https://t.co/dvuylEGh8X","2018-05-18 14:34 +0000","4451.0","87.0","0.019546169400134802","5.0","0.0","8.0","1.0","27.0","0.0","8.0","0.0","0","0","0","0","0","38","38","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"997159099132297216","https://twitter.com/rOpenSci/status/997159099132297216","@guangchuangyu Thanks to reviewers @pseudacris &amp; @fmic_ 
+
+You can read the open review thread here: https://t.co/oBJBi20Z1V","2018-05-17 16:57 +0000","2347.0","25.0","0.010651896037494673","2.0","0.0","4.0","4.0","12.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"997156643920953345","https://twitter.com/rOpenSci/status/997156643920953345","[blog] New post in our onboarded #rstats software series
+
+treeio: Phylogenetic data integration, by @guangchuangyu 
+
+https://t.co/2LwNbPmxaN https://t.co/i1HaS2TKDb","2018-05-17 16:47 +0000","6285.0","153.0","0.0243436754176611","8.0","1.0","21.0","5.0","43.0","1.0","6.0","0.0","0","0","1","0","0","67","67","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"996431064825450496","https://twitter.com/rOpenSci/status/996431064825450496","@mitchoharawild Thanks to @fontawesome for adding the #rstats logo, to @LockeData for the twitter signal boost, &amp; to #ozunconf17 for the icon pkg by @mitchoharawild @earowang &amp; @TimothyHyndman https://t.co/Id6BcePkim","2018-05-15 16:44 +0000","3925.0","61.0","0.01554140127388535","3.0","0.0","4.0","0.0","1.0","0.0","14.0","0.0","0","0","0","0","0","39","39","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"996430706053033986","https://twitter.com/rOpenSci/status/996430706053033986","[Tech Note] Finally, it's possible to use an R package to include the R icon in your R Markdown documents! 
+
+How? @mitchoharawild explains: https://t.co/9niDujWCAt  #rstats https://t.co/rDLQ9yFMMU","2018-05-15 16:42 +0000","7130.0","186.0","0.02608695652173913","15.0","1.0","35.0","1.0","40.0","3.0","18.0","0.0","0","0","0","0","0","73","73","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"995377135937142784","https://twitter.com/rOpenSci/status/995377135937142784","@JohnMHancock @BobOHara @stuffysour @deevybee @nceas @idiv @_NickGolding_ @rafajido info on @nceas Working Groups model: https://t.co/25fZ8UgXIC @metamattj","2018-05-12 18:56 +0000","267.0","9.0","0.033707865168539325","0.0","1.0","2.0","0.0","1.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"995376142038138880","https://twitter.com/rOpenSci/status/995376142038138880","@JohnMHancock @BobOHara @stuffysour @deevybee @nceas @idiv @_NickGolding_ @rafajido Here's a summary of our #runconf17. Using same plan for #runconf18 in 2 weeks
+https://t.co/TNcilrHisO
+
+Our Community Manager wrote: 1) https://t.co/tz8usuvT6G
+
+2) https://t.co/fyCCPlwnv1","2018-05-12 18:52 +0000","418.0","18.0","0.0430622009569378","0.0","1.0","2.0","1.0","7.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"994626868736212992","https://twitter.com/rOpenSci/status/994626868736212992","@ma_salmon @annegentle @juliasilge @drob @tylerrinker @dataandme @noamross Stay tuned for more data-driven analysis of onboarding
+
+In the meantime...
+📰 Read more about our #rstats package review system https://t.co/MhZAdzT9va
+
+🎥 Watch @ma_salmon's #satRdayCapeTown talk encompassing the content of this series https://t.co/1co2Py386N","2018-05-10 17:14 +0000","2893.0","15.0","0.005184929139301763","0.0","0.0","2.0","0.0","3.0","0.0","8.0","0.0","0","0","0","0","0","2","2","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"994607087916216320","https://twitter.com/rOpenSci/status/994607087916216320","@ma_salmon @annegentle @juliasilge @drob @tylerrinker @dataandme The 2nd post in the series by onboarding editors @ma_salmon &amp; @noamross quantified volunteer work by
+
+⚙ Authors
+⚙ Reviewers
+⚙ Editors
+
+via commit logs, self-declared time spent &amp; GitHub data
+
+https://t.co/2uDpQRDl3K
+
+We appreciate all this work! 🌟 https://t.co/Ew1fH5QpVe","2018-05-10 15:56 +0000","4715.0","57.0","0.012089077412513256","1.0","1.0","5.0","1.0","9.0","0.0","6.0","0.0","0","0","0","0","0","34","34","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"994587687364407296","https://twitter.com/rOpenSci/status/994587687364407296","@ma_salmon @annegentle @juliasilge @drob @tylerrinker This post builds on data collected with #rstats tools in the 1st post of the series 
+
+https://t.co/lfBZgIOF78
+
+By @ma_salmon (gif courtesy of @dataandme) https://t.co/2gfho6ykMD","2018-05-10 14:39 +0000","5424.0","57.0","0.010508849557522125","4.0","1.0","9.0","2.0","8.0","1.0","10.0","0.0","0","0","0","0","0","470","22","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"994586954841735168","https://twitter.com/rOpenSci/status/994586954841735168","@ma_salmon Inspired by @annegentle's https://t.co/Ml3EXzfAk0 essay of about the social weather of online communities, 
+
+And using #rstats #NLP tools by @juliasilge, @drob &amp; @tylerrinker 
+
+This post finds out 
+🔎 what onboarding is about
+🔍how friendly it is https://t.co/iAIf4jxzaU","2018-05-10 14:36 +0000","4381.0","78.0","0.017804154302670624","6.0","1.0","5.0","2.0","8.0","1.0","8.0","0.0","0","0","0","0","0","47","47","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"994585872568729608","https://twitter.com/rOpenSci/status/994585872568729608","[blog] 3rd #rstats post in our 3-post series with a data-driven overview of our package review system
+
+The social weather of rOpenSci onboarding system ☀️
+https://t.co/TJUolX6aiQ
+
+By onboarding editor @ma_salmon https://t.co/vs3sPk0Dis","2018-05-10 14:32 +0000","14465.0","200.0","0.013826477704804701","11.0","1.0","17.0","8.0","39.0","0.0","7.0","0.0","0","0","0","0","0","117","117","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"994379597683683328","https://twitter.com/rOpenSci/status/994379597683683328","Thanks for the shoutout as one of your ""great examples of ... open source communities from which to draw inspiration"". 
+
+Our community is our biggest asset https://t.co/KuqvhChR5B","2018-05-10 00:52 +0000","8134.0","43.0","0.0052864519301696585","7.0","1.0","20.0","11.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"993883320160268288","https://twitter.com/rOpenSci/status/993883320160268288","@evanodell Shoutouts in @evanodell's post to package reviewers Paul Egeler and @chrisderv","2018-05-08 16:00 +0000","2669.0","10.0","0.003746721618583739","0.0","0.0","4.0","2.0","0.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"993882992492740613","https://twitter.com/rOpenSci/status/993882992492740613","[Tech Note] Nomisr 📦- Access 'Nomis' UK Labour Market Data, by  @evanodell https://t.co/MDpbvohVBC #rstats https://t.co/aC7eq7YSg2","2018-05-08 15:59 +0000","6743.0","202.0","0.02995699243660092","6.0","2.0","12.0","9.0","35.0","3.0","7.0","0.0","0","0","0","0","0","128","128","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"993589039432269824","https://twitter.com/rOpenSci/status/993589039432269824","rOpenSci News is out https://t.co/SBoIxJ1SDK  (pkgs [1 new, 12 releases], software review [1 accepted, 3 new subs], 3 blog posts, and more) #rstats","2018-05-07 20:31 +0000","5186.0","48.0","0.009255688391824142","8.0","0.0","3.0","4.0","27.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"992077646417641472","https://twitter.com/rOpenSci/status/992077646417641472","@ma_salmon @noamross This post builds on data collected with #rstats tools as described in the first post in the series https://t.co/lfBZgIOF78 
+
+by @ma_salmon 
+(gif courtesy of @dataandme) https://t.co/c8IxhJ7s9f","2018-05-03 16:25 +0000","4767.0","57.0","0.01195720578980491","7.0","0.0","9.0","2.0","9.0","0.0","8.0","0.0","0","0","0","0","0","411","22","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"992076566707322881","https://twitter.com/rOpenSci/status/992076566707322881","@ma_salmon @noamross This post quantifies volunteer work by:
+⚙ Authors
+⚙ Reviewers
+⚙ Editors
+via commit logs, self-declared time spent and GitHub data!
+
+We appreciate all this work! 🌟 https://t.co/FB9LNA0X3D","2018-05-03 16:21 +0000","4320.0","49.0","0.011342592592592593","2.0","1.0","3.0","0.0","3.0","0.0","7.0","0.0","0","0","0","0","0","33","33","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"992074456175525888","https://twitter.com/rOpenSci/status/992074456175525888","[blog] New #rstats post in 3-part series about our package review system!
+
+How much work is onboarding? ⚒ 😰
+
+https://t.co/2uDpQRDl3K 
+
+By onboarding editors @ma_salmon &amp; @noamross https://t.co/XBXOqDBirK","2018-05-03 16:12 +0000","7054.0","89.0","0.012616954919194782","6.0","1.0","12.0","1.0","17.0","0.0","7.0","0.0","0","0","1","0","0","44","44","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"991455024650702848","https://twitter.com/rOpenSci/status/991455024650702848","@samclifford @hrbrmstr apropos: Forcing Yourself to Make Your Life Easier, blog post by @noolpost https://t.co/hIcbuR3gKt","2018-05-01 23:11 +0000","442.0","28.0","0.06334841628959276","0.0","0.0","5.0","1.0","19.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"

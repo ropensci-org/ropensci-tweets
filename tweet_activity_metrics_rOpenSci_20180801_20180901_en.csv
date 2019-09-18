@@ -1,0 +1,214 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1034487659278688256","https://twitter.com/rOpenSci/status/1034487659278688256","@ma_salmon @bikesRdata ICYMI, 2/5 post of the series: What birds are observed near Radolfzell? Bird occurrence data in #rstats 📊 🐦
+
+Using &amp;comparing our 2 📦 s accessing @Team_eBird's data
+
+- {rebird} by @sebpardo
+
+- {auk} by @StrimasMackey
+
+https://t.co/lGA4jXIVDf by @ma_salmon https://t.co/Q61h0rFQuV","2018-08-28 17:07 +0000","4035.0","47.0","0.011648079306071871","6.0","0.0","3.0","4.0","0.0","0.0","3.0","0.0","0","0","0","0","0","31","31","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1034487325173067776","https://twitter.com/rOpenSci/status/1034487325173067776","@ma_salmon ICYMI, 1/5 post of the birder series: Where to go observe birds in Radolfzell? 🗺 An answer with #rstats and open data 🐦
+
+https://t.co/dVMb0ZPlBD
+
+By @ma_salmon and @bikesRdata https://t.co/IUAMHN56lf","2018-08-28 17:06 +0000","3082.0","20.0","0.006489292667099286","3.0","1.0","1.0","2.0","1.0","0.0","5.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1034486936470093824","https://twitter.com/rOpenSci/status/1034486936470093824","[blog] This post is 3/5 of our #rstats series ""The birder's guide to rOpenSci""! 🐣 🗺
+
+Over the next weeks, research software engineer @ma_salmon is exploring our packages suite 🔨 🔧 with use cases involving birds! 🐦
+
+https://t.co/tKN0H97Rwz
+
+📸 by J-Cl Salmon https://t.co/5RPrwDXXoL","2018-08-28 17:04 +0000","2549.0","21.0","0.00823852491173009","5.0","1.0","3.0","0.0","2.0","0.0","3.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1034486474941423616","https://twitter.com/rOpenSci/status/1034486474941423616","[blog] ""What's this bird? Classify old natural history drawings with R""
+
+Showcasing our #rstats 📦 s
+
+- {magick} for 🖼 manipulation
+
+- {tesseract} for OCR
+
+- {cld2}&amp;{cld3} for language detection
+
+- {taxize} for taxonomic name resolution
+
+https://t.co/BiQMS7ubAQ by @ma_salmon https://t.co/HUnuVmRV1N","2018-08-28 17:02 +0000","20108.0","652.0","0.03242490551024468","37.0","3.0","75.0","24.0","99.0","0.0","53.0","2.0","0","0","0","0","0","359","359","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1034485037654323200","https://twitter.com/rOpenSci/status/1034485037654323200","@IgnacioGReyes @Franz_Krah Appreciate your enthusiasm. You can read our mission here: https://t.co/Xh8n1T2s5v
+
+and several ways to participate in the community here: https://t.co/728SOCCPgE","2018-08-28 16:57 +0000","95.0","2.0","0.021052631578947368","0.0","0.0","1.0","0.0","1.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1034151727694368768","https://twitter.com/rOpenSci/status/1034151727694368768","@steffilazerte @klebel_t @RStudioJoe weathercan 📦 by @steffilazerte accesses historical weather data from Environment and Climate Change Canada 
+
+in July 2018 Top 40 New Packages https://t.co/xHdfK0ALh8
+
+Read about weathercan here: https://t.co/mD1v0Jwoip
+
+3/3 https://t.co/TsbPSkvMmc","2018-08-27 18:52 +0000","4322.0","69.0","0.015964831096714482","11.0","0.0","13.0","5.0","11.0","0.0","8.0","0.0","0","0","0","0","0","21","21","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1034149337880653824","https://twitter.com/rOpenSci/status/1034149337880653824","@steffilazerte @klebel_t @RStudioJoe jstor 📦 by @klebel_t ""provides functions to import metadata, ngrams, and full-texts delivered by Data for Research by JSTOR""
+
+in July 2018 Top 40 New Packages https://t.co/xHdfK0ALh8
+
+Read the open rOpenSci 📦review here: https://t.co/PLAn2AKE3l
+
+2/3","2018-08-27 18:43 +0000","3511.0","26.0","0.00740529763600114","4.0","1.0","5.0","0.0","12.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1034148063957282816","https://twitter.com/rOpenSci/status/1034148063957282816","2 rOpenSci pkgs - weathercan by @steffilazerte &amp; jstor by @klebel_t - are in @RStudioJoe's July 2018 Top 40 New Packages 🎉
+
+https://t.co/xHdfK0ALh8
+
+1/3  #rstats","2018-08-27 18:38 +0000","6059.0","81.0","0.013368542663805908","10.0","1.0","12.0","8.0","43.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1032745016500736000","https://twitter.com/rOpenSci/status/1032745016500736000","See a use case for an rOpenSci package? Share it in our public discussion forum. We've got a cat. for that https://t.co/YO8xSqIO23
+
+It’s valuable to both users and developers of a package to see how it's been used “in the wild” https://t.co/mMWtGzsyiS","2018-08-23 21:42 +0000","3100.0","48.0","0.015483870967741935","2.0","0.0","4.0","2.0","4.0","0.0","5.0","0.0","0","0","0","0","0","31","31","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1032721835001958400","https://twitter.com/rOpenSci/status/1032721835001958400","Use case by @CrossrefOrg for our rcrossref package 👇
+
+rcrossref: https://t.co/q9EpAKG15O
+
+#rstats https://t.co/5HS3yyu2Q8","2018-08-23 20:10 +0000","4626.0","28.0","0.0060527453523562475","5.0","0.0","7.0","2.0","8.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1032628532726325248","https://twitter.com/rOpenSci/status/1032628532726325248","[technotes] rgbif: seven years of GBIF in R
+
+https://t.co/lCS9B2bwOJ
+
+Cite rgbif: https://t.co/aqMoaoxxMo by @sckottie
+&amp; @cboettig
+
+#rstats https://t.co/VXe6DhlXcb","2018-08-23 14:00 +0000","4171.0","87.0","0.02085830736034524","5.0","0.0","10.0","4.0","7.0","0.0","11.0","0.0","0","0","0","0","0","50","50","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1031937876286554113","https://twitter.com/rOpenSci/status/1031937876286554113","@Team_eBird @sebpardo @StrimasMackey @ma_salmon ICYMI, first post of the birder series: Where to go observe birds in Radolfzell? 🗺 An answer with #rstats and open data 🐦
+
+https://t.co/dVMb0ZPlBD
+
+By @ma_salmon and @bikesRdata
+3/3 https://t.co/rXPnWKDqMo","2018-08-21 16:15 +0000","2722.0","19.0","0.0069801616458486405","5.0","0.0","1.0","1.0","3.0","0.0","4.0","0.0","0","0","0","0","0","5","5","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1031937492738486272","https://twitter.com/rOpenSci/status/1031937492738486272","@Team_eBird @sebpardo @StrimasMackey @ma_salmon [blog] This post is part of our #rstats series ""The birder's guide to rOpenSci""! 🐣 🗺
+
+Over the next weeks, research software engineer @ma_salmon is exploring our packages suite 🔨 🔧 with use cases involving birds! 🐦
+
+https://t.co/tKN0H97Rwz
+
+📸 by J-Cl Salmon 
+2/3 https://t.co/Ds9fZtr36O","2018-08-21 16:14 +0000","3243.0","25.0","0.0077089115016959605","5.0","1.0","3.0","2.0","2.0","2.0","6.0","0.0","0","0","0","0","0","4","4","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1031937005330948097","https://twitter.com/rOpenSci/status/1031937005330948097","[blog] Second post of the birder's series! What birds are observed near Radolfzell? Bird occurrence data in #rstats 📊 🐦
+
+Using &amp; comparing our 2 📦 s accessing @Team_eBird's data
+
+{rebird} by @sebpardo
+{auk} by @StrimasMackey
+
+https://t.co/lGA4jXIVDf by @ma_salmon 
+1/3 https://t.co/DLzC5k4eSu","2018-08-21 16:12 +0000","7099.0","108.0","0.015213410339484434","14.0","1.0","6.0","4.0","8.0","0.0","8.0","0.0","0","0","0","0","0","67","67","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1031649883973795840","https://twitter.com/rOpenSci/status/1031649883973795840","rOpenSci news is out https://t.co/qwbmJZysII (meet w/ us IRL in various countries, pkgs [2 new, 12 new versions], review [2 submission, 3 approved], 4 blog posts, lots of use cases!) #rstats","2018-08-20 21:11 +0000","6848.0","64.0","0.009345794392523364","11.0","0.0","14.0","6.0","27.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1029353272316837888","https://twitter.com/rOpenSci/status/1029353272316837888","@ma_salmon @bikesRdata This post is the occasion to present @rOpenSci #rstats 📦 s interfacing ✨ open geographical data ✨
+
+🌐 {opencage} for geocoding
+🌐 {osmdata} for accessing OpenStreetMap data
+🌐 {osmplotr} for making maps with OpenStreetMap data
+
+https://t.co/dVMb0ZPlBD
+
+3/3 https://t.co/kfU9JpUCKm","2018-08-14 13:05 +0000","4717.0","81.0","0.017171931312274753","9.0","1.0","13.0","5.0","31.0","0.0","10.0","0.0","0","0","0","0","0","12","12","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1029352730173702144","https://twitter.com/rOpenSci/status/1029352730173702144","@ma_salmon First post of the birder series: Where to go observe birds in Radolfzell? 🗺 An answer with #rstats and open data 🐦
+
+https://t.co/dVMb0ZPlBD
+
+By @ma_salmon and @bikesRdata
+
+2/3 https://t.co/NjQ3YDT3w3","2018-08-14 13:03 +0000","4931.0","45.0","0.009125937943621983","6.0","1.0","6.0","2.0","19.0","0.0","1.0","0.0","0","0","0","0","0","10","10","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1029351957708689409","https://twitter.com/rOpenSci/status/1029351957708689409","[blog] New #rstats series! The birder's guide to rOpenSci! 🐣 🗺
+
+Once a week, research software engineer @ma_salmon will explore our suite of packages 🔨 🔧 with use cases involving birds! 🐦
+
+https://t.co/tKN0H97Rwz
+
+📸 by J-Cl Salmon
+
+1/3 https://t.co/x5XfHhGXmP","2018-08-14 13:00 +0000","11167.0","151.0","0.013521984418375571","15.0","1.0","30.0","14.0","37.0","1.0","19.0","0.0","0","0","0","0","0","34","34","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1029320210208235520","https://twitter.com/rOpenSci/status/1029320210208235520","[technote] #rstats mongolite 2.0: GridFS, connection pooling, and more: https://t.co/upOb0jKEeq","2018-08-14 10:53 +0000","3946.0","25.0","0.0063355296502787635","3.0","0.0","2.0","3.0","11.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1027296965770412032","https://twitter.com/rOpenSci/status/1027296965770412032","@jj_mllr Thanks for that tweet.
+Many authors of those packages have also written about them for our blog and tech notes: https://t.co/RaJVVW6YHJ","2018-08-08 20:54 +0000","674.0","8.0","0.011869436201780416","0.0","0.0","2.0","0.0","4.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1027265151785811968","https://twitter.com/rOpenSci/status/1027265151785811968","Are you a ""critical user"" of our software?
+
+Would your work be disrupted if rOpenSci software became unavailable?
+
+Connect with our Project Lead @_inundata at the NumFOCUS Project Forum to help tackle the challenge of long term sustainability https://t.co/45n0GDufBS","2018-08-08 18:47 +0000","31385.0","142.0","0.004524454357176995","27.0","0.0","22.0","44.0","2.0","0.0","47.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1027200258986524672","https://twitter.com/rOpenSci/status/1027200258986524672","[technote] Onboarded 📦phylotaR: Retrieve Orthologous Sequences from GenBank, by @dominicjbennett
+
+https://t.co/JtQz4kYWva
+
+With shoutouts to reviewers @ZebulunArendsee &amp; @naupakaz 
+
+Read the open peer review: https://t.co/vXDV2wlevX
+
+#rstats https://t.co/IFJfdKjyYW","2018-08-08 14:30 +0000","5181.0","59.0","0.011387762980119669","9.0","0.0","9.0","2.0","19.0","0.0","5.0","0.0","0","0","0","0","0","15","15","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1026883777606238208","https://twitter.com/rOpenSci/status/1026883777606238208","@Team_eBird @StrimasMackey @RallidaeRule @emhrt_ In this post, @StrimasMackey explains when you might want to use the awk package vs the ebird pkg. These complementary tools access the same data in different ways
+
+https://t.co/VRaQUuuks2
+
+#rstats https://t.co/N7zxONqT9p","2018-08-07 17:32 +0000","5333.0","89.0","0.016688543033939622","9.0","0.0","8.0","2.0","11.0","0.0","10.0","0.0","0","0","0","0","0","49","49","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1026882684583211010","https://twitter.com/rOpenSci/status/1026882684583211010","@Team_eBird @StrimasMackey Shoutouts in the post to software reviewers @RallidaeRule
+&amp; @emhrt_
+
+You can read the whole review thread here: https://t.co/Hno908kKUd
+
+#rstats","2018-08-07 17:28 +0000","6046.0","45.0","0.0074429374793251735","9.0","1.0","5.0","3.0","15.0","0.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1026881587332280320","https://twitter.com/rOpenSci/status/1026881587332280320","[blog] Onboarded 📦: Extracting and Processing @Team_eBird Data, by @StrimasMackey 
+
+https://t.co/VRaQUuuks2
+
+#Rstats https://t.co/U6cMYZsgiY","2018-08-07 17:23 +0000","8964.0","195.0","0.02175368139223561","18.0","1.0","23.0","17.0","26.0","1.0","13.0","0.0","0","0","0","0","0","96","96","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1026879914778095618","https://twitter.com/rOpenSci/status/1026879914778095618","Our Associate Editor @noamross is at @ESA_org this week, along with @cboettig &amp; @DanSholler. Ask them about our software or open peer software review or ask our postdoc @DanSholler about governance, engagement, and resistance in open science https://t.co/8IGrRIhO91","2018-08-07 17:17 +0000","8099.0","42.0","0.005185825410544511","11.0","0.0","4.0","9.0","0.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1026598453089001472","https://twitter.com/rOpenSci/status/1026598453089001472","rOpenSci news is out https://t.co/9d21EAR9Rg (pkgs [3 new, 14 new versions], review [2 submission, 3 approved], 6 blog posts, lots of use cases) #rstats","2018-08-06 22:38 +0000","6571.0","69.0","0.010500684827271343","8.0","0.0","8.0","3.0","44.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1025541678801666048","https://twitter.com/rOpenSci/status/1025541678801666048","Find the rOpenSci team on 4 continents 
+- @DanSholler @cboettig at @ESA_org 🇺🇸
+- @StefanieButland at R/Pharma 🇺🇸
+- @sckottie at @tdwg 🇳🇿
+- @ma_salmon @JennyBryan
+at @LatinR2018 🇦🇷
+- @ma_salmon at AniMove 🇩🇪
+- @opencpu at @uRos2018 🇳🇱
+
+https://t.co/SOb036fx3N 
+
+#rstats https://t.co/XRXRPA8hRH","2018-08-04 00:39 +0000","10535.0","126.0","0.011960132890365448","16.0","0.0","22.0","37.0","12.0","0.0","14.0","0.0","0","0","0","0","0","25","25","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1024797986499391488","https://twitter.com/rOpenSci/status/1024797986499391488","2 rOpenSci projects in @rweekly_live highlights!
+
+rOpenSci Educators Collaborative: What Educational Resources Work Well and Why? https://t.co/6p3c9uTRZ8
+
+Gifski 📦: the fastest GIF encoder in the universe https://t.co/GsgvDR4S9Z
+
+https://t.co/pjxwfDdvc2
+
+#rstats #educollab https://t.co/ygmcJBGRmW","2018-08-01 23:24 +0000","5109.0","82.0","0.01605010765316109","6.0","2.0","12.0","1.0","32.0","0.0","2.0","0.0","0","0","0","0","0","580","27","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1024794918881976321","https://twitter.com/rOpenSci/status/1024794918881976321","@JDeckOregon @thattinyroom ssh 📦 by @opencpu highlighted in R Views June 2018 Top 40 New Packages 
+
+Read the Tech Note: Secure Shell (SSH) Client for R https://t.co/osU8HIGE1I
+
+https://t.co/YZoJxgDDu5
+
+4/4 #rstats","2018-08-01 23:12 +0000","3861.0","33.0","0.008547008547008548","3.0","0.0","5.0","1.0","20.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1024793998278316032","https://twitter.com/rOpenSci/status/1024793998278316032","@JDeckOregon skynet 📦by @thattinyroom highlighted in R Views June 2018 Top 40 New Packages 
+
+skynet generates networks from Bureau of Transport Statistics, DB1B and T100 data
+https://t.co/ICClFCloKi
+
+https://t.co/YZoJxgDDu5
+
+3/4 #rstats https://t.co/T94tlk1jzk","2018-08-01 23:08 +0000","4158.0","59.0","0.01418951418951419","3.0","1.0","9.0","1.0","15.0","0.0","4.0","0.0","0","0","0","0","0","26","26","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1024791985465356288","https://twitter.com/rOpenSci/status/1024791985465356288","rppo 📦by @JDeckOregon in R Views June 2018 Top 40 New Packages 
+
+allows access the Global Plant Phenology Data Portal
+https://t.co/755esImPDT
+
+https://t.co/YZoJxgDDu5
+
+2/4  #rstats","2018-08-01 23:00 +0000","1896.0","14.0","0.007383966244725738","2.0","1.0","1.0","3.0","5.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1024790279277109248","https://twitter.com/rOpenSci/status/1024790279277109248","3 rOpenSci pkgs - rppo, skynet &amp; ssh -  in @RStudioJoe's June 2018 Top 40 New Packages
+
+https://t.co/YZoJxgDDu5
+
+1/4  #rstats","2018-08-01 22:53 +0000","7055.0","94.0","0.01332388377037562","5.0","2.0","14.0","9.0","52.0","0.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1024656002807939077","https://twitter.com/rOpenSci/status/1024656002807939077","[blog] #runconf18 An (experimental) package for dimensionality reduction of large data
+
+https://t.co/ZDRiTfK8CS
+
+by @dangerpeel @CivicAngela
+@slothsonian @malisas7 @tladeras 
+
+#rstats https://t.co/z8z7Y5Sbip","2018-08-01 14:00 +0000","8747.0","245.0","0.028009603292557448","27.0","1.0","39.0","8.0","61.0","1.0","12.0","0.0","0","0","0","0","0","96","96","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"

@@ -1,0 +1,150 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1156678213902323712","https://twitter.com/rOpenSci/status/1156678213902323712","Resources from our Community Call ""Reproducible Research with R"" are posted 
+
+🔗https://t.co/W19hK2gUGG
+
+✅🎥 video
+✅👩🏻‍💻👨🏽‍💻speakers’ slides
+✅📝collaborative notes from Q &amp; A (heaps of good info) https://t.co/04r7bKvjhM","2019-07-31 21:29 +0000","6779.0","88.0","0.012981265673403157","14.0","0.0","35.0","9.0","27.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1156278632207147008","https://twitter.com/rOpenSci/status/1156278632207147008","Some folk at #JSM2019 may be interested in this career opportunity.  @JennyBryan, on our Leadership team, is at JSM and can answer your questions about rOpenSci. https://t.co/D6ssnvNr37","2019-07-30 19:01 +0000","4761.0","32.0","0.006721277042638101","4.0","0.0","11.0","1.0","0.0","1.0","15.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1155855498433839106","https://twitter.com/rOpenSci/status/1155855498433839106","ReproHacks are a series of 1-day reproducibility hackathons where participants try to reproduce papers from published code &amp; data.
+
+Hear early findings, future directions and how you can get involved from @annakrystalli in our Community Call on Reproducible Research with R https://t.co/04r7bKvjhM","2019-07-29 15:00 +0000","16884.0","118.0","0.006988865197820422","22.0","0.0","60.0","20.0","0.0","0.0","16.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1154828733779521536","https://twitter.com/rOpenSci/status/1154828733779521536","holepunch is an R package from @_inundata that takes any GitHub repo with R scripts &amp; R markdown files &amp; quickly turns it in into a free, live RStudio server where anyone can run your code!
+https://t.co/Bne6WeKLis
+
+Learn more in our Community Call on Reproducible Research with R https://t.co/04r7bKMUGm","2019-07-26 19:00 +0000","33767.0","461.0","0.013652382503627802","44.0","0.0","145.0","46.0","201.0","0.0","25.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1154768340990275589","https://twitter.com/rOpenSci/status/1154768340990275589","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/DaTRET1djQ","2019-07-26 15:00 +0000","5818.0","51.0","0.008765898934341699","8.0","0.0","17.0","4.0","20.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1154526745439199238","https://twitter.com/rOpenSci/status/1154526745439199238","""A research compendium accompanies, enhances, or is a scientific publication providing data, code, and documentation for reproducing a scientific workflow."" (from https://t.co/p6nF2UvC0D)
+
+Learn more from @benmarwick in our Community Call on Reproducible Research with R https://t.co/04r7bKMUGm","2019-07-25 23:00 +0000","4070.0","22.0","0.005405405405405406","3.0","0.0","9.0","2.0","1.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1154043811187683329","https://twitter.com/rOpenSci/status/1154043811187683329","[use case] ghql 📦 used for querying linked data to improve public services 
+
+from @traffordDataLab
+
+ghql 📦 by @sckottie for rOpenSci
+
+https://t.co/L7lINUTHrO
+
+#rstats https://t.co/N7f7YeiMkU","2019-07-24 15:01 +0000","5740.0","128.0","0.02229965156794425","8.0","0.0","19.0","7.0","28.0","0.0","11.0","0.0","0","0","0","0","0","55","55","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1154043564277555200","https://twitter.com/rOpenSci/status/1154043564277555200","[use case] Using #fingertipsR for public health data in UK local government 
+
+Code recipes for alcohol related admissions indicator &amp; rate of antidepressant prescribing, by @traffordDataLab
+
+fingertipsR📦 by Sebastian Fox
+
+https://t.co/FeMP75rJmB
+
+#rstats https://t.co/8lXEfBlK0J","2019-07-24 15:00 +0000","3668.0","37.0","0.010087241003271538","3.0","0.0","4.0","0.0","8.0","0.0","5.0","0.0","0","0","0","0","0","17","17","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1153696272651554817","https://twitter.com/rOpenSci/status/1153696272651554817","One week from today: https://t.co/04r7bKMUGm","2019-07-23 16:00 +0000","7304.0","34.0","0.004654983570646221","11.0","0.0","18.0","3.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1153385218721624065","https://twitter.com/rOpenSci/status/1153385218721624065","rOpenSci News is out https://t.co/j9IKEgFE2i #rstats #openscience 
+
+- New award to expand software review
+- Comm calls: new and old
+- Pkgs: 18 new versions 📦
+- Review: 2 approved ✅
+- Use cases: 20 articles 📖
+- Blog: rOpenSci at #user2019","2019-07-22 19:23 +0000","6051.0","74.0","0.012229383572963147","7.0","0.0","14.0","2.0","48.0","3.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1151690383065112577","https://twitter.com/rOpenSci/status/1151690383065112577","☎️Community Call: Reproducible Research with R
+
+📆Tues July 30, 9am PDT / 5pm BST
+
+- @benmarwick intro to #researchcompendia
+- @_inundata on holepunch pkg
+- @annakrystalli on #ReproHack 
+
+Details: https://t.co/NRB327gBrS
+
+#rstats https://t.co/YhyYbpyqgF","2019-07-18 03:09 +0000","19983.0","924.0","0.04623930340789671","52.0","3.0","71.0","67.0","193.0","6.0","36.0","0.0","0","0","0","0","0","496","496","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1151529655372935168","https://twitter.com/rOpenSci/status/1151529655372935168","@traffordDataLab Forgot to give credit to @ma_salmon, author of the ropenaq package!","2019-07-17 16:30 +0000","3255.0","21.0","0.0064516129032258064","0.0","1.0","3.0","3.0","0.0","0.0","14.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1151509445911777280","https://twitter.com/rOpenSci/status/1151509445911777280","[use case] #ropenaq 📦
+Retrieve and plot hourly mean NO2 concentrations from the Manchester Piccadilly monitoring station
+
+Code recipe from @traffordDataLab promoting #rstats &amp; rOpenSci packages in UK local government 
+
+https://t.co/zx6gCwcTEb https://t.co/Bvn5UCoJxX","2019-07-17 15:10 +0000","6618.0","107.0","0.016168026594137203","3.0","1.0","11.0","1.0","15.0","2.0","10.0","0.0","0","0","0","0","0","64","64","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1151506844138926081","https://twitter.com/rOpenSci/status/1151506844138926081","Follow @rocitations to see when rOpenSci packages (maybe yours!) are cited
+
+Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/abFnrcZBp0","2019-07-17 15:00 +0000","3484.0","31.0","0.008897818599311137","2.0","0.0","6.0","15.0","0.0","0.0","1.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1151183665533075457","https://twitter.com/rOpenSci/status/1151183665533075457","@LauraJaneGraham Shoutouts 🙏 in the post to reviewers @mxwlj &amp; @johnbaums, to Felix Eigenbrod for collaboration and @msciain for discussion
+
+Read the #grainchanger review thread: https://t.co/MMRye4SKFe
+
+#rstats
+2/2","2019-07-16 17:35 +0000","3976.0","27.0","0.006790744466800805","4.0","0.0","2.0","3.0","15.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1151144457586302977","https://twitter.com/rOpenSci/status/1151144457586302977","[blog] ""Aggregating spatial data with the #grainchanger package"", new post in the #SoftwarePeerReview series 
+
+📝by @LauraJaneGraham
+
+🔗https://t.co/TC5Oh3G4BA
+
+#rstats 
+1/2 https://t.co/oHtuNz8OHo","2019-07-16 15:00 +0000","7648.0","122.0","0.015951882845188285","13.0","1.0","26.0","8.0","50.0","2.0","14.0","1.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1150862470581329920","https://twitter.com/rOpenSci/status/1150862470581329920","We're hiring a Software Research Scientist
+
+Passionate about statistical methods and software? Develop standards and testing for statistical #rstats packages.
+
+https://t.co/dlWBBt308N
+
+#SoftwarePeerReview","2019-07-15 20:19 +0000","21794.0","370.0","0.016977149674222262","56.0","0.0","52.0","15.0","203.0","1.0","43.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1150859572124323840","https://twitter.com/rOpenSci/status/1150859572124323840","rOpenSci Announces $678K Award from the Sloan Foundation to Expand Software Peer Review
+
+https://t.co/OCKoln1d5U
+
+#rstats #SoftwarePeerReview","2019-07-15 20:07 +0000","35855.0","507.0","0.014140287268163436","58.0","9.0","149.0","43.0","196.0","2.0","48.0","1.0","0","0","1","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1149800601347166209","https://twitter.com/rOpenSci/status/1149800601347166209","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+-#rstats package development
+-authors, reviewers &amp; editors in #SoftwarePeerReview
+-package maintenance
+-how you can contribute
+
+https://t.co/H8YnkzHZoU
+
+Cite: https://t.co/eWaHcBeNlP https://t.co/7wBfM29dkh","2019-07-12 22:00 +0000","8272.0","160.0","0.019342359767891684","22.0","0.0","43.0","8.0","51.0","0.0","10.0","0.0","0","0","0","0","0","26","26","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1149794514845884416","https://twitter.com/rOpenSci/status/1149794514845884416","☎️Community Call: Reproducible Research with R
+
+📆Tues July 30, 9am PDT
+
+- @benmarwick intro to #researchcompendia
+- @_inundata on holepunch pkg
+- @annakrystalli on #ReproHack 
+
+Details: https://t.co/NRB327gBrS
+
+❓Ask questions: https://t.co/uYiVrlrg3C
+
+#rstats https://t.co/8QyjCWSQvP","2019-07-12 21:35 +0000","9318.0","229.0","0.024576089289547114","23.0","0.0","33.0","17.0","66.0","5.0","25.0","0.0","0","0","0","0","0","60","60","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1148345502229884928","https://twitter.com/rOpenSci/status/1148345502229884928","@UseR2019_Conf 2/2 At useR!2019? Look for @sckottie @JennyBryan @rgfitzjohn @czeildi @hfcfrick @juliesquid @fmic_ @robinlovelace
+@sinarueeger @najkoja @juliasilge @i_steves @kellrstats @chrisderv @najkoja Thierry Onkelinx","2019-07-08 21:37 +0000","5059.0","21.0","0.004151017987744613","1.0","0.0","11.0","3.0","0.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1148344648781328384","https://twitter.com/rOpenSci/status/1148344648781328384","1/2 LOTS of friendly @rOpenSci team members, package authors, maintainers and reviewers at @UseR2019_Conf
+
+Say hello 👋🏼 
+
+We've listed their talks: https://t.co/e4sSdEGgYN
+
+#rstats #useR2019 https://t.co/iM5BH6Qvfl","2019-07-08 21:34 +0000","21666.0","467.0","0.02155450936951906","12.0","2.0","48.0","29.0","117.0","3.0","16.0","0.0","0","0","0","0","0","240","240","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1147163228058742784","https://twitter.com/rOpenSci/status/1147163228058742784","@birderboone Matt Boone @birderboone is an author of the refnet 📦, with @RallidaeRule @forreststevens
+@BrunaLab
+
+#refnet is under #SoftwarePeerReview with rOpenSci
+https://t.co/9u66q8q0qv","2019-07-05 15:20 +0000","3745.0","26.0","0.006942590120160214","1.0","0.0","6.0","3.0","12.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1146433416323162112","https://twitter.com/rOpenSci/status/1146433416323162112","[use case] Using #bomrang 📦to correlate weather conditions to sorghum stalk rot (charcoal rot)
+
+Code gist &amp; article by @adamhsparks, @DanteAdorada @AusCropDiseases available at  https://t.co/clnyRW0O05
+
+#rstats https://t.co/MaZBTFBuQA","2019-07-03 15:00 +0000","4088.0","43.0","0.010518590998043052","3.0","0.0","9.0","2.0","11.0","0.0","7.0","0.0","0","0","0","0","0","11","11","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1146221944385093632","https://twitter.com/rOpenSci/status/1146221944385093632","Thank you to our speakers @BrunaLab @raynamharris and moderator @melvidoni for your thoughtful presentations and rich discussion!","2019-07-03 00:59 +0000","3850.0","11.0","0.002857142857142857","0.0","0.0","5.0","5.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1146221558072897536","https://twitter.com/rOpenSci/status/1146221558072897536","Resources from our ""Involving Multilingual Communities"" Community Call are posted 🔗https://t.co/QPz3knvmdc
+
+✅🎥 video
+✅👩🏻‍💻👨🏽‍💻speakers’ slides
+✅📝collaborative notes from Q &amp; A
+
+After watching the video, add your thoughts to the discussion: https://t.co/oBgEtfF22y https://t.co/APsNjLIltE","2019-07-03 00:58 +0000","10729.0","69.0","0.006431167862801753","10.0","1.0","14.0","3.0","27.0","0.0","14.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"

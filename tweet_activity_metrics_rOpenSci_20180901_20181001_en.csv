@@ -1,0 +1,260 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1045794752958853120","https://twitter.com/rOpenSci/status/1045794752958853120","Save the date!🗓
+Community Call Tues, Oct 16, 2018, 9-10AM Pacific. All are welcome.
+
+Topic: Code review in the lab...or...How do you review code that accompanies a research project or paper? 
+
+Details to come soon!
+
+Find your timezone: https://t.co/Pzuh5gJvJ2 https://t.co/0w2oX00AIl","2018-09-28 21:57 +0000","7767.0","58.0","0.0074674906656366676","13.0","0.0","13.0","5.0","5.0","0.0","22.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1045395545940869120","https://twitter.com/rOpenSci/status/1045395545940869120","@RStudioJoe @cboettig @GregFinak You can read the open software review threads for any of our onboarded packages
+
+- {DataPackageR} https://t.co/NOyt3xkpQj
+
+- {arkdb} https://t.co/hAHXEktudQ
+
+And a really good blog post on {DataPackageR}: https://t.co/01uz8MDjSb
+
+#rstats","2018-09-27 19:31 +0000","3110.0","41.0","0.013183279742765274","5.0","0.0","3.0","1.0","25.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1045391579312152576","https://twitter.com/rOpenSci/status/1045391579312152576","2 rOpenSci 📦's are in @RStudioJoe's Aug 2018 Top 40 New Packages 🎉
+
+- {arkdb} by @cboettig for archiving &amp; unarchiving databases as flat text files
+
+- {DataPackageR} by @GregFinak for reproducible data processing, packaging &amp; sharing
+
+https://t.co/lUBrMhvy77 
+
+#rstats","2018-09-27 19:15 +0000","7022.0","103.0","0.01466818570207918","6.0","1.0","8.0","9.0","73.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044708122265350145","https://twitter.com/rOpenSci/status/1044708122265350145","Help us build capacity of open source software users &amp; developers with @hacktoberfest
+
+Create an issue label in your repository named hacktoberfest, like these https://t.co/rZFTig49IL to help potential contributors find your issues! https://t.co/FvQ7n65WKO","2018-09-25 22:00 +0000","12790.0","129.0","0.010086004691164973","24.0","0.0","31.0","22.0","20.0","0.0","21.0","0.0","0","0","1","0","0","10","10","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044633837546876929","https://twitter.com/rOpenSci/status/1044633837546876929","@mxwlj @NASASMAP @NOAA @DeCiccoDonk @msciain If you’re psyched on global soil moisture and want to contribute to smapr, @mxwlj says there's room to develop support for more level 2 NASA data products (and explains what those are) under “Want to contribute?” in https://t.co/wyJDw8PSja
+
+cc #NASADatanauts ?","2018-09-25 17:04 +0000","2395.0","23.0","0.009603340292275574","0.0","0.0","1.0","2.0","7.0","1.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044633496587710464","https://twitter.com/rOpenSci/status/1044633496587710464","@mxwlj @NASASMAP @NOAA .@mxwlj gives shoutouts to reviewers @DeCiccoDonk &amp; @msciain
+
+Read the open review: https://t.co/2HpaTgoBIT","2018-09-25 17:03 +0000","2730.0","29.0","0.010622710622710623","1.0","1.0","4.0","1.0","17.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044633365914079233","https://twitter.com/rOpenSci/status/1044633365914079233","@mxwlj In the post, @mxwlj uses soil moisture data from @NASASMAP &amp; precipitation data from @NOAA’s Climate Prediction Center. Having both smapr and rnoaa in the rOpenSci 📦ecosystem increases the accessibility of this kind of analysis","2018-09-25 17:02 +0000","1214.0","9.0","0.007413509060955519","0.0","1.0","3.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044632574067302400","https://twitter.com/rOpenSci/status/1044632574067302400","[blog] ""Mapping the 2018 East Africa floods from space with smapr""
+
+New post by Max Joseph @mxwlj in our onboarded software series 
+
+https://t.co/wyJDw8PSja
+
+#rstats
+
+gif: evolution of soil moisture and precipitation in Somalia and Kenya 2015-2018 https://t.co/vqpqAS1anV","2018-09-25 16:59 +0000","17340.0","416.0","0.023990772779700114","43.0","3.0","81.0","27.0","89.0","1.0","37.0","1.0","0","0","2","0","0","2079","132","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044345735750148096","https://twitter.com/rOpenSci/status/1044345735750148096","Thanks to @nj_tierney for talking about rOpenSci at #uqopenscience. Judging by the tweets you represented us well 😀","2018-09-24 22:00 +0000","5377.0","26.0","0.004835410079970244","2.0","1.0","12.0","3.0","0.0","6.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044306877125865472","https://twitter.com/rOpenSci/status/1044306877125865472","@PaulHBrittain @MilesMcBain oops - should have checked your profile to see that you're a software engineer
+
+We’d appreciate your perspective with more complex software, for example. 
+
+If you're interested, here is the volunteer review form: https://t.co/AuDPrWW2p0","2018-09-24 19:25 +0000","119.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044279193909915648","https://twitter.com/rOpenSci/status/1044279193909915648","@PaulHBrittain @JorisMeys @kevpluck @simon_sat @MilesMcBain A few blog posts help explain. This one gives big picture: https://t.co/RYxI20hhIz 
+
+These give perspectives of reviewers, including 1st-timers https://t.co/uEajVx6nTd","2018-09-24 17:35 +0000","182.0","9.0","0.04945054945054945","0.0","1.0","2.0","0.0","2.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044278813390102530","https://twitter.com/rOpenSci/status/1044278813390102530","@PaulHBrittain @JorisMeys @kevpluck @simon_sat Reviewers can be users or developers, not necessarily software engineers but they're impt &amp; welcome too. 
+
+@MilesMcBain says ""As a useR, you are qualified as a potential package reviewer if you have some appreciation for what makes your favourite packages useful""","2018-09-24 17:34 +0000","183.0","7.0","0.03825136612021858","0.0","1.0","3.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044267935689138177","https://twitter.com/rOpenSci/status/1044267935689138177","@noamross @ma_salmon @NumFOCUS Maëlle &amp; Noam are long-time volunteer contributors to rOpenSci and are Editors for software review and onboarding. 
+
+@noamross is Senior Research Scientist for @EcoHealthNYC 
+ &amp; @ma_salmon now works for us as a Research Software Engineer
+
+Thank you both!","2018-09-24 16:50 +0000","3650.0","45.0","0.012328767123287671","3.0","1.0","15.0","9.0","0.0","0.0","17.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044266383683411968","https://twitter.com/rOpenSci/status/1044266383683411968","Congratulations and our deepest appreciation to @noamross and @ma_salmon who were recognized at the inaugural @NumFOCUS Awards Dinner as outstanding contributors to the rOpenSci project! https://t.co/5ZjAh0GqzW","2018-09-24 16:44 +0000","43565.0","725.0","0.01664179960977849","35.0","15.0","202.0","124.0","11.0","0.0","111.0","0.0","0","0","0","0","0","227","227","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1044261683525378048","https://twitter.com/rOpenSci/status/1044261683525378048","@JorisMeys @kevpluck @PaulHBrittain @simon_sat Check out discussion on this topic: https://t.co/hnzuD771Lu
+
+We'll have an open Community Call on this in October - arranging presenters now","2018-09-24 16:26 +0000","171.0","9.0","0.05263157894736842","0.0","1.0","2.0","0.0","5.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1043252979971719169","https://twitter.com/rOpenSci/status/1043252979971719169","[blog] Chat with the rOpenSci team at upcoming meetings
+
+https://t.co/krFDb8qhLP
+
+#rstats https://t.co/5ylzub7Rr0","2018-09-21 21:37 +0000","5285.0","93.0","0.017596972563859982","5.0","0.0","11.0","3.0","14.0","0.0","0.0","0.0","0","0","0","0","0","60","60","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1043196532235821056","https://twitter.com/rOpenSci/status/1043196532235821056","@OLeaCiencia @JuliaGustavsen Lot's of ways to learn more about rOpenSci or contribute as a user or developer https://t.co/728SOCUq8c
+
+or dig into our guide on Development, Maintenance, and Peer Review of packages: https://t.co/Esckst4uzj","2018-09-21 17:53 +0000","97.0","2.0","0.020618556701030927","0.0","0.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1043195573338234881","https://twitter.com/rOpenSci/status/1043195573338234881","@ahacker @JuliaGustavsen Lot's of ways to learn more or get involved as a user or developer: https://t.co/728SOCUq8c","2018-09-21 17:49 +0000","536.0","5.0","0.009328358208955223","1.0","0.0","1.0","1.0","2.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1043195021401317376","https://twitter.com/rOpenSci/status/1043195021401317376","@JuliaGustavsen Thank you for representing us Julia!","2018-09-21 17:47 +0000","510.0","3.0","0.0058823529411764705","0.0","1.0","1.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1042825056148119552","https://twitter.com/rOpenSci/status/1042825056148119552","Nice use case of DataPackageR 📦 in data journalism by @vizowl, Data Editor of @nzherald 
+
+cc @GregFinak https://t.co/qOLuv1FL8N","2018-09-20 17:17 +0000","5907.0","32.0","0.005417301506686982","4.0","0.0","10.0","9.0","0.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1042171406954450944","https://twitter.com/rOpenSci/status/1042171406954450944","One of our community members @TheAtavism is a finalist in the science category of the New Zealand Open Source Awards https://t.co/OSrfFT0TGC, in part due to his software contributions (rentrez, rotl) and involvement in rOpenSci software reviews 🎉
+
+Good luck David!","2018-09-18 22:00 +0000","4250.0","22.0","0.0051764705882352945","2.0","0.0","5.0","5.0","2.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1042081979326377984","https://twitter.com/rOpenSci/status/1042081979326377984","@GregFinak .@GregFinak gives shoutouts to reviewers @kara_woo &amp; @wmlandau for ""comprehensive &amp; careful code review, suggestions for features, documentation, &amp; improvements in coding style &amp; unit tests, that ultimately made the software better""
+
+Read the open review: https://t.co/NOyt3xkpQj https://t.co/KWCX5cQzgT","2018-09-18 16:04 +0000","3766.0","51.0","0.013542219861922463","3.0","0.0","5.0","3.0","11.0","0.0","4.0","0.0","0","0","0","0","0","25","25","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1042079540971888640","https://twitter.com/rOpenSci/status/1042079540971888640","[blog] ""Building Reproducible Data Packages with DataPackageR""
+
+New post by @GregFinak in our onboarded software series 
+
+https://t.co/01uz8MDjSb 
+
+#rstats https://t.co/FZVL7DmQTv","2018-09-18 15:54 +0000","12348.0","319.0","0.025834143181081955","32.0","3.0","57.0","6.0","70.0","0.0","19.0","0.0","0","0","0","0","0","132","132","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1041810069308854272","https://twitter.com/rOpenSci/status/1041810069308854272","rOpenSci news is out https://t.co/NQ1zQS7iD7 (OzUnconf!, hacktoberfest, pkgs [11 new versions], review [2 approved], 6 new blog posts, lots of use cases!) #rstats","2018-09-17 22:04 +0000","6030.0","57.0","0.00945273631840796","8.0","0.0","8.0","4.0","29.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1040722106240131073","https://twitter.com/rOpenSci/status/1040722106240131073","Follow @rocitations to see when rOpenSci packages (maybe yours!) are cited
+
+Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/c21ySQxFTI","2018-09-14 22:01 +0000","5685.0","137.0","0.024098504837291118","4.0","1.0","6.0","46.0","4.0","0.0","9.0","0.0","0","0","1","0","0","66","66","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1040721854128943104","https://twitter.com/rOpenSci/status/1040721854128943104","3rd annual @rOpenSci ozunconf happening in Melbourne, Nov 22-23, 2018
+
+Want to come along?  It only takes a few minutes to apply! Deadline Oct 12. https://t.co/eygxF0v68R
+
+Read about some of last year's projects: https://t.co/AAgsd3sZ5O
+
+#rstats #ozunconf18 https://t.co/uqmqzG318o","2018-09-14 22:00 +0000","17779.0","149.0","0.008380673828674278","16.0","0.0","19.0","21.0","37.0","0.0","15.0","0.0","0","0","0","0","0","41","41","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1040645731420258304","https://twitter.com/rOpenSci/status/1040645731420258304","Slides from our software engineer/postdoc @opencpu's talk at #uRos2018 
+
+""The R Infrastructure. How we build stuff""
+
+https://t.co/ixUKCW97As
+
+#rstats https://t.co/eH1lGHVF13","2018-09-14 16:57 +0000","5281.0","56.0","0.01060405226282901","4.0","0.0","14.0","2.0","24.0","2.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1040266083180208128","https://twitter.com/rOpenSci/status/1040266083180208128","How does *your* group do #rstats analytical code review? 
+
+This public discussion forum thread now has 29 comments: https://t.co/hnzuD7oDa4
+
+Help us plan our next Community Call by chiming in. https://t.co/0w2oX0ic6V","2018-09-13 15:48 +0000","7365.0","56.0","0.007603530210454854","8.0","0.0","13.0","3.0","17.0","0.0","7.0","0.0","0","0","0","0","0","8","8","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1039557762399621120","https://twitter.com/rOpenSci/status/1039557762399621120","Nuanced discussion of data license visibility developing now in our discussion forum: 
+
+https://t.co/6tXqaU0uNh","2018-09-11 16:54 +0000","5742.0","36.0","0.006269592476489028","8.0","0.0","5.0","2.0","15.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1039541708873031680","https://twitter.com/rOpenSci/status/1039541708873031680","@ma_salmon @bikesRdata @Team_eBird @sebpardo @StrimasMackey ICYMI, post 4/5 ""What are these birds? Complement occurrence data with taxonomy and traits information""
+
+Feat. our #rstats 📦s
+
+{taxize}, taxonomic toolbelt for R
+
+{traits}, access to species traits data
+
+https://t.co/Y2tIhiEsP7 by @ma_salmon 
+
+Gif: local species taxonomic tree https://t.co/CShyPfdv5z","2018-09-11 15:50 +0000","2938.0","21.0","0.007147719537100068","3.0","0.0","0.0","2.0","3.0","0.0","7.0","0.0","0","0","0","0","0","151","6","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1039540978414047232","https://twitter.com/rOpenSci/status/1039540978414047232","@ma_salmon @bikesRdata @Team_eBird @sebpardo @StrimasMackey ICYMI, post 3/5 ""What's this bird? Classify old natural history drawings with R""
+
+Showcasing our #rstats 📦 s
+
+{magick} for 🖼 manipulation
+
+{tesseract} for OCR
+
+{cld2}&amp;{cld3} for language detection
+
+{taxize} for taxonomic name resolution
+
+https://t.co/BiQMS7ubAQ by @ma_salmon https://t.co/9Ei8lL08kK","2018-09-11 15:47 +0000","3234.0","39.0","0.012059369202226345","1.0","1.0","3.0","0.0","4.0","1.0","7.0","0.0","0","0","0","0","0","22","22","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1039540194796396544","https://twitter.com/rOpenSci/status/1039540194796396544","@ma_salmon @bikesRdata ICYMI, 2/5 post of the series: What birds are observed near Radolfzell? Bird occurrence data in #rstats 📊 🐦
+
+Using &amp;comparing our 2 📦 s accessing @Team_eBird's data
+
+{rebird} by @sebpardo
+
+{auk} by @StrimasMackey
+
+https://t.co/lGA4jXIVDf by @ma_salmon https://t.co/5GyGp0hSMr","2018-09-11 15:44 +0000","1839.0","20.0","0.010875475802066341","1.0","1.0","0.0","0.0","1.0","0.0","9.0","0.0","0","0","0","0","0","8","8","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1039539938759401474","https://twitter.com/rOpenSci/status/1039539938759401474","@ma_salmon ICYMI, 1/5 post of the birder series: Where to go observe birds in Radolfzell? 🗺 An answer with #rstats and open data 🐦
+
+https://t.co/dVMb0ZPlBD
+
+By @ma_salmon and @bikesRdata https://t.co/lvr3JzuIOl","2018-09-11 15:43 +0000","1592.0","12.0","0.007537688442211055","1.0","1.0","0.0","0.0","1.0","0.0","6.0","0.0","0","0","0","0","0","3","3","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1039539478069559297","https://twitter.com/rOpenSci/status/1039539478069559297","@DataONEorg @ma_salmon [blog] This post is the 5/5 of our #rstats series ""The birder's guide to rOpenSci""! 🐣 🗺
+
+In the last weeks, research software engineer @ma_salmon explored our packages suite 🔨 🔧 with use cases involving birds! 🐦
+
+https://t.co/tKN0H97Rwz
+
+📸 by J-Cl Salmon https://t.co/MlFG0IdW02","2018-09-11 15:41 +0000","2107.0","15.0","0.007119126720455624","2.0","1.0","2.0","0.0","2.0","0.0","6.0","0.0","0","0","0","0","0","2","2","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1039539142206533632","https://twitter.com/rOpenSci/status/1039539142206533632","[blog] ""What have these birds been studied for? Querying science outputs with R""
+
+Featuring these #rstats 📦 s
+
+🔍 @rOpenSci's {fulltext} for querying the scientific literature
+
+🔍 @DataONEorg's {dataone} for querying DataONE's metadata
+
+https://t.co/a3zGhOPJwC by @ma_salmon https://t.co/bt1UBpIHo9","2018-09-11 15:40 +0000","7825.0","89.0","0.011373801916932907","9.0","2.0","17.0","8.0","10.0","0.0","30.0","0.0","0","0","0","0","0","13","13","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1039181326958522370","https://twitter.com/rOpenSci/status/1039181326958522370","[technote] All the Badges One Can Earn: Parsing Badges of CRAN Packages READMEs 🏷
+
+Feat.
+
+our {codemetar} 📦 by @cboettig
+
+GitHub READMEs of more than 3,000 CRAN packages
+
+#rstats 🗒 by @ma_salmon
+
+https://t.co/AGqh6zZG6X https://t.co/uMGONzOATG","2018-09-10 15:58 +0000","8244.0","148.0","0.017952450266860747","15.0","1.0","22.0","5.0","16.0","2.0","13.0","0.0","0","0","0","0","0","74","74","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037730929370783745","https://twitter.com/rOpenSci/status/1037730929370783745","Seeking your input!
+
+How do you review code that accompanies a research project or manuscript? 
+
+Help @rOpenSci plan a Community Call by commenting: https://t.co/A2iLpNH8B5
+
+#rstats https://t.co/EetK4Kdomm","2018-09-06 15:55 +0000","30602.0","499.0","0.016306123782759297","38.0","14.0","43.0","41.0","108.0","0.0","66.0","0.0","0","0","0","0","0","189","189","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037701968574275585","https://twitter.com/rOpenSci/status/1037701968574275585","Meet the rOpenSci team around the world
+- @JennyBryan
+at @LatinR2018 🇦🇷
+- @jent103 (rep'ing rOpenSci) at @r_medicine 🇺🇸
+- @ma_salmon at AniMove 🇩🇪
+- @opencpu at @uRos2018 🇳🇱
+- @_inundata at @NumFOCUS Project Forum 🇺🇸
+
+Details: https://t.co/SOb036x8sn
+
+#rstats https://t.co/YranHhHEK1","2018-09-06 14:00 +0000","9029.0","97.0","0.010743160925905416","13.0","0.0","26.0","15.0","14.0","1.0","15.0","0.0","0","0","0","0","0","13","13","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037377983214833664","https://twitter.com/rOpenSci/status/1037377983214833664","Check out additional suggestions on extracting from Markdown files from @RLesur &amp; @noamross on our discussion forum: https://t.co/cEQN95zJ0U https://t.co/NJA8BorwfN","2018-09-05 16:32 +0000","2781.0","10.0","0.003595828838547285","0.0","0.0","3.0","1.0","3.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037376431666343937","https://twitter.com/rOpenSci/status/1037376431666343937","[technote] In praise of Commonmark: wrangle (R)Markdown files without regex 💖
+
+Extract&amp;parse URLs/code/text from (R)md files with
+
+🙆 {commonmark} + {xml2}
+🙅 very little regex
+🙆 {urltools}, base::parse, {tidytext}
+
+#rstats 🗒 by @ma_salmon
+
+https://t.co/Wu4ywbsJSi https://t.co/9v5YbKk16V","2018-09-05 16:26 +0000","8791.0","212.0","0.02411557274485269","11.0","1.0","13.0","5.0","44.0","1.0","26.0","0.0","0","0","0","0","0","111","111","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037373488418308096","https://twitter.com/rOpenSci/status/1037373488418308096","Thank you to @LatinR2018 for the invitation to talk about @rOpenSci, to @ma_salmon for presenting remotely, and to @_lacion_ @JennyBryan &amp; @mauro_lepore for taking questions &amp; @pacocuak for taking notes of questions. Fantastic team effort. https://t.co/FFyRfVbSqx","2018-09-05 16:14 +0000","13482.0","51.0","0.0037828215398308857","6.0","1.0","14.0","18.0","0.0","0.0","11.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037002312168787968","https://twitter.com/rOpenSci/status/1037002312168787968","@ma_salmon @bikesRdata @Team_eBird @sebpardo @StrimasMackey ICYMI, 3/5 post of the series ""What's this bird? Classify old natural history drawings with R""
+
+With #rstats 📦s
+
+{magick} for 🖼 manipulation
+
+{tesseract} for OCR
+
+{cld2}&amp;{cld3} for language detection
+
+{taxize} for taxonomic name resolution
+
+https://t.co/BiQMS7ubAQ by @ma_salmon https://t.co/sojxhXiCpR","2018-09-04 15:39 +0000","4095.0","73.0","0.017826617826617826","6.0","0.0","9.0","1.0","7.0","0.0","8.0","0.0","0","0","0","0","0","42","42","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037001283331219456","https://twitter.com/rOpenSci/status/1037001283331219456","@ma_salmon @bikesRdata ICYMI, 2/5 post of the series: What birds are observed near Radolfzell? Bird occurrence data in #rstats 📊 🐦
+
+Using &amp;comparing our 2 📦 s accessing @Team_eBird's data
+
+{rebird} by @sebpardo
+
+{auk} by @StrimasMackey
+
+https://t.co/lGA4jXIVDf by @ma_salmon https://t.co/EckUSfBlRI","2018-09-04 15:35 +0000","2860.0","19.0","0.006643356643356644","2.0","1.0","0.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","13","13","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037001044792815617","https://twitter.com/rOpenSci/status/1037001044792815617","@ma_salmon ICYMI, 1/5 post of the birder series: Where to go observe birds in Radolfzell? 🗺 An answer with #rstats and open data 🐦
+
+https://t.co/dVMb0ZPlBD
+
+By @ma_salmon and @bikesRdata https://t.co/ppOI7qrtwZ","2018-09-04 15:34 +0000","1563.0","11.0","0.007037747920665387","3.0","1.0","0.0","0.0","1.0","0.0","5.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037000745327853568","https://twitter.com/rOpenSci/status/1037000745327853568","@ma_salmon [blog] This post is the 4/5 of our #rstats series ""The birder's guide to rOpenSci""! 🐣 🗺
+
+Over the next weeks, research software engineer @ma_salmon is exploring our packages suite 🔨 🔧 with use cases involving birds! 🐦
+
+https://t.co/tKN0H97Rwz
+
+📸 by J-Cl Salmon https://t.co/Vjx8idmBPu","2018-09-04 15:33 +0000","1698.0","11.0","0.006478209658421673","3.0","1.0","1.0","0.0","1.0","0.0","4.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1037000365105799168","https://twitter.com/rOpenSci/status/1037000365105799168","[blog] ""What are these birds? Complement occurrence data with taxonomy and traits information""
+
+Feat. our #rstats 📦 s
+
+{taxize}, taxonomic toolbelt for R
+{traits}, access to species traits data
+
+https://t.co/Y2tIhiEsP7 by @ma_salmon 
+
+Annotated taxonomic tree of local species: https://t.co/6gjYhO3ZpI","2018-09-04 15:32 +0000","8592.0","114.0","0.013268156424581005","12.0","1.0","25.0","4.0","13.0","0.0","15.0","0.0","0","0","0","0","0","780","44","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
