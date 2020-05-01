@@ -1,0 +1,207 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1255876174317711361","https://twitter.com/rOpenSci/status/1255876174317711361","@ma_salmon Check it out!
+
+https://t.co/9yG4Gqyxlx","2020-04-30 15:06 +0000","2246.0","30.0","0.013357079252003561","0.0","0.0","5.0","1.0","24.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1255874552732831745","https://twitter.com/rOpenSci/status/1255874552732831745","[technote] Highlights of Hugo Code Highlighting
+
+@ma_salmon shares insights about Hugo code highlighting on rOpenSci website and beyond.
+
+- Make your code look pretty 💅 🎨
+- Emphasize parts of your code 🔦 (with or without R Markdown)
+
+#gohugo #rstats #rmarkdown #blogdown","2020-04-30 15:00 +0000","5641.0","78.0","0.013827335578798085","3.0","1.0","13.0","4.0","0.0","2.0","55.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1255512166305857540","https://twitter.com/rOpenSci/status/1255512166305857540","[use case] Using taxadb to query taxonomic information in ecology projects, by @gavinprm
+
+https://t.co/mb81PUqyS1
+
+Blog post showing how to verify taxonomic information
+
+taxadb by @cboettig and @norman_kari
+
+#rstats #taxadb","2020-04-29 15:00 +0000","3906.0","37.0","0.009472606246799796","4.0","0.0","10.0","4.0","10.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1255189441833914368","https://twitter.com/rOpenSci/status/1255189441833914368","Are you using an rOpenSci package to analyze or combat the COVID-19 pandemic?
+https://t.co/eIdnCrBs76
+
+Tell us what pkg you're using and what for. Our friends at @NumFOCUS are collecting examples for a post
+
+Deadline = ~midnight tonight","2020-04-28 17:37 +0000","4691.0","67.0","0.014282668940524408","4.0","1.0","5.0","3.0","21.0","0.0","33.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1254897553407008768","https://twitter.com/rOpenSci/status/1254897553407008768","rOpenSci News is out https://t.co/HSmgPeWFVo #rstats #openscience
+
+- Pkgs: 13 new versions 
+- Papers: 20 articles
+- Blog: 5 posts (Dev Guide new version; @StefanieButland 2 months/2 minutes; @_MKLau_ pkg Rclean; @StrimasMackey pkg auk; @ma_salmon RMarkdown/Hugo)
+- &amp; more","2020-04-27 22:17 +0000","5247.0","64.0","0.01219744615971031","5.0","0.0","7.0","3.0","40.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1253704691852046336","https://twitter.com/rOpenSci/status/1253704691852046336","@RStudioJoe @OSFramework @aaronwolen @cboettig @norman_kari taxadb: https://t.co/10ApWkNxfn","2020-04-24 15:17 +0000","2576.0","14.0","0.005434782608695652","1.0","0.0","1.0","0.0","11.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1253703997111693315","https://twitter.com/rOpenSci/status/1253703997111693315","rOpenSci peer reviewed package in @rweekly_org highlights!
+
+parzer parses messy geographic coordinates
+by @sckottie for rOpenSci
+https://t.co/4n5mYFjAAl
+
+https://t.co/5Z8m1JkIz1
+
+#rstats #SoftwarePeerReview","2020-04-24 15:15 +0000","4372.0","60.0","0.013723696248856358","4.0","0.0","10.0","4.0","37.0","1.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1253702738761986048","https://twitter.com/rOpenSci/status/1253702738761986048","rOpenSci peer reviewed package in @rweekly_org highlights!
+
+#baRcodeR generates labels for more repeatable workflows with biological samples
+by Yihan Wu (https://t.co/JqeOHVFoas)
+https://t.co/sm0VohCu8G
+
+https://t.co/nBx0iAMJP9
+
+#rstats #SoftwarePeerReview","2020-04-24 15:10 +0000","5057.0","68.0","0.013446707534111133","5.0","0.0","10.0","7.0","40.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1253701480919400450","https://twitter.com/rOpenSci/status/1253701480919400450","rOpenSci peer reviewed package in January 2020 Top 40 New Packages by @RStudioJoe
+
+babette connects with the BEAST2 Bayesian phylogenetic tool
+by Richèl J.C. Bilderbeek (https://t.co/hnqeaOdIzy)
+https://t.co/R8f0tc8oAi
+
+RViews: https://t.co/xWCP7mktcf
+
+#rstats #SoftwarePeerReview","2020-04-24 15:05 +0000","3430.0","39.0","0.011370262390670554","2.0","0.0","4.0","5.0","22.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1253700225685811201","https://twitter.com/rOpenSci/status/1253700225685811201","2 rOpenSci #SoftwarePeerReview pkgs in Feb 2020 Top 40 New Packages by @RStudioJoe
+
+#osfr connects to @OSFramework
+by @aaronwolen
+https://t.co/fk15Vge1Sm
+
+#taxadb accesses taxonomic data
+by @cboettig &amp; @norman_kari
+https://t.co/fk15Vge1Sm
+
+https://t.co/XOhTM2M4MC
+
+#rstats","2020-04-24 15:00 +0000","3962.0","63.0","0.015901060070671377","3.0","1.0","7.0","3.0","31.0","1.0","17.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1253337834624147458","https://twitter.com/rOpenSci/status/1253337834624147458","[technote] Miscellaneous Wisdom about R Markdown &amp; Hugo Gained from Work on our Website
+
+@ma_salmon shares experiences gained through working on the rOpenSci website
+
+https://t.co/ACKEnl4kX2
+
+#hugo #blogdown #rmarkdown #knitr","2020-04-23 15:00 +0000","7148.0","107.0","0.014969222160044768","6.0","1.0","12.0","2.0","40.0","1.0","45.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1253056198380666880","https://twitter.com/rOpenSci/status/1253056198380666880","⚠️ rOpenSci is pausing new submissions for software peer review in the interest of reducing load on reviewers and editors as we all manage the COVID-19 crisis. 
+
+Stay healthy and take care of one other
+
+Details: https://t.co/DTdHs0BD3T","2020-04-22 20:20 +0000","5460.0","36.0","0.006593406593406593","4.0","0.0","16.0","3.0","6.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1252976704940695560","https://twitter.com/rOpenSci/status/1252976704940695560","[use case] Animated generative art with {magick} by @analythium
+
+Inspired by @djnavarro's ashtree function
+
+https://t.co/MWi260p2cm
+
+with link to code
+
+magick by @opencpu
+
+#rstats #magick
+
+https://t.co/fvK9u2vbDu","2020-04-22 15:05 +0000","4449.0","26.0","0.005844009889862891","5.0","0.0","10.0","0.0","8.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1252975447715057665","https://twitter.com/rOpenSci/status/1252975447715057665","[use case] Use of crul’s retry sub-routine in an API package, by @ma_salmon
+
+https://t.co/cVf2MyZ3Ur
+
+with examples and blog post
+
+crul by @sckottie
+
+#rstats #crul","2020-04-22 15:00 +0000","3934.0","32.0","0.00813421453990849","2.0","0.0","10.0","1.0","14.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1252613882511650816","https://twitter.com/rOpenSci/status/1252613882511650816","@_MKLau_ Shoutouts 🙏 in the post to editor @annakrystalli and reviewers @wmlandau &amp; @nevromeCS
+
+🔎Read the RClean open software peer review thread: https://t.co/oK949tBI5u  
+
+2/2","2020-04-21 15:03 +0000","3151.0","76.0","0.02411932719771501","1.0","0.0","9.0","4.0","58.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1252613062332256256","https://twitter.com/rOpenSci/status/1252613062332256256","[blog] Automatic Code Cleaning in R with Rclean
+
+A new post by @_MKLau_ in our Software Peer Review series
+
+https://t.co/BcI0MWnwLY
+
+1/2 
+
+#rstats #SoftwarePeerReview #Rclean https://t.co/O3Zkuuh4rY","2020-04-21 15:00 +0000","10617.0","492.0","0.04634077423000848","21.0","1.0","53.0","10.0","134.0","3.0","151.0","0.0","0","0","0","0","0","119","119","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1251167954667896833","https://twitter.com/rOpenSci/status/1251167954667896833","[blog] 2 Months in 2 Minutes - rOpenSci News, April 2020
+
+Semi-monthly summary of rOpenSci Newsletter
+
+https://t.co/t2IBH2wH9W
+
+#rstats","2020-04-17 15:17 +0000","4199.0","31.0","0.007382710169087878","2.0","0.0","4.0","0.0","22.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1250801121771294720","https://twitter.com/rOpenSci/status/1250801121771294720","[technotes] Birding from home these days? 
+
+@StrimasMackey of @CornellBirds uses his peer-reviewed auk package together with dplyr and sf to subset bird observations within a polygon
+
+Extracting eBird Data from a Polygon
+
+https://t.co/w9xoztpeBX
+
+#rstats @team_ebirddata","2020-04-16 15:00 +0000","6667.0","66.0","0.009899505024748763","9.0","0.0","16.0","3.0","30.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1250438736858320898","https://twitter.com/rOpenSci/status/1250438736858320898","[use case] {Magick}ally Visualize Historical Google Maps Traffic Data, by @eolamijuwon
+
+https://t.co/RVFSeVLn9k
+
+Tutorial blog post
+
+magick by @opencpu
+
+#rstats #magick https://t.co/TFpNrogQ9c","2020-04-15 15:00 +0000","6801.0","167.0","0.024555212468754594","5.0","0.0","26.0","12.0","29.0","0.0","23.0","0.0","0","0","0","0","0","736","72","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1250076345494671360","https://twitter.com/rOpenSci/status/1250076345494671360","[blog] We've updated our #rstats book (v0.4) - rOpenSci Packages: Development, Maintenance, and Peer Review! 🎉
+
+Highlights:
+
+New ethics guidance
+
+New security guidance
+
+Read more: https://t.co/roegfSmR1c https://t.co/9GPHgnlqMi","2020-04-14 15:00 +0000","6532.0","50.0","0.0076546233925290875","6.0","0.0","10.0","1.0","15.0","1.0","5.0","0.0","0","0","0","0","0","12","12","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1249789861952761864","https://twitter.com/rOpenSci/status/1249789861952761864","rOpenSci News is out https://t.co/TGAMXqPIC2 #rstats #openscience
+
+- Pkgs: 16 new versions 
+- Papers: 21 articles
+- Blog: 1 post (Blog Guide lessons learned)
+- Software review: paused for now 
+- &amp;&amp; more","2020-04-13 20:01 +0000","9222.0","112.0","0.012144870960746042","9.0","0.0","12.0","8.0","60.0","3.0","20.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1248333316442304512","https://twitter.com/rOpenSci/status/1248333316442304512","Congratulations to @cboettig, rOpenSci co-founder &amp; leadership team member!
+
+Carl elected ESA 2020 Early Career Fellow ""for his emerging leadership in the role of stochastic dynamics in both population ecology and open science"" https://t.co/tJn3AeLpCS","2020-04-09 19:33 +0000","12599.0","75.0","0.005952853401063577","9.0","0.0","26.0","14.0","0.0","0.0","26.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1247902016136974336","https://twitter.com/rOpenSci/status/1247902016136974336","Have any cool examples using rOpenSci packages? We’d love to see them!
+
+Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier &amp; we’ll tweet to promote them! 
+
+https://t.co/4xTdg1iv3K
+
+https://t.co/l5mVWyBljW 
+
+#rstats https://t.co/Rs0HXwgsqO","2020-04-08 15:00 +0000","5909.0","60.0","0.01015400236926722","5.0","0.0","5.0","6.0","15.0","0.0","10.0","0.0","0","0","0","0","0","19","19","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1247546285734760448","https://twitter.com/rOpenSci/status/1247546285734760448","[blog] 10 Things We Learned in Creating the Blog Guide with bookdown
+
+by @StefanieButland (1st-timer)
+&amp; @ma_salmon (more) experienced bookdowner
+
+https://t.co/aZLH9yTndI
+
+#bookdown #rstats https://t.co/3tOeBxCmLq","2020-04-07 15:26 +0000","6538.0","149.0","0.02278984398898746","4.0","0.0","14.0","4.0","53.0","0.0","23.0","0.0","0","0","0","0","0","51","51","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1245418726322614272","https://twitter.com/rOpenSci/status/1245418726322614272","Be like @econpotter. Read our bi-weekly newsletter 🙂
+
+Digest of package news, use cases, blog posts, events, curated by @sckottie
+
+https://t.co/DaTRESJBVg
+#rstats https://t.co/9mdPuL2GfV","2020-04-01 18:32 +0000","6292.0","37.0","0.005880483153210426","2.0","0.0","5.0","9.0","13.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1245365805015064576","https://twitter.com/rOpenSci/status/1245365805015064576","[use case] pdftools for parsing tables from many .pdfs, by @thomas_mock
+
+https://t.co/2CGPbsqL7k
+
+repo with code &amp; raw PDFs for users to try out themselves &amp; vignette with example code run
+
+pdftools by @opencpu for rOpenSci
+
+#rstats #pdftools https://t.co/hAZhmdITRP","2020-04-01 15:02 +0000","9561.0","242.0","0.025311159920510407","10.0","0.0","38.0","16.0","59.0","0.0","51.0","0.0","0","0","0","0","0","68","68","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1245365304047177735","https://twitter.com/rOpenSci/status/1245365304047177735","[use case] ""Searching Microsoft Academic &amp; extracting the metadata"" with the microdemic package, contributed by @Waydze1 with h/t @DarrinEide
+
+https://t.co/pngM8jCCMT
+
+microdemic by @sckottie
+for rOpenSci
+https://t.co/yBIMfZGJhl
+
+#rstats #microdemic","2020-04-01 15:00 +0000","4654.0","26.0","0.00558659217877095","4.0","0.0","6.0","0.0","13.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
