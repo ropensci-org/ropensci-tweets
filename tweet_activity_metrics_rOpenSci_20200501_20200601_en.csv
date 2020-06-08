@@ -1,0 +1,154 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1266021412218732544","https://twitter.com/rOpenSci/status/1266021412218732544","Growing list of resources in the comments on this post! 
+
+Includes uses of open data from @arcticdatactr @NEON_sci @OBISNetwork @VertNetOrg
+@USANPN @NASA @NOAA @SCAR_Tweets
+
+Thanks to @DrLouiseSlater
+@dickoah @Antonarctica @ethanwhite https://t.co/XbSeZcnQLL","2020-05-28 15:00 +0000","4359.0","26.0","0.005964670796054141","3.0","0.0","8.0","2.0","0.0","0.0","13.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1266002188582748160","https://twitter.com/rOpenSci/status/1266002188582748160","New rOpenSci technote: Superior svg graphics rendering in R, and why it matters. https://t.co/2RZCa9lgRa","2020-05-28 13:43 +0000","11011.0","171.0","0.015529924620833711","8.0","0.0","18.0","10.0","83.0","0.0","52.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1265659021572231173","https://twitter.com/rOpenSci/status/1265659021572231173","[use case] Using drake for machine learning, by @edwin_thoen
+
+https://t.co/iniiYHybrZ
+
+link to blog post
+
+drake by @wmlandau
+
+#rstats #drake","2020-05-27 15:00 +0000","3704.0","35.0","0.009449244060475162","2.0","0.0","8.0","3.0","22.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1263182708466802689","https://twitter.com/rOpenSci/status/1263182708466802689","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/iwH3u2p3lX","2020-05-20 19:00 +0000","4970.0","68.0","0.013682092555331992","2.0","0.0","4.0","20.0","0.0","0.0","10.0","0.0","0","0","0","0","0","32","32","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1263122307494612993","https://twitter.com/rOpenSci/status/1263122307494612993","[use case] bomrang, stationaRy,  and clifro to get hourly wind and plot wind roses, by @adamhsparks, @PaulMelloy, @Kev_Pathologist and @FanningJosh_
+
+https://t.co/wNJK4KUQ9K
+
+with links to code and output
+
+bomrang by @adamhsparks
+clifro by Blake Seers
+
+#rstats #bomrang #clifro https://t.co/laJH7WTsQJ","2020-05-20 15:00 +0000","4387.0","40.0","0.009117848187827673","3.0","0.0","9.0","0.0","6.0","0.0","2.0","0.0","0","0","0","0","0","20","20","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1262770729814118401","https://twitter.com/rOpenSci/status/1262770729814118401","Have you successfully used one of these data sources in your research? 
+
+We want others to imagine what’s possible by seeing examples. 
+
+Share your story in the comments and cite your paper or preprint if it’s published!
+
+https://t.co/rFlJVm23UC
+
+5/5","2020-05-19 15:42 +0000","3584.0","44.0","0.012276785714285714","1.0","0.0","4.0","1.0","21.0","0.0","17.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1262770129584050176","https://twitter.com/rOpenSci/status/1262770129584050176","@ethanwhite Our post includes a table of &gt; 100 rOpenSci staff- and community-contributed packages that facilitate access to open data sources
+
+4/n","2020-05-19 15:40 +0000","4222.0","19.0","0.004500236854571293","1.0","1.0","4.0","3.0","0.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1262769368598933506","https://twitter.com/rOpenSci/status/1262769368598933506","Inspired by @ethanwhite's tweets considering “PhD research from a distance”, we aim to inspire students to find research opportunities with open data and we provide fodder for starting conversations with their advisors 
+
+https://t.co/uKxatfcRVi
+
+3/n","2020-05-19 15:37 +0000","3389.0","15.0","0.004426084390675715","2.0","1.0","4.0","1.0","0.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1262768570787749888","https://twitter.com/rOpenSci/status/1262768570787749888","We highlight open data resources for climate &amp; weather, water, Antarctic &amp; Southern Ocean, archaeology, transport, taxonomy, ecology, thanks to @gbwanderson @robinlovelace @benmarwick @databsurdist @Antonarctica @DrLouiseSlater @ZipperSam @ilapros @big_bad_sam @clavitolo 
+
+2/n","2020-05-19 15:34 +0000","3527.0","37.0","0.010490501842925999","4.0","1.0","14.0","0.0","0.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1262767850055364614","https://twitter.com/rOpenSci/status/1262767850055364614","[blog] When Field or Lab Work is not an Option - Leveraging Open Data Resources for Remote Research 
+
+https://t.co/rFlJVm23UC
+
+A collaboration of the rOpenSci team with subject experts …
+
+#rstats
+1/n https://t.co/W2AWs45NFY","2020-05-19 15:31 +0000","21720.0","462.0","0.021270718232044197","32.0","1.0","58.0","16.0","116.0","2.0","189.0","0.0","0","0","1","0","0","47","47","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1260645990786306048","https://twitter.com/rOpenSci/status/1260645990786306048","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them! 
+
+https://t.co/l5mVWyBljW https://t.co/bwYWxcyTdH","2020-05-13 19:00 +0000","6062.0","77.0","0.012702078521939953","6.0","0.0","10.0","4.0","13.0","0.0","11.0","0.0","0","0","0","0","0","33","33","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1260223206616707073","https://twitter.com/rOpenSci/status/1260223206616707073","Seeking feedback by Friday! https://t.co/FdDIumi8zb","2020-05-12 15:00 +0000","7277.0","27.0","0.003710320186890202","5.0","0.0","6.0","0.0","0.0","0.0","16.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1259918336919404544","https://twitter.com/rOpenSci/status/1259918336919404544","rOpenSci News is out https://t.co/4oCnjfvkiy #rstats #openscience
+
+- Pkgs: 14 new versions 
+- Papers: 23 articles
+- Blog: 2 posts (both by @ma_salmon : Hugo code highlighting &amp; R tools for BibTex)
+- Call for maintainers: 1 package
+- &amp; more","2020-05-11 18:48 +0000","9223.0","86.0","0.00932451479995663","6.0","0.0","12.0","3.0","53.0","2.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258812009627320327","https://twitter.com/rOpenSci/status/1258812009627320327","Procedure employed to derive the list: https://t.co/eKCuj42D8C
+
+Please comment at https://t.co/s6hr0UpnQy","2020-05-08 17:32 +0000","4241.0","33.0","0.00778118368309361","1.0","0.0","7.0","1.0","22.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258811409938276352","https://twitter.com/rOpenSci/status/1258811409938276352","Shortlist:
+
+-Bayesian &amp; Monte Carlo algorithms
+-Dimensionality Reduction &amp; Feature Selection
+-Machine Learning
+-Regression &amp; Interpolation
+-Probability Distributions
+-Wrapper Packages
+-Networks
+-Exploratory Data Analysis
+-Workflow Software
+-Summary Statistics
+-Spatial Statistics","2020-05-08 17:30 +0000","5692.0","55.0","0.00966268446943078","4.0","1.0","10.0","2.0","0.0","0.0","38.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258810400675516418","https://twitter.com/rOpenSci/status/1258810400675516418","Seeking feedback to finalize scope of packages to be considered in rOpenSci peer review of statistical software.
+
+Please help us decide on 11 proposed categories by Friday, May 15 by commenting at https://t.co/h5HaDtU2M5
+
+#rstats #StatsPeerReview https://t.co/xXo1SaaOvb","2020-05-08 17:26 +0000","17681.0","679.0","0.03840280527119507","27.0","2.0","39.0","22.0","155.0","1.0","139.0","0.0","0","0","0","0","0","294","294","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258788185615634432","https://twitter.com/rOpenSci/status/1258788185615634432","This week @rweekly_org highlighted @milesmcbain's blog post on using the rOpenSci peer reviewed drake package by @wmlandau 
+
+@milesmcbain and @wmlandau are on a roll! 🔥🔥🔥🔥
+
+https://t.co/ggflvlzWIX
+
+#rstats","2020-05-08 15:57 +0000","5291.0","45.0","0.008505008505008505","2.0","0.0","7.0","1.0","29.0","1.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258773654671941632","https://twitter.com/rOpenSci/status/1258773654671941632","Paul Oldham @junglepaul is a model for how to cite the R packages you use and to give credit to authors and maintainers
+
+Thank you Paul! https://t.co/SjieHmpQoY","2020-05-08 15:00 +0000","6757.0","29.0","0.004291845493562232","3.0","1.0","10.0","2.0","0.0","0.0","13.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258413143480365059","https://twitter.com/rOpenSci/status/1258413143480365059","@ma_salmon Post: https://t.co/VDfdjS1d06
+
+Thanks @_MKLau_ for the inspiration https://t.co/BcI0MWnwLY
+
+Also presenting:
+
+RefManageR by Mathew W. McLean (https://t.co/k132TkAwDC)
+
+citr by @FrederikAust
+
+knitcitations by @cboettig
+
+bib2df by @0ttlngr
+
+handlr by @sckottie for rOpenSci
+
+2/2","2020-05-07 15:07 +0000","5238.0","124.0","0.023673157693776252","5.0","1.0","10.0","5.0","92.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258411267015847941","https://twitter.com/rOpenSci/status/1258411267015847941","[technote] A Roundup of R Tools for Handling BibTeX
+
+@ma_salmon demonstrates a custom workflow for inserting BibTex citations in a Hugo Rmd/.RMarkdown post
+
+1/2
+#gohugo #Rmarkdown #BibTeX #rstats","2020-05-07 15:00 +0000","10959.0","166.0","0.01514736746053472","15.0","1.0","36.0","11.0","0.0","9.0","94.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258051393316937728","https://twitter.com/rOpenSci/status/1258051393316937728","[use case] Visualize covid19 cases using rnaturalearth package, by @Rami_Krispin
+
+https://t.co/3WE37fRvhw
+
+with code, output and links to more examples!
+
+rnaturalearth by @southmapr
+
+#rstats #rnaturalearth https://t.co/ZmDWwIrtQ1","2020-05-06 15:10 +0000","5519.0","101.0","0.018300416742163435","8.0","0.0","12.0","2.0","17.0","0.0","11.0","0.0","0","0","0","0","0","51","51","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258050135264821250","https://twitter.com/rOpenSci/status/1258050135264821250","[use case] drake at Queensland Fire and Emergency Services, by @milesmcbain
+
+https://t.co/98cnnnEdOY
+
+Blog post showing workflow
+
+drake by @wmlandau
+
+#rstats","2020-05-06 15:05 +0000","5067.0","51.0","0.010065127294256957","6.0","0.0","7.0","2.0","31.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1258048877149782019","https://twitter.com/rOpenSci/status/1258048877149782019","[use case] @pachamaltese developed Open Trade Statistics to lower barrier to working with international economic trade data. API, dashboard, R pkg for data retrieval.
+
+@AlbertoCairo prof. of news visualization used the shiny app in their class!
+
+https://t.co/dGQQexJb2G
+
+#rstats https://t.co/ORT2u60cm6","2020-05-06 15:00 +0000","8287.0","47.0","0.00567153372752504","8.0","1.0","12.0","7.0","10.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1256236937490333703","https://twitter.com/rOpenSci/status/1256236937490333703","Want to keep up with rOpenSci's work &amp; learn what others are doing with our #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/QEJfCWZ5BT","2020-05-01 15:00 +0000","4605.0","23.0","0.00499457111834962","2.0","0.0","5.0","5.0","9.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
