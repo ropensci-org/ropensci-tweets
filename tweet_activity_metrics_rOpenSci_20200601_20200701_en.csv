@@ -1,0 +1,105 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1276530665454854149","https://twitter.com/rOpenSci/status/1276530665454854149","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/QEJfCXgGtr","2020-06-26 15:00 +0000","4209.0","53.0","0.012592064623425991","8.0","0.0","10.0","3.0","28.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1275805890742857733","https://twitter.com/rOpenSci/status/1275805890742857733","[use case] Using qualtRics to study the effect of COVID-19 on scientists, by @wytham88
+
+https://t.co/0cJxgOjDFS
+
+with link to arXiv manuscript and blog post
+
+qualtRics by @jhginn and @juliasilge
+
+#rstats","2020-06-24 15:00 +0000","7214.0","65.0","0.009010257831993346","6.0","0.0","16.0","7.0","22.0","0.0","14.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1275177734767964160","https://twitter.com/rOpenSci/status/1275177734767964160","rOpenSci News is out https://t.co/cdFsCIoLFJ #rstats #openscience
+
+- Pkgs: 11 new versions 
+- Papers: 27 articles
+- Blog: 2 months in 2 minutes, news summary
+- Call for maintainers: 1 pkg
+- &amp; more","2020-06-22 21:23 +0000","7938.0","92.0","0.011589821113630638","9.0","0.0","11.0","7.0","56.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273993944242597888","https://twitter.com/rOpenSci/status/1273993944242597888","MORE resources &amp; pkgs added in comments on this post!
+
+- FedData by @rkbocin to access US Fed gov't data
+- elevatr to access elevation data, by @jhollist
+- Climate Data Store access by @RetoStauffer2 @koen_hufkens
+- rgee by @csaybar 
+
+See comments by @jhollist &amp; Mel. Bacou https://t.co/XbSeZc6fnb","2020-06-19 15:00 +0000","5242.0","54.0","0.01030141167493323","4.0","0.0","11.0","5.0","0.0","0.0","34.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273631563142455296","https://twitter.com/rOpenSci/status/1273631563142455296","[blog] 2 Months in 2 Minutes - rOpenSci News, June 2020
+
+Semi-monthly summary of rOpenSci Newsletter
+
+https://t.co/1J5GWEe7HH
+
+#rstats","2020-06-18 15:00 +0000","3159.0","9.0","0.002849002849002849","2.0","0.0","2.0","1.0","2.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273378638138834944","https://twitter.com/rOpenSci/status/1273378638138834944","[use case] Scrape an image from DeepZoom with R and magick, recomposing a single image from multiple tiles, by @andre_ourednik
+
+https://t.co/DYPX1AFnJh
+
+with link to blog post
+
+magick by @opencpu
+
+#rstats
+
+magick by @opencpu
+
+#rstats https://t.co/wzczRRuxAe","2020-06-17 22:15 +0000","3782.0","74.0","0.01956636700158646","2.0","0.0","7.0","0.0","14.0","1.0","13.0","0.0","0","0","0","0","0","37","37","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273377380107780096","https://twitter.com/rOpenSci/status/1273377380107780096","[use case] Testing an API wrapper with webockr and vcr, by @DaveParr
+
+https://t.co/Jfndnp652N
+
+with links to blog post and code
+
+vcr and webmockr by @sckottie for rOpenSci
+
+#rstats #webmockr","2020-06-17 22:10 +0000","3295.0","37.0","0.011229135053110774","3.0","0.0","6.0","0.0","14.0","0.0","14.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273376121829163008","https://twitter.com/rOpenSci/status/1273376121829163008","[use case] Create a time-lapse video using av package, by @Mauricio_Cely
+
+https://t.co/9UucUCpHwl
+
+with link to code snippet
+
+av by @opencpu
+
+#rstats https://t.co/fUDUtIqv2G","2020-06-17 22:05 +0000","3171.0","51.0","0.01608325449385052","1.0","0.0","5.0","3.0","10.0","0.0","14.0","0.0","0","0","0","0","0","18","18","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273374866830393345","https://twitter.com/rOpenSci/status/1273374866830393345","[use case] US lawmakers on Twitter during a pandemic: some corpus linguistics methods, by @JasonTimm13
+
+https://t.co/ISMFk1Jg80
+
+with link to blog post
+
+rtweet by @kearneymw
+
+#rstats #rtweet https://t.co/v3DgY52M89","2020-06-17 22:00 +0000","5737.0","314.0","0.05473243855673697","8.0","0.0","14.0","2.0","18.0","0.0","23.0","0.0","0","0","0","0","0","249","249","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273299371858198528","https://twitter.com/rOpenSci/status/1273299371858198528","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/zG2aXRQJaN","2020-06-17 17:00 +0000","3179.0","39.0","0.012268008807801196","1.0","0.0","5.0","10.0","1.0","0.0","3.0","0.0","0","0","0","0","0","19","19","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273270425766768643","https://twitter.com/rOpenSci/status/1273270425766768643","[use case] Detecting the Effects of Sustained Glacier Wastage on Streamflow in Variably Glacierized Catchments (Using tidyhydat)
+
+https://t.co/g1NRqqDrHG
+
+article by R. D. Moore, @BenPelto, @brianmenounos &amp; David Hutchinson
+tidyhydat by @big_bad_sam
+
+#rstats #tidyhydat https://t.co/UO59dGnDIl","2020-06-17 15:05 +0000","3504.0","117.0","0.03339041095890411","5.0","0.0","10.0","6.0","16.0","0.0","23.0","0.0","0","0","0","0","0","57","57","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1273269172580073472","https://twitter.com/rOpenSci/status/1273269172580073472","[use case] Easily parsing JSON in R with jsonlite and purrr, by @thomas_mock
+
+https://t.co/Ad5dnekYtg
+
+with link to blog post
+
+jsonlite by @opencpu
+
+#rstats #jsonlite","2020-06-17 15:00 +0000","6268.0","110.0","0.017549457562220806","8.0","0.0","27.0","7.0","53.0","0.0","15.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1272960351688994816","https://twitter.com/rOpenSci/status/1272960351688994816","@mauro_lepore gutenbergr pkg by @drob 🙌🏼","2020-06-16 18:32 +0000","1312.0","8.0","0.006097560975609756","0.0","0.0","4.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1270075620446187526","https://twitter.com/rOpenSci/status/1270075620446187526","rOpenSci News is out https://t.co/M7ClY1FjG9 #rstats #openscience
+
+- Pkgs: 20 new versions 
+- Papers: 26 articles
+- rOpenSci team &amp; community blog: When Field or Lab Work is not an Option - Leveraging Open Data Resources for Remote Research
+- Call for maintainers: 1 pkg
+- &amp; more","2020-06-08 19:29 +0000","8971.0","140.0","0.015605841043361945","9.0","0.0","16.0","11.0","79.0","1.0","24.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
