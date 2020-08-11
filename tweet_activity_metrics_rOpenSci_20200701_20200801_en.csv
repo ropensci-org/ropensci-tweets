@@ -1,0 +1,151 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1289319932652425217","https://twitter.com/rOpenSci/status/1289319932652425217","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/DaTRESJBVg","2020-07-31 22:00 +0000","3608.0","40.0","0.011086474501108648","4.0","0.0","10.0","5.0","14.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1286044598029168643","https://twitter.com/rOpenSci/status/1286044598029168643","[use case] Creating a self-updating GitHub README using rtweet and GitHub Actions, by @zhiiiyang
+
+https://t.co/aexvqUKJWV
+
+with link to code
+
+rtweet by @kearneymw
+
+#rstats #rtweet https://t.co/lbLgOrcXhY","2020-07-22 21:05 +0000","6205.0","205.0","0.033037872683319904","10.0","0.0","16.0","13.0","29.0","0.0","32.0","0.0","0","0","0","0","0","105","105","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1286043343881814016","https://twitter.com/rOpenSci/status/1286043343881814016","[use case] Extraindo tabelas de documentos pdf em R com tabulizer, by @pedro_drocha
+
+https://t.co/XLStUkgrjg
+
+(Extracting tables from pdf documents in R with tabulizer)
+
+🎉🎉Our first Portuguese use case! 🎉🎉
+
+With link to blog
+
+#tabulizer by @thosjleeper &amp; @tpaskhalis
+
+#rstats","2020-07-22 21:00 +0000","5130.0","65.0","0.012670565302144249","8.0","0.0","11.0","18.0","18.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1285274816249860096","https://twitter.com/rOpenSci/status/1285274816249860096","rOpenSci News is out https://t.co/t4F6b8yt1U #rstats #openscience
+
+- Pkgs: 9 new software versions 📦
+- Papers: 30 articles 
+- Software review: 2 submissions","2020-07-20 18:06 +0000","5418.0","52.0","0.009597637504614249","6.0","0.0","4.0","1.0","29.0","1.0","10.0","0.0","0","0","1","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1284136550284931073","https://twitter.com/rOpenSci/status/1284136550284931073","Updated stream link: https://t.co/eTti66ffeW https://t.co/8VbtGyqeeE","2020-07-17 14:43 +0000","3493.0","9.0","0.002576581734898368","1.0","0.0","0.0","0.0","2.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1283780931904507904","https://twitter.com/rOpenSci/status/1283780931904507904","[technote] CRAN Checks API News: Documentation, Notifications, and More
+
+@sckottie and @ma_salmon share exciting updates to the CRAN Checks API and cchecks package. Get notifications for failing packages, check out new documentation website, etc.
+
+https://t.co/SYPj7Ujdwg
+
+#rstats","2020-07-16 15:10 +0000","4721.0","32.0","0.006778224952340606","4.0","0.0","10.0","0.0","13.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1283521724869259264","https://twitter.com/rOpenSci/status/1283521724869259264","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/7xkxMQBggA","2020-07-15 22:00 +0000","4103.0","55.0","0.013404825737265416","1.0","0.0","7.0","15.0","0.0","0.0","8.0","0.0","0","0","0","0","0","24","24","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1283430327759671296","https://twitter.com/rOpenSci/status/1283430327759671296","@LeNematode @grusonh Thanks to @spicyJeeravan for prompting us to try this!
+
+Evolution: https://t.co/J8eFx4g4hd","2020-07-15 15:56 +0000","2819.0","10.0","0.0035473572188719402","1.0","0.0","1.0","2.0","3.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1283416028479983627","https://twitter.com/rOpenSci/status/1283416028479983627","[blog] Community Captioning of rOpenSci Community Calls
+
+@LeNematode &amp; @grusonh detail their herculean effort to improve accessibility of our videos, starting with our Community Call on Maintaining an R Package.
+
+https://t.co/tWL74yF16Y
+
+#rstats https://t.co/4orTaT9E6X","2020-07-15 15:00 +0000","7789.0","97.0","0.012453460007703171","11.0","2.0","11.0","5.0","15.0","0.0","20.0","0.0","0","0","0","0","0","33","33","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1283075087973810178","https://twitter.com/rOpenSci/status/1283075087973810178","[blog] Maintaining an R Package - Community Call Summary
+
+@janani137 and @steffilazerte collate the community call questions and answers and @janani137 shares motivation for participating in an rOpenSci community call
+
+https://t.co/r4EVweRwB0
+
+#rstats https://t.co/mGYk0auTzp","2020-07-14 16:25 +0000","11698.0","284.0","0.02427765429988032","10.0","0.0","27.0","21.0","53.0","1.0","45.0","0.0","0","0","0","0","0","127","127","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1283056156051677184","https://twitter.com/rOpenSci/status/1283056156051677184","Congratulations @pachamaltese for honorable mention in 2020 Shiny Contest! 
+
+His Shiny app is based on his rOpenSci peer-reviewed tradestatistics pkg that lowers the barrier to working with international economic trade data https://t.co/jJ0dY1K72A https://t.co/DeAroI6KcV","2020-07-14 15:10 +0000","5162.0","71.0","0.013754358775668345","6.0","1.0","10.0","13.0","13.0","0.0","28.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1281612194409373697","https://twitter.com/rOpenSci/status/1281612194409373697","Watch rOpenSci co-founder and tech lead @sckottie's #useR2020 talk
+
+""staypuft: object validation and serialization...&amp; should this even be a package?""
+https://t.co/iEfu1h5jKL
+
+#rstats https://t.co/FWHwVeNnzu","2020-07-10 15:32 +0000","3990.0","63.0","0.015789473684210527","5.0","0.0","7.0","3.0","19.0","1.0","14.0","0.0","0","0","0","0","0","14","14","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1281604843245694977","https://twitter.com/rOpenSci/status/1281604843245694977","Learn about the Latin American rOpenSci community and activities in this post and at 7m 30s in the video.
+
+Thank you to @_lacion_ @fellgernon @mauro_lepore @rocio_joo @yabellini &amp; many more, for including and representing us so well. https://t.co/5gbCkwZgfc","2020-07-10 15:03 +0000","6065.0","40.0","0.006595218466611707","9.0","1.0","11.0","10.0","0.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1281595970967400448","https://twitter.com/rOpenSci/status/1281595970967400448","Happening now: @annakrystalli's keynote ""Computational Reproducibility, from theory to practice""
+
+https://t.co/vilkHm07MJ https://t.co/1s6Ny6tT4c","2020-07-10 14:27 +0000","4163.0","35.0","0.008407398510689407","3.0","0.0","9.0","2.0","9.0","0.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1280930339276206081","https://twitter.com/rOpenSci/status/1280930339276206081","Watch @noamross's keynote tomorrow ""Peer-Reviewing R Code: Where We’ve Been and Where We’re Going at rOpenSci""
+
+July 9 , 13:00 UTC https://t.co/o0fxIWWxx8 https://t.co/1s6Ny6tT4c","2020-07-08 18:22 +0000","10103.0","91.0","0.009007225576561417","10.0","0.0","31.0","8.0","24.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1280909514925989888","https://twitter.com/rOpenSci/status/1280909514925989888","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them! 
+
+https://t.co/l5mVWySWbu https://t.co/5nLNXXmZ60","2020-07-08 17:00 +0000","5818.0","73.0","0.012547267102096941","3.0","0.0","4.0","5.0","8.0","0.0","21.0","0.0","0","0","0","0","0","32","32","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1280879314548842496","https://twitter.com/rOpenSci/status/1280879314548842496","[tech note] A better way to manage your Github personal access tokens
+
+https://t.co/pj8xudd078
+
+by @opencpu 
+
+#rstats","2020-07-08 15:00 +0000","4564.0","61.0","0.01336546888694128","6.0","0.0","15.0","2.0","28.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1280232752982319104","https://twitter.com/rOpenSci/status/1280232752982319104","@useR2020stl @useR2020muc @noamross @annakrystalli Join the YouTube channel (linked from their talk titles) to watch their talks live","2020-07-06 20:10 +0000","2738.0","14.0","0.005113221329437546","0.0","0.0","1.0","2.0","0.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1280232255009374208","https://twitter.com/rOpenSci/status/1280232255009374208","This week at @useR2020stl @useR2020muc @noamross &amp; @annakrystalli give keynotes!
+
+Noam on rOpenSci's peer-review system for R packages and our new work expanding into peer-reviewing statistical algorithms
+
+Anna on Computational Reproducibility, from theory to practice
+
+#rstats https://t.co/MIoYvKX28F","2020-07-06 20:08 +0000","15059.0","196.0","0.013015472474931934","19.0","1.0","42.0","46.0","2.0","0.0","86.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1280192532261957632","https://twitter.com/rOpenSci/status/1280192532261957632","rOpenSci News is out https://t.co/IgdjnZKeIq #rstats #openscience
+
+- Pkgs: 1 new pkg, 18 new versions 
+- Papers: 25 articles
+- Call for maintainers: 1 pkg: rflybase 
+- Discussion forum use cases: qualtRics, DataPackageR, &amp; pdftools","2020-07-06 17:30 +0000","4937.0","46.0","0.009317399230301802","7.0","0.0","6.0","5.0","22.0","2.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1279173071102816256","https://twitter.com/rOpenSci/status/1279173071102816256","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eqTuR 
+
+Cite: https://t.co/dtABKgrlaM https://t.co/vstdX8Sw8O","2020-07-03 22:00 +0000","5084.0","117.0","0.023013375295043274","5.0","0.0","23.0","8.0","37.0","0.0","18.0","0.0","0","0","0","0","0","26","26","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1278448295027695616","https://twitter.com/rOpenSci/status/1278448295027695616","[use case] Package for my Masters thesis colour scheme using ochRe, by @sarahbeeysian
+
+https://t.co/mM6v1zIL1F
+
+with link to code
+
+ochRe by @HollyKirk @visnut @correctalicia @ross_gayler @rdpeng @ellesaber
+
+#rstats https://t.co/sMmZNJghlG","2020-07-01 22:00 +0000","4216.0","137.0","0.03249525616698292","4.0","0.0","9.0","10.0","19.0","0.0","16.0","0.0","0","0","0","0","0","79","79","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1278346372094267392","https://twitter.com/rOpenSci/status/1278346372094267392","[use case] Filtering pdfs using RegEx in their body, by @AugustusPendle1
+
+https://t.co/XbKA5DHjVC
+
+with code
+
+pdftools by @opencpu
+
+#rstats #pdftools","2020-07-01 15:15 +0000","3141.0","32.0","0.010187838268067495","4.0","0.0","3.0","0.0","20.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1278345113748385792","https://twitter.com/rOpenSci/status/1278345113748385792","[use case] Package for downloading shapefiles using piggyback, by @ivelasq3
+
+https://t.co/8kfIcTI9n6
+
+with links to blog post and package leaidr which uses piggyback package and facilitates the download and use of US school district shapefiles
+
+piggyback by @cboettig
+
+#rstats https://t.co/ekplmVs3Cm","2020-07-01 15:10 +0000","4091.0","98.0","0.023955023221706184","3.0","1.0","7.0","6.0","15.0","0.0","28.0","0.0","0","0","0","0","0","38","38","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1278343855864197120","https://twitter.com/rOpenSci/status/1278343855864197120","[use case] Using DataPackageR to create data package Pandemic Papers with Chris Knox
+
+https://t.co/fBEvGniNBz
+
+with link to code
+
+Original use case by @vizowl https://t.co/zGw8mFCpvp 
+
+DataPackageR by @GregFinak
+
+#rstats #DataPackageR","2020-07-01 15:05 +0000","4367.0","43.0","0.00984657659720632","8.0","0.0","6.0","0.0","22.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
