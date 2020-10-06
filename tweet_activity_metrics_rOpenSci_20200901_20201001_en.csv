@@ -1,0 +1,152 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1311425589967040512","https://twitter.com/rOpenSci/status/1311425589967040512","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/QEJfCWZ5BT","2020-09-30 22:00 +0000","3719.0","24.0","0.006453347674105943","6.0","0.0","6.0","3.0","7.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311323668232810497","https://twitter.com/rOpenSci/status/1311323668232810497","[use case] A Twitter bot with rtweet, Mapbox and GitHub Actions, by @mattdray
+
+https://t.co/XeGT5NIAbY
+
+with link to blog post
+
+rtweet by @kearneymw
+
+#rstats #rtweet https://t.co/R56tjnPhzE","2020-09-30 15:15 +0000","3148.0","64.0","0.020330368487928845","5.0","0.0","7.0","2.0","22.0","0.0","12.0","0.0","0","0","0","0","0","16","16","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311322409702576129","https://twitter.com/rOpenSci/status/1311322409702576129","[use case] Processing Web of Science records with refsplitr to study author gender and geography, by @brunalab, @rallidaerule, @birderboone
+
+https://t.co/78Swikq5Rw
+
+with link to article
+
+refsplitr by @brunalab and @RallidaeRule
+
+#rstats #refsplitr https://t.co/NOaow1H32l","2020-09-30 15:10 +0000","3107.0","32.0","0.010299324106855488","3.0","0.0","6.0","0.0","7.0","0.0","2.0","0.0","0","0","0","0","0","14","14","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311321151885447173","https://twitter.com/rOpenSci/status/1311321151885447173","[use case] Mapping scientific collaboration about the Anthropoce with refsplitr, by @brunalab, @rallidaerule, @birderboone
+
+https://t.co/n0fTph5oVT
+
+with link to publication
+
+refsplitr by @brunalab and @RallidaeRule
+
+#rstats #refsplitr https://t.co/YLV7Hn6ETL","2020-09-30 15:05 +0000","2998.0","34.0","0.01134089392928619","1.0","0.0","5.0","1.0","6.0","2.0","1.0","0.0","0","0","0","0","0","18","18","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1311319903425699840","https://twitter.com/rOpenSci/status/1311319903425699840","[use case] Kontarion - a stack extending rocker/ml-verse for Bibliometric analytics, by Markus Skyttner
+
+https://t.co/7USRpV9KBv
+
+link to docs and code
+
+Includes many different rOpenSci packages: #oai #rentrez #fulltext #europepmc #refsplitr #rcrossref #citecorp #roadoi
+
+#rstats","2020-09-30 15:00 +0000","2374.0","19.0","0.008003369839932602","2.0","0.0","2.0","0.0","10.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310962444383252484","https://twitter.com/rOpenSci/status/1310962444383252484","@bikesRdata 🔎mapscanner open software peer review thread: https://t.co/EQ1njZOo2V
+
+Shoutouts 🙏 to contributions by @mdsumner as well as to rOpenSci software reviewers @econpotter &amp; @kellyproof
+
+2/2","2020-09-29 15:19 +0000","3209.0","27.0","0.008413836086008103","3.0","0.0","5.0","2.0","13.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310962176081956868","https://twitter.com/rOpenSci/status/1310962176081956868","[blog] Rectifying Hand-Drawn Marks on Maps With the mapscanner Package
+
+@bikesrdata shows use of mapscanner in #citizenscience as well as by groups with limited access to expensive tech.
+
+https://t.co/bgvMnHL3L9
+
+#rstats #SoftwarePeerReview #mapscanner #openscience #citsci
+
+1/2 https://t.co/k6f4OBdAsH","2020-09-29 15:18 +0000","9354.0","245.0","0.026192003420996365","13.0","1.0","12.0","5.0","20.0","1.0","77.0","0.0","0","0","0","0","0","116","116","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1310699989761314817","https://twitter.com/rOpenSci/status/1310699989761314817","rOpenSci News is out https://t.co/a6keY9Tzgv #rstats #openscience
+
+- Pkgs: 1 new package, 12 new package versions 📦
+- Papers: 18 articles
+- Discussion forum: 4 new use case posts
+- Blog: 1 post on treedata.table
+- Software review: 2 pkgs approved
+- Call for maintainer: 1","2020-09-28 21:56 +0000","3276.0","33.0","0.010073260073260074","6.0","0.0","4.0","2.0","10.0","2.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308422874424893441","https://twitter.com/rOpenSci/status/1308422874424893441","@WrightingApril @cromanpa @pseudacris 🔎treedata.table open software peer review thread: https://t.co/PzUy091aeJ
+
+Shoutouts 🙏:
+
+rOpenSci editor @JuliaGustavsen and software reviewers @grusonh &amp; @norman_kari 
+
+Nantucket DevelopeR 2019 Workshop, @phytools_liam and instructors @Klaus_Schlp &amp; @solislemuslab
+
+2/2","2020-09-22 15:08 +0000","2849.0","35.0","0.012285012285012284","3.0","0.0","7.0","4.0","8.0","0.0","13.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1308422746964099072","https://twitter.com/rOpenSci/status/1308422746964099072","[blog] The treedata.table Package
+
+@WrightingApril, @cromanpa &amp; @pseudacris share a new package for speedy phylogenetic analyses
+
+https://t.co/LhhqDIxa97
+
+#rstats #SoftwarePeerReview #treedata.table #openscience
+
+1/2","2020-09-22 15:07 +0000","4285.0","57.0","0.013302217036172695","7.0","1.0","6.0","3.0","19.0","1.0","20.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306971238968033280","https://twitter.com/rOpenSci/status/1306971238968033280","rOpenSci peer reviewed package, chirps, in July 2020 Top 40 New Packages by @RStudioJoe
+
+#chirps accesses rainfall estimates (Climate Hazards Group InfraRed Precipitation with Station Data)
+
+by @desousakaue
+https://t.co/8Lr9DpnB47
+
+RViews: https://t.co/3ZKXEBFwZK
+
+#rstats","2020-09-18 15:00 +0000","2993.0","50.0","0.01670564650851988","4.0","1.0","3.0","5.0","25.0","0.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306352160888836096","https://twitter.com/rOpenSci/status/1306352160888836096","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/PNavyAkmdR","2020-09-16 22:00 +0000","3208.0","53.0","0.016521197007481298","2.0","0.0","1.0","14.0","0.0","0.0","7.0","0.0","0","0","0","0","0","29","29","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306248979311665152","https://twitter.com/rOpenSci/status/1306248979311665152","[use case] Basic manipulation of GIF frames with magick, by Kenneth Tay (https://t.co/Tr9W9lyjAh)
+
+https://t.co/473Zn5DZsK
+
+with link to blog post
+
+magick by @opencpu
+
+#rstats #magick","2020-09-16 15:10 +0000","3292.0","28.0","0.00850546780072904","2.0","0.0","6.0","3.0","12.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306247721444016128","https://twitter.com/rOpenSci/status/1306247721444016128","[use case] https://t.co/YxXEY2FCBq using europepmc and rAltmetric
+by @zhanghe_goh, @grusonh, @JACoates91, @Dey_Gautam, @invisiblecomma
+
+Part of the eLife Sprint 2020 @eLifeInnovation
+
+https://t.co/Pc3OovM4wq
+
+europepmc by @najkoja
+rAltmetric by @_inundata
+
+#rstats","2020-09-16 15:05 +0000","3445.0","34.0","0.009869375907111757","5.0","0.0","7.0","4.0","13.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1306246463480041472","https://twitter.com/rOpenSci/status/1306246463480041472","[use case] Bar chart portraits with magick, by @geokaramanis
+
+https://t.co/ituyAd42gb
+
+with link to code and example images
+
+magick by @opencpu
+
+#rstats #magick https://t.co/sc2hr2JVvU","2020-09-16 15:00 +0000","4262.0","252.0","0.05912717034256218","4.0","0.0","12.0","9.0","27.0","2.0","9.0","0.0","0","0","0","0","0","189","189","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305689738716741633","https://twitter.com/rOpenSci/status/1305689738716741633","@favstats @mjbsp ht @ElinWaring @michaelquinn32 et al","2020-09-15 02:07 +0000","234.0","4.0","0.017094017094017096","0.0","0.0","1.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305586511899889667","https://twitter.com/rOpenSci/status/1305586511899889667","rOpenSci News is out https://t.co/xKEBZ93Hjn #rstats #openscience
+
+- Pkgs: 1 new package, 8 new package versions 📦
+- Papers: 19 articles
+- Discussion forum: 1 new use case post","2020-09-14 19:17 +0000","7056.0","53.0","0.007511337868480726","7.0","0.0","4.0","4.0","26.0","7.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1305531234433396737","https://twitter.com/rOpenSci/status/1305531234433396737","@bearloga @drob @drob ?","2020-09-14 15:37 +0000","1585.0","8.0","0.005047318611987382","0.0","1.0","0.0","1.0","0.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1303815446492258310","https://twitter.com/rOpenSci/status/1303815446492258310","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them! 
+
+https://t.co/l5mVWyBljW https://t.co/zJO390hN7j","2020-09-09 22:00 +0000","4062.0","46.0","0.011324470704086657","3.0","0.0","3.0","1.0","5.0","0.0","5.0","0.0","0","0","0","0","0","29","29","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1303739388862447616","https://twitter.com/rOpenSci/status/1303739388862447616","Help wanted on open issues in gitlabr 📦  including documentation https://t.co/3PFYSmJyhA","2020-09-09 16:57 +0000","3887.0","21.0","0.005402624131721122","7.0","0.0","6.0","0.0","0.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1302003506140852232","https://twitter.com/rOpenSci/status/1302003506140852232","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eIuTr 
+
+Cite: https://t.co/dtABKgIWzm https://t.co/MQdo3ZX0H3","2020-09-04 22:00 +0000","4785.0","113.0","0.02361546499477534","8.0","0.0","18.0","6.0","24.0","0.0","45.0","0.0","0","0","0","0","0","12","12","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1300836858394419200","https://twitter.com/rOpenSci/status/1300836858394419200","rOpenSci News is out https://t.co/W0uUye530h #rstats #openscience
+
+- Contributing Guide release! https://t.co/2xbs4EiHn5 
+- Pkgs: 11 new package versions 📦
+- Papers: 18 articles 
+- Blog: 3 posts (2 months/2 min, dittodb, sci. name parsing)
+- Discussion forum: 1 new use case post","2020-09-01 16:44 +0000","6810.0","80.0","0.011747430249632892","6.0","0.0","7.0","7.0","24.0","2.0","34.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
