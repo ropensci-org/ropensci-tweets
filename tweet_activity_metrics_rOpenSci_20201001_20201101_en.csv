@@ -1,0 +1,133 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1322553922565885952","https://twitter.com/rOpenSci/status/1322553922565885952","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/QEJfCWZ5BT","2020-10-31 15:00 +0000","4129.0","37.0","0.008961007507871155","5.0","0.0","7.0","1.0","17.0","1.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321466754221133824","https://twitter.com/rOpenSci/status/1321466754221133824","[use case] osmdata: Rail transport network of the three largest cities in Spain by @GuillemSalazar
+
+https://t.co/iT6M3KH9PR
+
+with maps and link to code
+
+osmdata by @bikesrdata
+
+#rstats #osmdata https://t.co/xX6DqojaFX","2020-10-28 15:00 +0000","4911.0","154.0","0.03135817552433313","9.0","0.0","16.0","11.0","18.0","0.0","26.0","0.0","0","0","0","0","0","74","74","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1321104114298822659","https://twitter.com/rOpenSci/status/1321104114298822659","[blog] Announcing New Software Peer Review Editors: @DeCiccoDonk @JuliaGustavsen &amp; @mauro_lepore !
+
+https://t.co/4Np0kyOztp
+
+#RStats https://t.co/5qWKFlDjTZ","2020-10-27 14:59 +0000","7208.0","208.0","0.02885682574916759","13.0","0.0","17.0","35.0","19.0","0.0","20.0","0.0","0","0","0","0","0","104","104","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1320836534409457664","https://twitter.com/rOpenSci/status/1320836534409457664","rOpenSci News is out https://t.co/GAhh0jdolM #rstats #openscience
+
+- New ver. rOpenSci Dev Guide
+- Pkgs: 26 new pkg versions 📦
+- Papers: 21 articles
+- Blog: 2 mos./2 min, https://t.co/YxXEY2FCBq, medrxivr
+- Software review: 1 pkg approved, 1 submitted
+- Call for maintainers: 1","2020-10-26 21:15 +0000","8716.0","58.0","0.006654428636989445","6.0","0.0","5.0","6.0","22.0","2.0","17.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319422872968781824","https://twitter.com/rOpenSci/status/1319422872968781824","@moh_fcis
+There's a question about dbparser in our forum. Can you please have a look?
+https://t.co/r4fySPulb4","2020-10-22 23:38 +0000","117.0","6.0","0.05128205128205128","0.0","1.0","1.0","0.0","3.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1319292430643068928","https://twitter.com/rOpenSci/status/1319292430643068928","[blog] rOpenSci Dev Guide 0.5.0: Updates
+
+In particular highlighting the addition of a package curation policy! 📦
+
+Read more: https://t.co/UHAK16oweu
+
+Thanks a lot to all contributors! 🙏","2020-10-22 15:00 +0000","6408.0","69.0","0.010767790262172285","7.0","0.0","16.0","3.0","22.0","0.0","21.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318960237643239424","https://twitter.com/rOpenSci/status/1318960237643239424","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/OehAJ8Q2po","2020-10-21 17:00 +0000","5162.0","89.0","0.017241379310344827","3.0","0.0","7.0","32.0","0.0","0.0","9.0","0.0","0","0","0","0","0","38","38","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318569989000015872","https://twitter.com/rOpenSci/status/1318569989000015872","@mcguinlu medrxivr open software peer review thread: https://t.co/E9HSPj3OQ2
+
+Shoutouts 🙏 to rOpenSci software peer reviewers @ttso &amp; @najkoja
+
+2/2","2020-10-20 15:09 +0000","2711.0","25.0","0.009221689413500553","2.0","0.0","5.0","0.0","5.0","0.0","13.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1318567661933121573","https://twitter.com/rOpenSci/status/1318567661933121573","[blog] Searching medRxiv and bioRxiv Preprint Data
+
+@mcguinlu introduces R package medrxivr which provides elegant and reproducible tools for searching medRxiv and bioRxiv preprint metadata.
+
+https://t.co/A2JKPaW3r9
+
+#rstats #SoftwarePeerReview #medrxivr #medRxiv #bioRxiv
+
+1/2","2020-10-20 15:00 +0000","4333.0","50.0","0.011539349180706208","7.0","1.0","8.0","4.0","15.0","1.0","14.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316755714128244739","https://twitter.com/rOpenSci/status/1316755714128244739","[blog] 2 Months in 2 Minutes - rOpenSci News, October 2020
+
+Semi-monthly summary of rOpenSci Newsletter
+
+https://t.co/KfbY8eTVaa
+
+#RStats https://t.co/eK55L4jaMi","2020-10-15 15:00 +0000","3209.0","70.0","0.02181364911187286","3.0","0.0","3.0","0.0","38.0","0.0","5.0","0.0","0","0","0","0","0","21","21","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316423529236226048","https://twitter.com/rOpenSci/status/1316423529236226048","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them! 
+
+https://t.co/l5mVWyBljW https://t.co/1ISzo75yMk","2020-10-14 17:00 +0000","3589.0","29.0","0.008080245193647256","5.0","0.0","5.0","2.0","1.0","0.0","1.0","0.0","0","0","0","0","0","15","15","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316023987986526212","https://twitter.com/rOpenSci/status/1316023987986526212","@grusonh @zhanghe_goh @JACoates91 @eLifeInnovation @preLights Post includes use of rOpenSci pkgs europepmc by @najkoja &amp; rAltmetric by @_inundata 
+
+https://t.co/P0cDRjPNxC
+
+2/2","2020-10-13 14:32 +0000","3235.0","25.0","0.0077279752704791345","1.0","0.0","6.0","1.0","9.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1316023385168785408","https://twitter.com/rOpenSci/status/1316023385168785408","[blog] https://t.co/UbRd3wPDhK: Automating Website Updates with the europepmc and rAltmetric Packages
+
+by @grusonh @zhanghe_goh @JACoates91 on their @eLifeInnovation Sprint work with @preLights
+
+https://t.co/P0cDRjycG4 
+
+#rStats 1/2 https://t.co/iHBHOwDhys","2020-10-13 14:30 +0000","7358.0","122.0","0.016580592552324","11.0","1.0","16.0","3.0","23.0","0.0","34.0","0.0","0","0","0","0","0","34","34","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1315730984944369664","https://twitter.com/rOpenSci/status/1315730984944369664","rOpenSci News is out https://t.co/drR9HJoE5Q #rstats #openscience
+
+- Pkgs: 1 new package, 21 new package versions 📦
+- Papers: 19 scholarly articles
+- Blog: posts on mapscanner &amp; on contributing to rOpenSci
+- Software review: 1 pkg approved, 1 submitted
+- Call for maintainers: 1","2020-10-12 19:08 +0000","6749.0","73.0","0.010816417246999556","10.0","0.0","4.0","6.0","24.0","0.0","29.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314988300579467264","https://twitter.com/rOpenSci/status/1314988300579467264","@pjs_228 @noamross Thank you Patrick 🙏","2020-10-10 17:56 +0000","200.0","1.0","0.005","0.0","0.0","0.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314645377740689409","https://twitter.com/rOpenSci/status/1314645377740689409","Hear rOpenSci co-founder &amp; advisor @cboettig on ""Content-based Identifiers for Iterative Forecasts: A Proposal""
+
+@DataONEorg webinar Tues Oct 13 
+
+incl workflow example &amp; newly developed #rStats pkgs 
+
+Details &amp; register https://t.co/awv6EftH2I https://t.co/wHsxRVjO4K","2020-10-09 19:14 +0000","5955.0","78.0","0.01309823677581864","9.0","0.0","9.0","11.0","7.0","0.0","31.0","0.0","0","0","0","0","0","11","11","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1314572657728253953","https://twitter.com/rOpenSci/status/1314572657728253953","We're working on expanding the types of packages rOpenSci will review. Help us write peer-review standards for machine learning software!
+
+Read our current draft here: https://t.co/fdAIlIhkXU
+
+Comment and discuss here: https://t.co/Meen9m19wj
+
+#rStats","2020-10-09 14:25 +0000","8813.0","93.0","0.010552592760694429","15.0","0.0","14.0","6.0","37.0","1.0","20.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313856607781093376","https://twitter.com/rOpenSci/status/1313856607781093376","Oct 22 - rOpenSci at @RLadiesELansing! 
+
+@StefanieButland will introduce rOpenSci via our new Contributing Guide &amp; @gbwanderson will talk about our Software Peer Review system
+
+https://t.co/nbYmsQLxjr
+
+#rstats https://t.co/tc0w4LDxti","2020-10-07 15:00 +0000","4634.0","44.0","0.009495036685369012","10.0","0.0","8.0","10.0","5.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313559807970873344","https://twitter.com/rOpenSci/status/1313559807970873344","@jp_hydro @swmpkim @USGS_R https://t.co/BfdHpwjQ7f
+https://t.co/1jfQhVEgtB
+by @timtrice 
+
+Thanks for tagging us @swmpkim","2020-10-06 19:20 +0000","130.0","6.0","0.046153846153846156","0.0","0.0","2.0","0.0","1.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313516162475384833","https://twitter.com/rOpenSci/status/1313516162475384833","Si participan en el evento de @ReproHack en @LatinR_Conf, podrán escuchar un poco sobre nuestro sistema de revisión de paquetes! Y en todo caso recomanamos este hackatón!
+
+https://t.co/usvhHzTsrC
+
+#rstats https://t.co/8qHCJW7Z4Z","2020-10-06 16:27 +0000","6488.0","128.0","0.01972872996300863","12.0","2.0","17.0","15.0","24.0","0.0","19.0","0.0","0","0","0","0","0","39","39","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1313512455297925120","https://twitter.com/rOpenSci/status/1313512455297925120","[blog] Hacktober? Any Month is a Good Month to Contribute to rOpenSci
+
+Some etiquette &amp; resources to go along with our Community Contributing Guide’s dedicated section on our open issues list
+
+https://t.co/h6G1jgHa8y
+
+#rstats","2020-10-06 16:12 +0000","6886.0","62.0","0.009003775776938717","13.0","1.0","12.0","3.0","14.0","0.0","19.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1312044680318779397","https://twitter.com/rOpenSci/status/1312044680318779397","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eIuTr 
+
+Cite: https://t.co/dtABKgIWzm https://t.co/rZPBMSNW6A","2020-10-02 15:00 +0000","3720.0","46.0","0.012365591397849462","7.0","0.0","8.0","1.0","12.0","1.0","9.0","0.0","0","0","0","0","0","8","8","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
