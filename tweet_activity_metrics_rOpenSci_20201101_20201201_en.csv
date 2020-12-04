@@ -1,0 +1,118 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1332459187889168384","https://twitter.com/rOpenSci/status/1332459187889168384","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/QEJfCWZ5BT","2020-11-27 23:00 +0000","4774.0","48.0","0.010054461667364893","4.0","0.0","3.0","6.0","19.0","0.0","16.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1331811165001764864","https://twitter.com/rOpenSci/status/1331811165001764864","[use case] Handling vegetation-plot information using vegtable and taxlist by Miguel Alvarez 
+
+https://t.co/bWEeMcz4rJ
+
+with link to blog post
+
+taxlist by Miguel Alvarez (https://t.co/GwCtTLYTV8)
+
+#rstats #taxlist https://t.co/XcbVgG66QR","2020-11-26 04:05 +0000","4574.0","151.0","0.0330126803672934","3.0","0.0","8.0","3.0","25.0","0.0","8.0","0.0","0","0","0","0","0","104","104","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1331628716997423108","https://twitter.com/rOpenSci/status/1331628716997423108","[use case] Use stplanr to find and plot major streets of a city by @lxndrkp
+
+https://t.co/0BDmBHQAS5
+
+with map and code
+
+stplanr by @robinlovelace
+
+#rstats #stplanr https://t.co/xizLo2se5P","2020-11-25 16:00 +0000","9686.0","372.0","0.038405946727235185","12.0","1.0","50.0","25.0","67.0","1.0","82.0","0.0","0","0","0","0","0","134","134","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1331349831193911297","https://twitter.com/rOpenSci/status/1331349831193911297","We're hatching a plan for a paired Community Call + tools hack. 
+
+Check it out and tell us what you think by replying in the issue thread: https://t.co/gt8shIfZz4","2020-11-24 21:31 +0000","6001.0","64.0","0.010664889185135812","9.0","0.0","11.0","3.0","28.0","0.0","13.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1331266576910327808","https://twitter.com/rOpenSci/status/1331266576910327808","Our Community Manager @StefanieButland contributed to this @TheCSCCE tip sheet on captioning, subtitles, &amp; transcription for virtual events.
+
+Want to dig deeper? @LeNematode &amp; @grusonh wrote about captioning our Community Call video https://t.co/tWL74yF16Y https://t.co/0hSL0Rm1HC","2020-11-24 16:01 +0000","7406.0","31.0","0.00418579530110721","5.0","1.0","10.0","4.0","7.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1331266326610935809","https://twitter.com/rOpenSci/status/1331266326610935809","Several rOpenSci resources are in this @TheCSCCE curated list for using virtual events to facilitate community-building 
+
+e.g. “How to prepare 40 new community members for an unconference“ applies to virtual as well as in-person https://t.co/ZxzXcCSaxo","2020-11-24 16:00 +0000","4224.0","11.0","0.0026041666666666665","3.0","0.0","5.0","2.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1330993039943356417","https://twitter.com/rOpenSci/status/1330993039943356417","rOpenSci News is out https://t.co/MsLzSsdfoh #rstats
+
+- Community call: Wild World of Data Repos
+- 3 new software review ed's
+- Pkgs: 5 new; 30 new versions
+- Papers: 20 articles
+- Blog: R and coronavirus, fulltext, V8, Travis-CI
+- Software review: 1 pkg approved, 3 submitted","2020-11-23 21:54 +0000","4239.0","41.0","0.009672092474640246","5.0","0.0","5.0","6.0","21.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1329845812914921473","https://twitter.com/rOpenSci/status/1329845812914921473","""Navigating open-source software: Ensuring you can rely on what you use"" 
+
+Talk at @NHSrCommunity annual mtg by Rebecca Killick, rOpenSci Statistical Software Peer Review steering committee member 
+
+Video and slides: https://t.co/Mo9NMrNOsb
+
+#NHSRconf2020  #rstats https://t.co/Kam7Qi0RXg","2020-11-20 17:55 +0000","4738.0","72.0","0.015196285352469396","3.0","0.0","8.0","5.0","15.0","0.0","8.0","0.0","0","0","0","0","0","33","33","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1329197694061998080","https://twitter.com/rOpenSci/status/1329197694061998080","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/N5FghiV6cI","2020-11-18 23:00 +0000","3482.0","80.0","0.022975301550832855","0.0","0.0","0.0","22.0","0.0","0.0","18.0","0.0","0","0","0","0","0","40","40","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1329092004496748545","https://twitter.com/rOpenSci/status/1329092004496748545","[Community Call] The Wild World of Data Repositories 
+
+Moderated by @kara_woo with @DaniLowenberg @metamattj @cboettig @_inundata 
+
+Wed Dec 16, 10-11am PST / 18:00 UTC
+
+types of repos, challenges in data deposition &amp; reuse, vision for new tools
+
+https://t.co/p0hGpDdUds
+
+#rStats","2020-11-18 16:00 +0000","21592.0","192.0","0.00889218228973694","28.0","1.0","30.0","16.0","52.0","0.0","65.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1328729615653736449","https://twitter.com/rOpenSci/status/1328729615653736449","[technote] fulltext: Behind the Scenes
+
+From custom APIs to internal mappings, @sckottie shares a behind-the-scenes look at the evolution of how the package obtains full-text articles.
+
+https://t.co/ajc2np9C2V
+
+#rstats #fulltext","2020-11-17 16:00 +0000","3759.0","26.0","0.006916733173716414","4.0","0.0","4.0","1.0","12.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1327003842806878208","https://twitter.com/rOpenSci/status/1327003842806878208","We love the illustrations by @lydiakahill for our website! 💚 
+
+Will be incorporated soon https://t.co/1dhhjKd5dW","2020-11-12 21:42 +0000","6932.0","46.0","0.006635891517599538","1.0","0.0","12.0","15.0","0.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1326660982190399491","https://twitter.com/rOpenSci/status/1326660982190399491","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them! 
+
+https://t.co/l5mVWySWbu https://t.co/FkeXQqEhSl","2020-11-11 23:00 +0000","4743.0","55.0","0.011596036263967952","3.0","0.0","4.0","2.0","6.0","0.0","11.0","0.0","0","0","0","0","0","29","29","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1326228139505143808","https://twitter.com/rOpenSci/status/1326228139505143808","Correction. rnaturalearth pkg is by @southmapr! 
+
+https://t.co/xeGTI3yYvt
+
+More use cases for rnaturalearth: https://t.co/2TThHXJwV7 https://t.co/Yqe7YMmFtP","2020-11-10 18:20 +0000","4820.0","31.0","0.006431535269709543","1.0","0.0","7.0","6.0","9.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1326192898849693696","https://twitter.com/rOpenSci/status/1326192898849693696","[use case] osmdata, rnaturalearth and magick for #TidyTuesday, by @jakekaupp
+
+https://t.co/VfuhkbxhDn
+
+with link to code
+
+osmdata and rnaturalearth by @bikesRdata, and magick by @opencpu
+
+#rstats #osmdata #rnaturalearth #magick https://t.co/RSdCaQpQdJ","2020-11-10 16:00 +0000","7414.0","173.0","0.02333423253304559","5.0","1.0","17.0","4.0","28.0","1.0","18.0","0.0","0","0","0","0","0","99","99","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1326192046474895362","https://twitter.com/rOpenSci/status/1326192046474895362","@L_Brierley Shoutouts  to rentrez author @TheAtavism, and taxizedb authors @sckottie and @ZebulunArendsee
+
+2/2","2020-11-10 15:56 +0000","3787.0","7.0","0.0018484288354898336","0.0","0.0","3.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1326191624821510145","https://twitter.com/rOpenSci/status/1326191624821510145","[blog] Using Open-Access Tools (rentrez, taxize) to Find Coronaviruses, Their Genetic Sequences, and Their Hosts
+
+@L_Brierley shows how to reproducibly acquire, clean and explore viral hosts and genetics
+
+https://t.co/HsJyQeLTfq
+
+#rstats #rentrez #taxize #covid19 #SARSCoV2
+
+1/2 https://t.co/4Ztva7GiIo","2020-11-10 15:54 +0000","9662.0","186.0","0.019250672738563443","7.0","1.0","8.0","6.0","33.0","1.0","62.0","0.0","0","0","0","0","0","68","68","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1324849040408875009","https://twitter.com/rOpenSci/status/1324849040408875009","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eIuTr 
+
+Cite: https://t.co/dtABKgIWzm https://t.co/gKkhhyEzXZ","2020-11-06 23:00 +0000","5727.0","77.0","0.013445084686572377","3.0","0.0","11.0","5.0","23.0","1.0","13.0","0.0","0","0","0","0","0","21","21","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1324820331580698624","https://twitter.com/rOpenSci/status/1324820331580698624","Save the date! Community Call Wed Dec 16, 10-11am Pacific 
+
+The Wild World of Data Repositories - types of repos, challenges in data deposition &amp; reuse, vision for new tools
+
+This panel is a treat: @kara_woo @DaniLowenberg @metamattj @cboettig @_inundata 
+
+#RStats","2020-11-06 21:05 +0000","22544.0","241.0","0.010690205819730306","40.0","0.0","41.0","44.0","0.0","0.0","116.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
