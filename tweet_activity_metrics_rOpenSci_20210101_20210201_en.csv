@@ -1,0 +1,249 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1355289625150033927","https://twitter.com/rOpenSci/status/1355289625150033927","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @sckottie 👌 every two weeks
+
+https://t.co/QEJfCWZ5BT","2021-01-29 23:00 +0000","4980.0","75.0","0.015060240963855422","3.0","0.0","11.0","11.0","36.0","1.0","13.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1354485460781780992","https://twitter.com/rOpenSci/status/1354485460781780992","Today @aaronwolen will give a short talk about osfr pkg https://t.co/ZewW8qzEtH as part of this @OSFramework
+discussion
+
+osfr was peer reviewed through rOpenSci 
+
+12 pm PT | 3 pm ET | 8 pm GMT https://t.co/kIPyJQI75W","2021-01-27 17:44 +0000","5770.0","52.0","0.00901213171577123","5.0","0.0","12.0","7.0","11.0","0.0","17.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1354459154606297090","https://twitter.com/rOpenSci/status/1354459154606297090","[use case] Getting and plotting weather and climate data, by @Alex_Koiter
+
+https://t.co/vGYPZsmFs0
+
+with figure and link to code
+
+weathercan by @steffilazerte
+
+#rstats #weathercan https://t.co/qd1z2KYB1L","2021-01-27 16:00 +0000","6429.0","250.0","0.03888629646912428","8.0","1.0","27.0","6.0","33.0","1.0","47.0","0.0","0","0","0","0","0","127","127","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1354096364586729472","https://twitter.com/rOpenSci/status/1354096364586729472","@sckottie @ma_salmon 🙏 Thank yous go out to 
+
+- @RConsortium for funding
+- @adamhsparks, @LeNematode, @enpiar and @GaborCsardi for contributing to the project proposal
+- @DaveParr @Lluis_Revilla and @grusonh for feedback on the book
+
+(3/3)","2021-01-26 15:58 +0000","3234.0","20.0","0.006184291898577613","0.0","1.0","11.0","0.0","0.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1354096256277245954","https://twitter.com/rOpenSci/status/1354096256277245954","@sckottie @ma_salmon [blog] Learn All About HTTP Testing: Book Update 📘
+
+🎉 @ma_salmon and @sckottie share updates:
+
+- Setup examples with different HTTP testing packages 
+- 📦 Package comparisons
+- Advanced topics
+
+https://t.co/dxeDlDC39s
+
+#rstats #webmockr #httptest
+
+(2/3)","2021-01-26 15:58 +0000","4763.0","28.0","0.005878647910980474","3.0","1.0","12.0","0.0","3.0","1.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1354095733264281601","https://twitter.com/rOpenSci/status/1354095733264281601","Do you
+
+... develop an #rstats package interfacing web resources?
+... wish you could improve its unit tests with state-of-the-art HTTP testing tools?
+
+The HTTP testing in R book by @sckottie and @ma_salmon could help!
+
+Read about the new content:
+
+https://t.co/Z41MaMTbTd
+
+(1/3)","2021-01-26 15:55 +0000","11016.0","130.0","0.011801016702977488","21.0","1.0","33.0","16.0","25.0","0.0","34.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1352396340974608386","https://twitter.com/rOpenSci/status/1352396340974608386","https://t.co/qCaRwhQGy7 https://t.co/UHsiy3wixb","2021-01-21 23:23 +0000","1555.0","88.0","0.05659163987138264","0.0","0.0","5.0","3.0","7.0","0.0","18.0","0.0","0","0","0","0","0","55","55","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1352385623168962560","https://twitter.com/rOpenSci/status/1352385623168962560","starting in 20mins (3pm PT) https://t.co/PcASR8McpX","2021-01-21 22:40 +0000","4648.0","14.0","0.0030120481927710845","0.0","1.0","4.0","0.0","0.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1352065967833059329","https://twitter.com/rOpenSci/status/1352065967833059329","Chat with rOpenSci team members at rstudio::global
+
+Find us in the spatial chat Community Partners Room at the rOpenSci table. 5 times over 24 hrs.
+
+Times &amp; location here:
+https://t.co/wcbNAQqFEz
+
+#rstudioglobal #RStats https://t.co/X35GMFnf9J","2021-01-21 01:30 +0000","7693.0","71.0","0.009229169374756272","8.0","0.0","13.0","3.0","24.0","3.0","20.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1352037126641168387","https://twitter.com/rOpenSci/status/1352037126641168387","Tomorrow at #rstudioglobal, Jeroen will share some of his ideas on open source development, and talk about our new big rOpenSci project: R-universe! Don't miss it! https://t.co/s8RVcq81Oa https://t.co/c7jDDlnGaF","2021-01-20 23:35 +0000","50316.0","547.0","0.01087129342555052","17.0","0.0","67.0","21.0","116.0","6.0","62.0","0.0","0","0","0","0","0","5194","258","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1352028134128955392","https://twitter.com/rOpenSci/status/1352028134128955392","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/APHRy5H4PR","2021-01-20 23:00 +0000","3934.0","59.0","0.014997458057956279","1.0","0.0","2.0","17.0","0.0","0.0","10.0","0.0","0","0","0","0","0","29","29","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351990439058894848","https://twitter.com/rOpenSci/status/1351990439058894848","@hannahjchapman @mcguinlu More rOpenSci R packages here for accessing papers and analyzing text in general https://t.co/VBJTQ6QVSC","2021-01-20 20:30 +0000","35.0","2.0","0.05714285714285714","0.0","0.0","0.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351989460049694720","https://twitter.com/rOpenSci/status/1351989460049694720","@hannahjchapman passing the kudos on to @mcguinlu who developed the package and sent it through rOpenSci open software peer review!","2021-01-20 20:26 +0000","794.0","10.0","0.012594458438287154","0.0","1.0","2.0","2.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351959183067779073","https://twitter.com/rOpenSci/status/1351959183067779073","Come find your people and your path 🤗
+ 
+https://t.co/2xbs4EiHn5
+
+END","2021-01-20 18:26 +0000","4415.0","30.0","0.006795016987542469","4.0","0.0","5.0","1.0","9.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351958920928002050","https://twitter.com/rOpenSci/status/1351958920928002050","Please cite the guide as:
+Stefanie Butland &amp; Steffi LaZerte. (2020) rOpenSci Community Contributing Guide (Version v0.1.0). Zenodo. https://t.co/mkDzzOENiB
+
+15/n","2021-01-20 18:24 +0000","3853.0","9.0","0.0023358422008824295","1.0","1.0","4.0","0.0","1.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351957944644980739","https://twitter.com/rOpenSci/status/1351957944644980739","Influences: Contribute to @astropy https://t.co/W1yJ9uuhoq
+
+@ProjectJupyter Contributing guide https://t.co/w3QI7BZ0m9
+
+@RStudioEDU Education
+https://t.co/4kxnMoGNZX
+
+14/n","2021-01-20 18:21 +0000","2016.0","17.0","0.008432539682539682","1.0","1.0","2.0","0.0","8.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351957150520668160","https://twitter.com/rOpenSci/status/1351957150520668160","Influences: Mozilla Open Leadership Series Contributor Personas &amp; Pathways https://t.co/w5bP7Dgx26
+
+@thecarpentries Learner Profiles https://t.co/0Nn7OxbNpE
+
+13/n","2021-01-20 18:17 +0000","2166.0","9.0","0.004155124653739612","1.0","1.0","1.0","0.0","4.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351956650987450374","https://twitter.com/rOpenSci/status/1351956650987450374","Influences:  Working in Public: The Making and Maintenance of Open Source Software by @nayafia
+
+https://t.co/Q1QZaSylJf
+
+12/n","2021-01-20 18:15 +0000","1944.0","9.0","0.004629629629629629","1.0","1.0","4.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351956336771121156","https://twitter.com/rOpenSci/status/1351956336771121156","Influences: Architecture of Participation in Open Source Paradigm Shift by Tim O'Reilly
+
+https://t.co/LYLxAYbcyF. 
+
+Thanks to @DrKariLJordan @abbycabs for tweeting about this at @ChanZuckerberg  #EOSSmtg
+
+11/n","2021-01-20 18:14 +0000","2103.0","21.0","0.009985734664764621","2.0","1.0","5.0","1.0","3.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351954869016383490","https://twitter.com/rOpenSci/status/1351954869016383490","Influences: Ten simple rules for helping newcomers become contributors to open projects 
+
+https://t.co/M6LrYisSZ7
+
+by @DanSholler @igorsteinmacher @denaefordrobin @dataandme @mhoye @gvwilson
+
+10/n","2021-01-20 18:08 +0000","2385.0","24.0","0.010062893081761006","2.0","1.0","6.0","1.0","2.0","0.0","12.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351953707437498368","https://twitter.com/rOpenSci/status/1351953707437498368","Influences: How to Contribute to Open Source
+https://t.co/AvUV4vRPJr 
+
+by @nayafia et al https://t.co/NMogvp8oHO
+
+9/n","2021-01-20 18:04 +0000","2562.0","18.0","0.00702576112412178","2.0","1.0","4.0","1.0","4.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351952979667030018","https://twitter.com/rOpenSci/status/1351952979667030018","Standing on the shoulders of giants. 
+
+The motivation, approach, design, tone, and content of this guide was influenced by many
+
+https://t.co/4KBz6YWYbX
+
+8/n","2021-01-20 18:01 +0000","2126.0","22.0","0.010348071495766699","1.0","1.0","4.0","3.0","3.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351952803443314689","https://twitter.com/rOpenSci/status/1351952803443314689","In our dreams, the rOpenSci Community Contributing Guide can be a model for other open source communities to enable more transparent and sustainable participation.
+
+https://t.co/2xbs4EiHn5
+
+7/n","2021-01-20 18:00 +0000","2523.0","16.0","0.006341656757827983","3.0","1.0","6.0","1.0","2.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351952059705135105","https://twitter.com/rOpenSci/status/1351952059705135105","Lots of options!
+30 mins sharing your package use case or reporting a bug
+
+1 hr learning by attending a Community Call
+
+5 hrs reviewing a pkg
+
+ongoing commitment to help maintain a pkg
+
+and many more
+
+6/n","2021-01-20 17:57 +0000","1787.0","10.0","0.005595970900951315","1.0","1.0","3.0","2.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351951549904220167","https://twitter.com/rOpenSci/status/1351951549904220167","Ch3: rOpenSci Resources has incoming links from Ch2 or can be used on its own. 
+
+Brief descriptions, “How to contribute”, &amp; a set of specific actions that link out to the primary resources needed
+
+https://t.co/VWaLdPSDQS
+
+5/n https://t.co/E4CPpO2f82","2021-01-20 17:55 +0000","1603.0","12.0","0.007485963817841547","1.0","1.0","2.0","1.0","0.0","0.0","6.0","0.0","0","0","0","0","0","1","1","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351950994876243968","https://twitter.com/rOpenSci/status/1351950994876243968","Ch2: What brings you here? is framed around your motivations to Discover; Connect; Learn; Build; Help. 
+
+Motivation -&gt; choose from list of contributions -&gt; takes you to “how to” in Ch 3.
+
+https://t.co/ZD8wxyWHjg
+
+4/n https://t.co/QcFUhozUBI","2021-01-20 17:53 +0000","1747.0","19.0","0.010875787063537493","1.0","1.0","2.0","2.0","0.0","0.0","2.0","0.0","0","0","0","0","0","11","11","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351950451915165697","https://twitter.com/rOpenSci/status/1351950451915165697","The guide has three chapters
+
+Ch1: rOpenSci &amp; Our Community shares our mission, what it means to be part of our community, and introduces you to some Humans of rOpenSci.
+
+https://t.co/qk3RGux36g
+
+3/n","2021-01-20 17:51 +0000","1676.0","11.0","0.0065632458233890216","1.0","1.0","2.0","2.0","1.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351950235644293121","https://twitter.com/rOpenSci/status/1351950235644293121","You’re welcome here! 
+
+Are you a newcomer exploring the landscape? Or an expert who knows exactly what you have to offer? We welcome code and non-code contributions from people at any career stage, and in any sector.
+
+2/n","2021-01-20 17:50 +0000","2576.0","28.0","0.010869565217391304","4.0","1.0","6.0","9.0","1.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351950032459612262","https://twitter.com/rOpenSci/status/1351950032459612262","[blog] Introducing the rOpenSci Community Contributing Guide
+
+by @StefanieButland
+@steffilazerte 
+
+https://t.co/BDpJK7VvDl
+
+1/n 
+
+#RStats https://t.co/zZxHITAFyq","2021-01-20 17:49 +0000","25146.0","291.0","0.011572417084228109","27.0","2.0","39.0","21.0","41.0","1.0","108.0","0.0","0","0","0","0","0","52","52","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351922434992181250","https://twitter.com/rOpenSci/status/1351922434992181250","[use case] Using ghql to analyze all my 2020 GitHub commits by @ameisen_strasse
+
+https://t.co/dr539vzgEj
+
+with examples and link to blog post
+
+ghql by @sckottie
+
+#rstats #ghql https://t.co/DW7wkNFgec","2021-01-20 16:00 +0000","4573.0","66.0","0.014432538814782419","4.0","0.0","7.0","4.0","7.0","0.0","6.0","0.0","0","0","0","0","0","38","38","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351563059819638789","https://twitter.com/rOpenSci/status/1351563059819638789","@aGricolaMZ And belated shoutouts to to rOpenSci reviewers @nikopartanen and @jonkeane  🙏 🙏 Thank you!","2021-01-19 16:11 +0000","3337.0","12.0","0.003596044351213665","1.0","0.0","7.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351561609701949440","https://twitter.com/rOpenSci/status/1351561609701949440","@Lluis_Revilla 🙏 Shoutouts to to rOpenSci reviewers @ZebulunArendsee and Jennifer Chang (https://t.co/vq5LuSv0lP)
+
+(2/2)","2021-01-19 16:06 +0000","2845.0","11.0","0.003866432337434095","0.0","0.0","3.0","2.0","2.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1351561528194068480","https://twitter.com/rOpenSci/status/1351561528194068480","[blog] Introducing BaseSet for mathematical sets 🧬
+
+@Lluis_Revilla shares the story behind BaseSet, a package for comparing mathematical sets.
+🔵 🟢 🟥 🟩
+
+Learn how this can help with the study of genes 🧬 related to disease!
+
+https://t.co/AOTM9tY79C 
+
+#rstats #BaseSet 
+
+(1/2)","2021-01-19 16:05 +0000","5557.0","66.0","0.01187691200287925","8.0","1.0","11.0","4.0","23.0","0.0","19.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1349491417333309440","https://twitter.com/rOpenSci/status/1349491417333309440","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them! 
+
+https://t.co/l5mVWyBljW https://t.co/aZp1uTg3YW","2021-01-13 23:00 +0000","4534.0","70.0","0.015438906043228937","6.0","0.0","14.0","6.0","4.0","0.0","11.0","0.0","0","0","0","0","0","29","29","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1349385724987142144","https://twitter.com/rOpenSci/status/1349385724987142144","[use case] Scraping liked posts on Twitter using rtweet, by @ivelasq3
+
+https://t.co/PJ4rLfwIX4
+
+with link to blog post
+
+rtweet by @kearneymw
+
+#rstats #rtweet","2021-01-13 16:00 +0000","3652.0","25.0","0.006845564074479737","2.0","0.0","7.0","0.0","12.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1348770491960475651","https://twitter.com/rOpenSci/status/1348770491960475651","rOpenSci News is out https://t.co/xj7QPLI8U1 #rstats
+
+- 📆 Upcoming community call on statistical software peer review
+- podcast w/ @ma_salmon 
+- Pkgs: 13 new versions
+- Papers: 25 articles
+- Blog: 7 posts, incl. from new pkg through software review
+- Software review: 1 submitted","2021-01-11 23:15 +0000","4331.0","53.0","0.012237358577695681","6.0","0.0","7.0","3.0","18.0","0.0","19.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1347679475597778944","https://twitter.com/rOpenSci/status/1347679475597778944","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eIuTr 
+
+Cite: https://t.co/dtABKgIWzm https://t.co/SSIRJHEyXv","2021-01-08 23:00 +0000","6372.0","82.0","0.012868801004394225","8.0","0.0","18.0","4.0","26.0","2.0","16.0","0.0","0","0","0","0","0","8","8","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1347617084763643904","https://twitter.com/rOpenSci/status/1347617084763643904","[blog] rOpenSci Code of Conduct Annual Review
+
+Code of Conduct committee 2021: @StefanieButland
+@bikesRdata @kara_woo. Thank you @sckottie for your service to the committee 
+
+https://t.co/dGTbalktV7
+
+#RStats","2021-01-08 18:52 +0000","6799.0","46.0","0.006765700838358583","7.0","0.0","9.0","8.0","13.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1347615809611259904","https://twitter.com/rOpenSci/status/1347615809611259904","[blog] rOpenSci 2020 Code of Conduct Transparency Report
+
+In 2020, we did not receive any incident reports. A lack of reports does not mean we’re perfect. If in doubt, please contact us at conduct at https://t.co/F4QUL4r0ky
+
+https://t.co/dHExxqeti6","2021-01-08 18:47 +0000","3610.0","10.0","0.002770083102493075","2.0","0.0","2.0","1.0","3.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1346954699635892225","https://twitter.com/rOpenSci/status/1346954699635892225","Our rOpenSci Community Contributing Guide explores the benefits of contributing to rOpenSci and how to go about making a contribution. It’s easier than you think 😀
+
+🔗 https://t.co/MDsXWbYcwk 
+
+Cite: https://t.co/WeXaiOZE47","2021-01-06 23:00 +0000","3917.0","20.0","0.0051059484299208575","1.0","0.0","2.0","1.0","7.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
