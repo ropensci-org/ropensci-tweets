@@ -1,0 +1,173 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1388176326570414080","https://twitter.com/rOpenSci/status/1388176326570414080","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @ma_salmon 👌 every month
+
+https://t.co/lJjQzEOowU","2021-04-30 17:00 +0000","4397.0","21.0","0.0047759836251989995","3.0","0.0","5.0","1.0","7.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1387427964627849221","https://twitter.com/rOpenSci/status/1387427964627849221","@ma_salmon @grusonh @steffilazerte @sinarueeger @bikesRdata And don't forgot about rOpenSci's first experimental Social Label-athon: https://t.co/LSfnDwYJ93 
+
+Join us Thurs April 29th 16:00 UTC for a fun 1.5h of socializing, co-working and making our repos more contributor friendly.
+
+Registration encouraged: https://t.co/7fZscpLVAr
+
+(6/6)","2021-04-28 15:26 +0000","2241.0","22.0","0.009817045961624275","3.0","0.0","5.0","2.0","8.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1387427887054299137","https://twitter.com/rOpenSci/status/1387427887054299137","@ma_salmon @grusonh @steffilazerte @sinarueeger @bikesRdata - Are there examples of “help wanted”-labelled issues taken on by users/external contributors?
+- When is a Contributor License Agreement (CLA) necessary?
+
+(5/6)","2021-04-28 15:26 +0000","2120.0","4.0","0.0018867924528301887","0.0","0.0","4.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1387427836361912323","https://twitter.com/rOpenSci/status/1387427836361912323","@ma_salmon @grusonh @steffilazerte @sinarueeger @bikesRdata Questions included:
+
+- How to label issues that are really hard? 
+- Tips for working with contributors uncomfortable with git/github? 
+
+(4/6)","2021-04-28 15:25 +0000","1915.0","6.0","0.003133159268929504","0.0","0.0","4.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1387427795861598209","https://twitter.com/rOpenSci/status/1387427795861598209","@ma_salmon @grusonh @steffilazerte @sinarueeger @bikesRdata This call explored how to make package repos open and inviting to welcome user contributions, specifically:
+
+- Using specific files and repo set up
+- Tone and attitude - Be kind! Don't let contributors feel ignored!
+- Low-hanging fruit: Label your issues for contributors
+
+(3/6)","2021-04-28 15:25 +0000","1352.0","5.0","0.0036982248520710057","0.0","0.0","5.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1387427643864322053","https://twitter.com/rOpenSci/status/1387427643864322053","@ma_salmon @grusonh @steffilazerte @sinarueeger @bikesRdata 🎉 Includes direct links to sections of the video and collaborative notes document  🎉
+
+🙏 Thank you to all attendees and for the great questions we received! 
+
+(2/6)","2021-04-28 15:25 +0000","1964.0","6.0","0.003054989816700611","0.0","0.0","4.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1387427577879580675","https://twitter.com/rOpenSci/status/1387427577879580675","[blog] Set Up Your Package to Foster a Community - Community Call Summary
+
+☹️ Did you miss last week's community call with @ma_salmon, @grusonh and @steffilazerte?
+
+😀 Check out this awesome in-depth summary by @sinarueeger and @bikesrdata
+
+https://t.co/DjRdBk0OCp
+
+#rstats
+
+(1/6)","2021-04-28 15:24 +0000","6573.0","60.0","0.009128251939753538","11.0","5.0","15.0","5.0","8.0","0.0","16.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1386749574480465923","https://twitter.com/rOpenSci/status/1386749574480465923","@_useRconf @ma_salmon @sckottie This tutorial is about Advanced testing of R packages, with HTTP testing as a case study.
+
+Related materials:
+https://t.co/QRFCZKIEPF
+
+https://t.co/Dwoidp5bZh
+
+https://t.co/G4SFQlPJlB
+
+https://t.co/sNaQYG3OUI","2021-04-26 18:30 +0000","3297.0","35.0","0.010615711252653927","3.0","0.0","9.0","2.0","16.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1386748517272604675","https://twitter.com/rOpenSci/status/1386748517272604675","Registration is open for @_useRconf tutorial ""GET better at testing your R package!"" with @ma_salmon &amp; @sckottie ! https://t.co/VSOJF1wAGh","2021-04-26 18:26 +0000","11906.0","98.0","0.008231143961028054","8.0","1.0","24.0","20.0","0.0","0.0","45.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1385640178509701120","https://twitter.com/rOpenSci/status/1385640178509701120","Video with subtitles from yesterday's call are now posted
+ https://t.co/RaknEOkfPi https://t.co/W2dcokFPyN","2021-04-23 17:02 +0000","7230.0","46.0","0.00636237897648686","6.0","0.0","17.0","1.0","8.0","0.0","14.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1385294111666708484","https://twitter.com/rOpenSci/status/1385294111666708484","rOpenSci help-wanted issues include opps for code and non-code contributions: https://t.co/rNgmL2tIuM
+
+#RStats https://t.co/W2dcokFPyN","2021-04-22 18:07 +0000","4753.0","20.0","0.004207868714496108","2.0","0.0","5.0","1.0","7.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1385255913250906115","https://twitter.com/rOpenSci/status/1385255913250906115","Starts at top of the hour! https://t.co/W2dcokFPyN","2021-04-22 15:35 +0000","5357.0","7.0","0.0013067015120403211","4.0","0.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1384914829698236425","https://twitter.com/rOpenSci/status/1384914829698236425","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/3fu36lYZa5","2021-04-21 17:00 +0000","3385.0","49.0","0.01447562776957164","0.0","0.0","1.0","15.0","1.0","0.0","10.0","0.0","0","0","0","0","0","22","22","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1382929746699370498","https://twitter.com/rOpenSci/status/1382929746699370498","April News 📫
+
+https://t.co/Joerg2eHIn
+
+Cliff notes:
+
+✔️ rOpenSci HQ: new reviewer volunteering form; Upcoming community calls: Set Up Your Package to Foster a Community, R-universe Project; co-working labelathon.
+✔️ 3 new 📦, 21 updates.
+✔️  2 use cases.
+✔️  package dev tips.","2021-04-16 05:31 +0000","6160.0","60.0","0.00974025974025974","2.0","0.0","12.0","1.0","16.0","0.0","29.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1382378116958457857","https://twitter.com/rOpenSci/status/1382378116958457857","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them!
+
+https://t.co/l5mVWySWbu https://t.co/Yq1VnXy13m","2021-04-14 17:00 +0000","5041.0","74.0","0.014679627058123389","8.0","0.0","10.0","4.0","6.0","0.0","14.0","0.0","0","0","0","0","0","32","32","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1382353585531465736","https://twitter.com/rOpenSci/status/1382353585531465736","[use case] Using RSelenium to scrape a paginated HTML table by Guillaume Pressiat
+
+https://t.co/XYVMmqGSNA
+
+with link to blog post
+
+RSelenium by Ju Yeong Kim
+
+#rstats #web-scraping #rselenium","2021-04-14 15:22 +0000","4164.0","41.0","0.00984630163304515","4.0","0.0","11.0","2.0","14.0","2.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1380498270091419651","https://twitter.com/rOpenSci/status/1380498270091419651","New rOpenSci technote: Publishing and browsing articles on R-universe.
+
+https://t.co/kxcrQcj3Sz","2021-04-09 12:30 +0000","5370.0","62.0","0.01154562383612663","4.0","0.0","10.0","5.0","32.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1380219508846063617","https://twitter.com/rOpenSci/status/1380219508846063617","@ma_salmon @grusonh @steffilazerte @StefanieButland Our experiment includes 4 Label-athons (if y’all show up, we can do more) at alternating times to accommodate our community around the world. Thursdays April 29, May 13, May 27, June 10.
+
+Specific times for the later dates TBA
+
+https://t.co/LSfnDwH7Kt
+
+5/5","2021-04-08 18:02 +0000","2900.0","8.0","0.002758620689655172","0.0","0.0","5.0","1.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1380219172932648965","https://twitter.com/rOpenSci/status/1380219172932648965","@ma_salmon @grusonh @steffilazerte @StefanieButland In the Label-athon, consider working on: 
+
+- Code of Conduct
+- Contributing guide
+- Roadmap &amp; expectations
+- Open &amp; label issues to invite contributions
+
+Also, ask questions of rOpenSci and other devs!
+
+After, we’ll tweet links to “help wanted” issues to help get attention
+
+4/5","2021-04-08 18:01 +0000","5018.0","15.0","0.002989238740534077","1.0","1.0","4.0","1.0","0.0","0.0","8.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1380218974017712128","https://twitter.com/rOpenSci/status/1380218974017712128","@ma_salmon @grusonh @steffilazerte @StefanieButland Hard to find time to put ideas into practice?
+
+Join our first Social “Label-athon”!
+
+1.5 hrs Thurs Apr 29, 9AM PDT / 16:00 UTC 
+
+- Meet other pkg devs &amp; rOpenSci staff
+- Implement recommendations from the comm call in your repos
+
+RSVP encouraged
+
+https://t.co/LSfnDwH7Kt
+
+3/5","2021-04-08 18:00 +0000","2143.0","16.0","0.007466168922071862","1.0","1.0","5.0","0.0","3.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1380218781499228161","https://twitter.com/rOpenSci/status/1380218781499228161","@ma_salmon @grusonh @steffilazerte @StefanieButland Comm call speakers will share tips and examples of
+
+- setting up repos to encourage different types of community contributions
+- attracting attention to your pkg
+
+All welcome! No RSVP needed.
+
+https://t.co/RaknEOkfPi
+
+2/5","2021-04-08 17:59 +0000","1453.0","16.0","0.011011699931176875","1.0","1.0","4.0","1.0","6.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1380218608949719041","https://twitter.com/rOpenSci/status/1380218608949719041","[Community Call] Set Up Your Package to Foster a Community
+w/ @ma_salmon @grusonh @steffilazerte @StefanieButland
+
+Thurs Apr 22, 9AM PDT / 16:00 UTC
+https://t.co/RaknEOkfPi
+
+Followed Apr 29 by our first experimental Social, the ""Label-athon""!
+https://t.co/LSfnDwH7Kt
+
+1/5
+
+#RStats https://t.co/CMKF3tGQku","2021-04-08 17:58 +0000","75731.0","722.0","0.009533744437548692","26.0","3.0","36.0","33.0","73.0","1.0","138.0","0.0","0","0","0","0","0","412","412","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1379841399810580481","https://twitter.com/rOpenSci/status/1379841399810580481","Our rOpenSci Community Contributing Guide explores the benefits of contributing to rOpenSci and how to go about making a contribution. It’s easier than you think 😀
+
+🔗 https://t.co/2xbs4EAiLF 
+
+Cite: https://t.co/WeXaiOZE47","2021-04-07 17:00 +0000","3651.0","25.0","0.006847439057792386","2.0","0.0","6.0","2.0","9.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1377999268506529799","https://twitter.com/rOpenSci/status/1377999268506529799","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eqTuR 
+
+Cite: https://t.co/dtABKgrlaM https://t.co/rMSFVrBQt7","2021-04-02 15:00 +0000","5898.0","84.0","0.014242115971515769","11.0","0.0","13.0","5.0","29.0","0.0","8.0","0.0","0","0","0","0","0","18","18","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1377726020963344384","https://twitter.com/rOpenSci/status/1377726020963344384","Save the dates!
+Two Community Calls coming
+
+Apr 22: Set Up Your Package To Foster A Community
+https://t.co/RaknEOkfPi
+
+May 25: rOpenSci's R-universe Project
+https://t.co/gcgPwWoXpI
+
+All welcome. No RSVP required
+
+#RStats","2021-04-01 20:54 +0000","7447.0","64.0","0.008594064724049952","10.0","0.0","13.0","4.0","19.0","1.0","17.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
