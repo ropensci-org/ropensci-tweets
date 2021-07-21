@@ -1,0 +1,214 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1410251783897686017","https://twitter.com/rOpenSci/status/1410251783897686017","[use case] Mapping Asian elephant observations with rgbif by @ttso
+
+https://t.co/XLlwmcT8dg
+
+with link to code and Shiny web app
+
+rgbif by @sckottie
+
+#rstats #rgbif https://t.co/sejY57uvBE","2021-06-30 15:00 +0000","4922.0","42.0","0.008533116619260463","6.0","0.0","8.0","0.0","5.0","0.0","12.0","0.0","0","0","0","0","0","11","11","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1408470049136930817","https://twitter.com/rOpenSci/status/1408470049136930817","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @ma_salmon 👌 every month
+
+https://t.co/lJjQzEwN8k","2021-06-25 17:00 +0000","3716.0","24.0","0.006458557588805167","5.0","0.0","3.0","2.0","11.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1408077463108964355","https://twitter.com/rOpenSci/status/1408077463108964355","[help wanted] rOpenSci 📦 git2rdata is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by Thierry Onkelinx:
+
+""Update metadata format to accommodate more FAIR principles""
+at https://t.co/WKG6QIFYb0
+
+#RStats","2021-06-24 15:00 +0000","3708.0","21.0","0.0056634304207119745","3.0","0.0","1.0","1.0","11.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1407966248261013507","https://twitter.com/rOpenSci/status/1407966248261013507","[technote] How We Curate Our Monthly Newsletter 📮
+
+@ma_salmon explains our workflow for preparing &amp; sending our monthly newsletter, partly automatically. 
+
+Featuring: An R Markdown parameterized report; GitHub API; Discourse API; Hugo; SendGrid.
+
+https://t.co/OU8jOp7SYu
+
+#RStats","2021-06-24 07:38 +0000","7845.0","85.0","0.010834926704907584","11.0","1.0","10.0","6.0","31.0","0.0","26.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1407655708959649793","https://twitter.com/rOpenSci/status/1407655708959649793","June News 📬 #RStats
+
+https://t.co/Khu2p7l1ue
+
+🚀 Resources from comm call about R-universe.
+🎙️rOpenSci at @_useRconf!
+📦 6 new packages, 18 package updates.
+🔎 Software review snapshot.
+🌊 1 blog post.
+📜 Many citations.
+🔩 2 use cases.
+📦 Tips for package developers.","2021-06-23 11:04 +0000","5027.0","65.0","0.012930177043962602","4.0","0.0","6.0","5.0","25.0","2.0","23.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1407347220110786568","https://twitter.com/rOpenSci/status/1407347220110786568","[technote] How to create your personal CRAN-like repository on R-universe 🌌🌃
+
+@opencpu shows how anyone can create a personal R space for publishing software, rmd articles or anything that fits in an R package 📦!
+
+🔭 Why not give it a try? 🔭
+
+https://t.co/Ln8COU4kas
+
+#rstats","2021-06-22 14:38 +0000","4877.0","39.0","0.00799671929464835","5.0","0.0","7.0","1.0","16.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1407241253151031296","https://twitter.com/rOpenSci/status/1407241253151031296","New #technote: How to create your personal CRAN-like repository on R-universe https://t.co/Ln8COU4kas","2021-06-22 07:37 +0000","4652.0","51.0","0.010963026655202063","6.0","0.0","13.0","2.0","25.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1405545771320053761","https://twitter.com/rOpenSci/status/1405545771320053761","[help wanted] rOpenSci 📦 tinkr (maintained by @ma_salmon) is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @zkamvar:
+
+""Why do code blocks need a newline at the end?""
+at https://t.co/nLH0Q5lPDH
+
+#RStats","2021-06-17 15:20 +0000","3371.0","37.0","0.010975971521803619","2.0","0.0","4.0","1.0","25.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1405544512907141120","https://twitter.com/rOpenSci/status/1405544512907141120","[help wanted] rOpenSci 📦 ruODK is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @fistful_of_bass:
+
+""Support submission management""
+at https://t.co/b8NT66Gt8B
+
+#RStats","2021-06-17 15:15 +0000","3508.0","12.0","0.0034207525655644243","3.0","0.0","2.0","0.0","5.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1405543254485913614","https://twitter.com/rOpenSci/status/1405543254485913614","[help wanted] rOpenSci 📦 tinkr (maintained by @ma_salmon) is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @zkamvar:
+
+""Add helper functions for adding/extracting features""
+at https://t.co/50YBYZZP0a
+
+#RStats","2021-06-17 15:10 +0000","3565.0","12.0","0.0033660589060308557","3.0","0.0","3.0","3.0","3.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1405541997226520589","https://twitter.com/rOpenSci/status/1405541997226520589","[help wanted] rOpenSci 📦 UCSCXenaTools is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @WangShxiang:
+
+""这种方式对下载有帮助吗？"" (English: Does this method help download?)
+at https://t.co/HPXMfzPlqx
+
+#RStats","2021-06-17 15:05 +0000","3563.0","16.0","0.004490597810833568","3.0","0.0","1.0","4.0","5.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1405540750390005772","https://twitter.com/rOpenSci/status/1405540750390005772","[help wanted] rOpenSci 📦 ruODK is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @fistful_of_bass:
+
+""Support user management""
+at https://t.co/1dwY2tROEf
+
+#RStats","2021-06-17 15:00 +0000","3087.0","13.0","0.004211208292840946","2.0","0.0","1.0","1.0","7.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1405208551237341185","https://twitter.com/rOpenSci/status/1405208551237341185","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/XIP67AS5VJ","2021-06-16 17:00 +0000","3090.0","26.0","0.008414239482200648","0.0","0.0","1.0","12.0","0.0","0.0","3.0","0.0","0","0","0","0","0","10","10","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1405178361652129797","https://twitter.com/rOpenSci/status/1405178361652129797","[use case] Using rotl to create phylogenetic trees by @dosullivan019
+
+https://t.co/D4g4mack23
+
+with link to code snippet
+
+rotl by @fmic_
+
+#rstats #phylogenetics #rotl https://t.co/AnYUbdHoEK","2021-06-16 15:00 +0000","4956.0","82.0","0.016545601291364002","5.0","1.0","10.0","3.0","7.0","2.0","7.0","0.0","0","0","0","0","0","47","47","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1403139577737617409","https://twitter.com/rOpenSci/status/1403139577737617409","Join the rOpenSci Stefffs right now! For a 1.5hr co-working &amp; to meet other #rstats users &amp; devs
+
+1 room to work quietly, 1 room to ask questions
+
+5pm Pacific Thurs June 10 / 00:00 UTC Fri June 11  
+
+@steffilazerte @StefanieButland 
+
+https://t.co/xmVTthKnTu","2021-06-10 23:58 +0000","4661.0","34.0","0.0072945719802617465","3.0","1.0","2.0","1.0","16.0","2.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1403054065215442944","https://twitter.com/rOpenSci/status/1403054065215442944","Join the rOpenSci Stefffs later today for 1.5hr co-working &amp; to meet other #rstats users &amp; devs
+
+1 room to work quietly, 1 room to ask questions
+
+5pm Pacific Thurs June 10 / 00:00 UTC Fri June 11  
+
+@steffilazerte @StefanieButland https://t.co/20hC0FiuGS","2021-06-10 18:18 +0000","6120.0","18.0","0.0029411764705882353","7.0","0.0","5.0","4.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1403009056004997125","https://twitter.com/rOpenSci/status/1403009056004997125","[help wanted] rOpenSci 📦 osmextract is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @a_gilardi5:
+
+""Question - is there a ""datetime"" functionality similar to osmdata package?""
+at https://t.co/X4AbH3aavD
+
+#RStats","2021-06-10 15:20 +0000","3125.0","31.0","0.00992","3.0","0.0","2.0","5.0","15.0","0.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1403007797860749317","https://twitter.com/rOpenSci/status/1403007797860749317","[help wanted] rOpenSci 📦 dataspice is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @brycem:
+
+""Session_Info generator""
+at https://t.co/AJOUKXk70G
+
+#RStats","2021-06-10 15:15 +0000","3557.0","15.0","0.004217036828788305","4.0","0.0","2.0","0.0","7.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1403006539800006663","https://twitter.com/rOpenSci/status/1403006539800006663","[help wanted] rOpenSci 📦 qcoder is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @elinwaring:
+
+""Allow access to a data other directories on Windows.""
+at https://t.co/S3FxA5BbzJ
+
+#RStats","2021-06-10 15:10 +0000","3391.0","13.0","0.0038336773813034504","3.0","0.0","1.0","3.0","4.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1403005281664073729","https://twitter.com/rOpenSci/status/1403005281664073729","[help wanted] rOpenSci 📦 rtweet (maintained by @kearneymw) is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @Lluis_Revilla:
+
+""trends_closest""
+at https://t.co/zFI14c6o5n
+
+#RStats","2021-06-10 15:05 +0000","3288.0","23.0","0.006995133819951338","3.0","0.0","2.0","1.0","14.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1403004026812260352","https://twitter.com/rOpenSci/status/1403004026812260352","[help wanted] rOpenSci 📦 ruODK is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @fistful_of_bass:
+
+""Support session auth""
+at https://t.co/YONGtwIDRR
+
+#RStats","2021-06-10 15:00 +0000","3510.0","14.0","0.003988603988603989","5.0","0.0","2.0","3.0","4.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1402671837700624391","https://twitter.com/rOpenSci/status/1402671837700624391","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them!
+
+https://t.co/l5mVWyBljW https://t.co/785t3yGSc2","2021-06-09 17:00 +0000","3337.0","27.0","0.008091099790230746","1.0","0.0","4.0","1.0","7.0","0.0","1.0","0.0","0","0","0","0","0","13","13","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1402641645758263297","https://twitter.com/rOpenSci/status/1402641645758263297","[use case] Using tabulizer to extract tabular data from daily COVID-19 reports by @davidbraze
+
+https://t.co/FgaPykGDVl
+
+with link to code
+
+tabulizer by @tpaskhalis and @thosjleeper
+
+#rstats #tabulizer","2021-06-09 15:00 +0000","3663.0","21.0","0.005733005733005733","2.0","0.0","7.0","0.0","9.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1402282445215617032","https://twitter.com/rOpenSci/status/1402282445215617032","@steffilazerte 🙏 Thanks to the awesome package authors and maintainers:
+
+- @southmapr (rnaturalearth)
+- @sckottie (rnoaa for rOpenSci)
+- Ted Hart and Stéphane Guillou (rinat)
+
+(3/3)","2021-06-08 15:12 +0000","2647.0","5.0","0.0018889308651303363","0.0","0.0","3.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1402282310486134789","https://twitter.com/rOpenSci/status/1402282310486134789","@steffilazerte We'll explore 
+
+- 🧊 Arctic sea ice changes over the years (#rnaturalearth and #rnoaa)
+
+- 🦭Leopard seal observations in the Antarctic from iNaturalist (#rnaturalearth and #rinat)
+
+(2/3)","2021-06-08 15:12 +0000","2793.0","3.0","0.0010741138560687433","0.0","1.0","2.0","0.0","0.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1402282234757922819","https://twitter.com/rOpenSci/status/1402282234757922819","[blog] 🎉 Celebrating World Ocean Day rOpenSci Style 🎉 by @steffilazerte
+
+🐠🌊🐬🦭🐙🐟 Happy World Ocean Day! 🐟🐙🦭🐬🌊🐠
+
+Let's celebrate the Ocean which connects us all by exploring oceanic themes with rOpenSci pkgs
+
+https://t.co/lVP5lDnDkX
+
+#rstats #worldoceanday2021
+
+(1/3)","2021-06-08 15:11 +0000","7923.0","69.0","0.00870882241575161","12.0","1.0","18.0","6.0","19.0","2.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1400829697563316225","https://twitter.com/rOpenSci/status/1400829697563316225","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eqTuR 
+
+Cite: https://t.co/dtABKgrlaM https://t.co/ZZqw0211an","2021-06-04 15:00 +0000","7626.0","96.0","0.012588512981904013","15.0","0.0","17.0","8.0","27.0","2.0","11.0","0.0","0","0","0","0","0","16","16","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1400135127951360000","https://twitter.com/rOpenSci/status/1400135127951360000","Our rOpenSci Community Contributing Guide explores the benefits of contributing to rOpenSci and how to go about making a contribution. It’s easier than you think 😀
+
+🔗 https://t.co/2xbs4EAiLF 
+
+Cite: https://t.co/WeXaiOZE47","2021-06-02 17:00 +0000","2914.0","11.0","0.0037748798901853123","0.0","0.0","2.0","0.0","6.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
