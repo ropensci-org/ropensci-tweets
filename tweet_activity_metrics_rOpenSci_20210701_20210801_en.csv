@@ -1,0 +1,170 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1421229113075961856","https://twitter.com/rOpenSci/status/1421229113075961856","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @ma_salmon 👌 every month
+
+https://t.co/lJjQzEOowU","2021-07-30 22:00 +0000","4087.0","50.0","0.012233912405187179","7.0","0.0","10.0","8.0","17.0","2.0","6.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1420398650241560578","https://twitter.com/rOpenSci/status/1420398650241560578","[use case] Investigating the drought in the Candian prairies by @Alex_Koiter
+
+https://t.co/4MEc8Ye5tC
+
+with link to code
+
+weathercan by @steffilazerte
+
+#rstats #weathercan https://t.co/EaIGGLv36J","2021-07-28 15:00 +0000","3778.0","71.0","0.018793012175754367","4.0","0.0","7.0","6.0","5.0","0.0","13.0","0.0","0","0","0","0","0","36","36","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1420398648391880706","https://twitter.com/rOpenSci/status/1420398648391880706","[use case] targets pipeline with RMarkdown to download and visualize USGS data by @USGS_DataSci
+
+https://t.co/udCAByk2GZ
+
+with link to code
+
+targets by @wmlandau
+
+#rstats #targets https://t.co/zStdZFmbN7","2021-07-28 15:00 +0000","6709.0","154.0","0.02295424057236548","8.0","1.0","31.0","9.0","16.0","0.0","28.0","0.0","0","0","0","0","0","61","61","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1420036376096018434","https://twitter.com/rOpenSci/status/1420036376096018434","@pachadotdev ¡Quizás lo mejor de todo es que este paquete se escribió Y revisó en Español para maximizar la accesibilidad!
+
+¡🙏 agradecemos a los revisores de rOpenSci @mapaulacaldas, @fransvandunne y @melvidoni por sus aportes al primer paquete de rOpenSci jamás escrito!
+
+(2/2)","2021-07-27 15:00 +0000","2836.0","9.0","0.003173483779971791","1.0","0.0","4.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1420036324283895814","https://twitter.com/rOpenSci/status/1420036324283895814","[blog] La Historia de censo2017, el Primer Paquete de rOpenSci Revisado en Castellano por @pachadotdev
+
+¡Acceder a los datos del censo de Chile 🇨🇱 nunca fue más fácil!
+
+https://t.co/SJCLwq8puW
+
+#rstats
+
+(1/2)","2021-07-27 15:00 +0000","12391.0","68.0","0.005487854087644258","7.0","1.0","10.0","9.0","23.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1420036251449757705","https://twitter.com/rOpenSci/status/1420036251449757705","@pachadotdev @mapaulacaldas @fransvandunne @melvidoni Corrected link:
+
+https://t.co/DwysNM8ooI","2021-07-27 15:00 +0000","3076.0","14.0","0.004551365409622887","1.0","1.0","2.0","0.0","10.0","0.0","0.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1420035878957854725","https://twitter.com/rOpenSci/status/1420035878957854725","@pachadotdev And perhaps best of all, this package was both written AND reviewed in Spanish to maximize accessibility!
+
+🙏 Thank you to rOpenSci reviewers @mapaulacaldas, @fransvandunne &amp; @melvidoni for their contributions to the first ever rOpenSci Spanish package review!
+
+(2/2)","2021-07-27 14:58 +0000","2675.0","4.0","0.0014953271028037382","0.0","1.0","2.0","0.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1420035816970141703","https://twitter.com/rOpenSci/status/1420035816970141703","[blog] The Story Behind censo2017, the First rOpenSci Package to be Reviewed in Spanish by @pachadotdev
+
+Accessing Chilean 🇨🇱 census data has never been easier!
+
+https://t.co/QaxCXFEMMv
+
+#rstats
+
+(1/2)","2021-07-27 14:58 +0000","3842.0","38.0","0.00989068193649141","4.0","1.0","4.0","6.0","8.0","0.0","15.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1419681062985289733","https://twitter.com/rOpenSci/status/1419681062985289733","@steffilazerte @cboettig, rOpenSci Advisor
+
+- Are we learning to build better models at the cost of better decisions? (Aug 2)
+
+- How to participate in the EFI/NEON Challenge: Cyberinfrastructure and standards (Aug 3)
+
+- The right kind of machine learning for a changing planet? (Aug 3)
+
+(3/3)","2021-07-26 15:28 +0000","2712.0","6.0","0.0022123893805309734","2.0","0.0","2.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1419680995649929219","https://twitter.com/rOpenSci/status/1419680995649929219","@steffilazerte, rOpenSci Community assistant
+
+- Using rOpenSci packages to access open data for ecology (Aug 3)
+
+(2/3)","2021-07-26 15:28 +0000","2748.0","6.0","0.002183406113537118","1.0","1.0","2.0","1.0","0.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1419680921679286282","https://twitter.com/rOpenSci/status/1419680921679286282","Lots presentations by rOpenSci people at the #ESA2021 (Aug 2 - 6, 2021) this year!
+
+https://t.co/bas6rTtWWK
+
+(1/3)","2021-07-26 15:28 +0000","4187.0","25.0","0.0059708621925005975","3.0","1.0","4.0","2.0","11.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1418444545646374913","https://twitter.com/rOpenSci/status/1418444545646374913","July News 📨✨ #RStats 
+
+https://t.co/HkEJvXpKsl
+
+🎉  Statistical software review system open for submissions!
+🏆 2 new packages, awardFindR &amp; katex; 18 package updates.
+🔍 Software review snapshot.
+🗒️ 4 blog posts.
+🛠️ 5 use cases.
+📦 Tips for package developers.","2021-07-23 05:35 +0000","6203.0","58.0","0.00935031436401741","6.0","0.0","8.0","1.0","25.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1417967622944169984","https://twitter.com/rOpenSci/status/1417967622944169984","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/8AcqzSwbGH","2021-07-21 22:00 +0000","3060.0","27.0","0.008823529411764706","0.0","0.0","2.0","8.0","1.0","0.0","2.0","0.0","0","0","0","0","0","14","14","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1417863183935606790","https://twitter.com/rOpenSci/status/1417863183935606790","[use case] pdftools + tesseract para extraer texto en español by @espejolento
+
+https://t.co/4hTRpaj4mv
+
+with link to code
+
+pdftools and tesseract by @opencpu
+
+#rstats #pdftools #tesseract","2021-07-21 15:05 +0000","3778.0","33.0","0.008734780307040762","4.0","0.0","11.0","3.0","12.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1417861927716405248","https://twitter.com/rOpenSci/status/1417861927716405248","[use case] pdftools + map to download &amp; read multiple pdfs by @espejolento
+
+https://t.co/5VGqXn5fsU
+
+with link to code
+
+pdftools by @opencpu
+
+#rstats #pdftools","2021-07-21 15:00 +0000","3397.0","16.0","0.0047100382690609364","2.0","0.0","6.0","2.0","4.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1415430906601431043","https://twitter.com/rOpenSci/status/1415430906601431043","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them!
+
+https://t.co/l5mVWyBljW https://t.co/DT3jBag6wp","2021-07-14 22:00 +0000","6626.0","72.0","0.010866284334440085","9.0","0.0","11.0","3.0","7.0","0.0","5.0","0.0","0","0","0","0","0","37","37","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1414712639859699713","https://twitter.com/rOpenSci/status/1414712639859699713","New package katex: rendering math to HTML and MathML in R https://t.co/nzGjsGiK6V https://t.co/OIx6jPMW8V","2021-07-12 22:25 +0000","29342.0","1172.0","0.039942744189216825","31.0","0.0","117.0","58.0","83.0","0.0","129.0","0.0","0","0","0","0","0","754","754","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1413228853565210628","https://twitter.com/rOpenSci/status/1413228853565210628","Exciting to see so many rOpenSci packages featured!
+
+- FedData by @rkbocin
+- getlandsat by @sckottie
+- landscapetools by @shinysci
+- NLMR by @shinysci
+- rgbif by @sckottie
+- rnaturalearth by @southmapr https://t.co/HjdNYT03bZ","2021-07-08 20:09 +0000","7071.0","51.0","0.007212558336868901","2.0","0.0","24.0","9.0","0.0","0.0","16.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1412894194029367296","https://twitter.com/rOpenSci/status/1412894194029367296","Our rOpenSci Community Contributing Guide explores the benefits of contributing to rOpenSci and how to go about making a contribution. It’s easier than you think 😀
+
+🔗 https://t.co/2xbs4EiHn5 
+
+Cite: https://t.co/WeXaiOI2Fx","2021-07-07 22:00 +0000","3070.0","16.0","0.005211726384364821","0.0","0.0","6.0","1.0","4.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1412789754072948738","https://twitter.com/rOpenSci/status/1412789754072948738","[use case] Historical dataviz recreations with a sprinkle of magick by @mattdray
+
+https://t.co/InDKBN9mkU
+
+with links to blog post, tweets and repository
+
+magick by @opencpu
+
+#rstats #magick https://t.co/AlDRBCYdkM","2021-07-07 15:05 +0000","6152.0","116.0","0.0188556566970091","6.0","0.0","10.0","11.0","16.0","0.0","10.0","0.0","0","0","0","0","0","63","63","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1412788495442059270","https://twitter.com/rOpenSci/status/1412788495442059270","[use case] Environment Canada air temperature using weathercan by @abevingtona
+
+https://t.co/frn8LrdYP0
+
+with code snippets
+
+weathercan by @steffilazerte
+
+#rstats #weathercan https://t.co/TYsLkBw4lr","2021-07-07 15:00 +0000","3429.0","35.0","0.010207057451151939","3.0","0.0","4.0","0.0","5.0","1.0","5.0","0.0","0","0","0","0","0","17","17","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1411082256676900865","https://twitter.com/rOpenSci/status/1411082256676900865","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eqTuR 
+
+Cite: https://t.co/dtABKgrlaM https://t.co/unqobGjh1o","2021-07-02 22:00 +0000","4156.0","43.0","0.010346487006737248","3.0","0.0","8.0","1.0","11.0","2.0","12.0","0.0","0","0","1","0","0","5","5","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1410994735901143042","https://twitter.com/rOpenSci/status/1410994735901143042","[blog] rOpenSci at @_useRconf 
+
+https://t.co/6eoJFt3bKT
+
+4 talks &amp; tutorials by staff @opencpu @StefanieButland
+@ma_salmon @bikesRdata
+
+&amp; lots by community members including @a_gilardi5 @MikeMahoney218 @Lluis_Revilla Daniel Vartanian
+
+Come talk to us!
+
+#RStats","2021-07-02 16:12 +0000","21792.0","168.0","0.007709251101321586","13.0","0.0","25.0","27.0","53.0","0.0","50.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1410614175441686543","https://twitter.com/rOpenSci/status/1410614175441686543","[help wanted] rOpenSci 📦 lightr is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @grusonh:
+
+""Collect more spectra saved in other languages than English""
+at https://t.co/mho76ON1SS
+
+#RStats #lightr","2021-07-01 15:00 +0000","4645.0","28.0","0.0060279870828848225","3.0","0.0","2.0","0.0","19.0","1.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
