@@ -1,0 +1,203 @@
+"Tweet id","Tweet permalink","Tweet text","time","impressions","engagements","engagement rate","retweets","replies","likes","user profile clicks","url clicks","hashtag clicks","detail expands","permalink clicks","app opens","app installs","follows","email tweet","dial phone","media views","media engagements","promoted impressions","promoted engagements","promoted engagement rate","promoted retweets","promoted replies","promoted likes","promoted user profile clicks","promoted url clicks","promoted hashtag clicks","promoted detail expands","promoted permalink clicks","promoted app opens","promoted app installs","promoted follows","promoted email tweet","promoted dial phone","promoted media views","promoted media engagements"
+"1465712230054432768","https://twitter.com/rOpenSci/status/1465712230054432768","Join our Community Call next week. Details in this thread: https://t.co/lyXpM76rjm","2021-11-30 16:00 +0000","1777.0","5.0","0.0028137310073157004","0.0","0.0","2.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1465591708847116289","https://twitter.com/rOpenSci/status/1465591708847116289","November News 💌 #RStats
+
+https://t.co/so6V8HcS4j
+
+📅 Comm call next Tuesday about Enhancing Software Peer Review with GitHub Automation
+📅  Montly social co-working
+🙋 Help wanted issues
+📦 New: {cffr}, {excluder}, {mctq}
+📦 23 📦 updates
+📓 5 blog posts
+📦  development tips","2021-11-30 08:01 +0000","2289.0","27.0","0.011795543905635648","3.0","0.0","5.0","0.0","10.0","0.0","9.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1464368374562000898","https://twitter.com/rOpenSci/status/1464368374562000898","Want to keep up with @rOpenSci's work &amp; learn what others are doing with our  #rstats tools? 
+
+Read and subscribe to our newsletter! 📰📬
+
+Digest of 📦 news, use cases, blog posts, events, curated by @ma_salmon 👌 every month
+
+https://t.co/lJjQzEwN8k","2021-11-26 23:00 +0000","2923.0","27.0","0.009237085186452275","4.0","0.0","3.0","3.0","10.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1463901542470279170","https://twitter.com/rOpenSci/status/1463901542470279170","[help wanted] rOpenSci 📦 biomartr is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @HajkDrost:
+
+""High RAM usage when using meta.retrieval prevents usage on low end machines""
+at https://t.co/8YuXdnpML6
+
+#RStats","2021-11-25 16:05 +0000","1578.0","21.0","0.013307984790874524","3.0","0.0","4.0","0.0","7.0","0.0","7.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1463900296707514373","https://twitter.com/rOpenSci/status/1463900296707514373","[help wanted] rOpenSci 📦 mapscanner is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @bikesrdata:
+
+""ms_rectify_maps with type = ""lines""""
+at https://t.co/ADJjLlJ5Fu
+
+#RStats","2021-11-25 16:00 +0000","2302.0","48.0","0.020851433536055605","5.0","1.0","5.0","3.0","23.0","0.0","11.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1463592229511913472","https://twitter.com/rOpenSci/status/1463592229511913472","Congratulations on publication in @MethodsEcolEvol of allodb 📦  that passed @rOpenSci software peer review.
+
+🙌🏼  pkg authors Erika Gonzalez-Akre, Camille Piponiot, @K_A_Teixeira @mauro_lepore 
+
+🙏 pkg reviewers 
+@jeff_o_hanson @JonasStillhard 
+
+https://t.co/f4L42VZpLZ https://t.co/PNwMERiUVj","2021-11-24 19:35 +0000","4260.0","22.0","0.005164319248826291","4.0","0.0","7.0","0.0","1.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1463534116817846278","https://twitter.com/rOpenSci/status/1463534116817846278","#rstats technote: RSS feeds of package updates in r-universe https://t.co/VmuQdd8QJE https://t.co/4ZzNJr5k4G","2021-11-24 15:44 +0000","9535.0","161.0","0.01688515993707394","6.0","0.0","10.0","9.0","26.0","0.0","29.0","0.0","0","0","0","0","0","81","81","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1463167380939579402","https://twitter.com/rOpenSci/status/1463167380939579402","[technote] How I Test cffr on (about) 2,000 Packages using GitHub Actions and R-universe 🌌
+ 
+Curious how @dhernangomez tested cffr? Checkout the companion technote for a super slick workflow. 😎
+  
+https://t.co/cospIByue5
+
+#RStats #cffr #runiverse https://t.co/MUz3oufASA","2021-11-23 15:27 +0000","3655.0","17.0","0.004651162790697674","3.0","0.0","4.0","2.0","3.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1463166967980961798","https://twitter.com/rOpenSci/status/1463166967980961798","Join us Tues Dec 7th 9AM Australian Western!
+
+Social coworking &amp; ask us anything about rOpenSci practices and processes. 
+
+This date hosted by @nj_tierney and @stefaniebutland
+
+Add to your calendar: https://t.co/LOuj9tQQtZ https://t.co/lyrEcVm5iA","2021-11-23 15:26 +0000","10899.0","44.0","0.00403706762088265","3.0","0.0","3.0","4.0","10.0","0.0","24.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1463165786839732225","https://twitter.com/rOpenSci/status/1463165786839732225","[blog] cffr: Create a CITATION.cff File for your R Package 📦
+
+🎉🎉 @dhernangomez introduces cffr,  a newly reviewed rOpenSci package. 🎉🎉
+
+💡Easily add and validate CITATION.cff files to your R package repository
+
+https://t.co/icmXUo4B6w
+
+#RStats #cffr","2021-11-23 15:21 +0000","8277.0","101.0","0.012202488824453305","7.0","1.0","21.0","3.0","47.0","2.0","20.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1461771355557404673","https://twitter.com/rOpenSci/status/1461771355557404673","🙏🏻 Thanks to 
+- @ma_salmon for the webpage
+- @steffilazerte for the issues collection workflow
+-  @noamross for the idea💡! 
+
+(2/2)","2021-11-19 19:00 +0000","1468.0","16.0","0.010899182561307902","1.0","0.0","8.0","4.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1461771284375912454","https://twitter.com/rOpenSci/status/1461771284375912454","Help Wanted issues have a home 🎉!
+
+https://t.co/CDNIniqVv5
+
+This page lists ALL recent(ish) issues from rOpenSci R packages labelled ""help wanted"" (but we'll still tweet new issues!)
+
+- Sort e.g, good first issue 💡
+- Search e.g., specific packages 📦
+
+#RStats
+
+(1/2)","2021-11-19 19:00 +0000","12765.0","171.0","0.013396004700352527","13.0","1.0","28.0","9.0","80.0","1.0","39.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1461363577030389760","https://twitter.com/rOpenSci/status/1461363577030389760","[help wanted] rOpenSci 📦 tabulizer (maintained by @tpaskhalis) is looking for some help! 🙏
+
+Check out the issue labelled 'help wanted' by @pjs_228:
+
+""{tabulizer} got archived on CRAN on 2021-10-31""
+at https://t.co/vrCdmYbcN8
+
+#RStats","2021-11-18 16:00 +0000","2098.0","60.0","0.028598665395614873","6.0","0.0","8.0","5.0","37.0","0.0","4.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1461296718323015683","https://twitter.com/rOpenSci/status/1461296718323015683","We are thankful for all contributions that shaped this release! 💐","2021-11-18 11:34 +0000","1154.0","6.0","0.005199306759098787","0.0","0.0","2.0","1.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1461296436516163585","https://twitter.com/rOpenSci/status/1461296436516163585","[blog] rOpenSci Dev Guide 0.7.0: Updates 📘
+
+Highlights:
+
+🤖 More automation!
+🙋New form for reviewer volunteering.
+🤗 More community fostering advice.
+
+Read more in:
+https://t.co/iSJo09gpdX
+
+#rstats #SoftwarePeerReview","2021-11-18 11:33 +0000","3612.0","61.0","0.016888150609080842","5.0","1.0","10.0","6.0","21.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1461106879564767240","https://twitter.com/rOpenSci/status/1461106879564767240","Follow @roknowtifier to see when new rOpenSci packages or new versions of our packages are released https://t.co/wgMfGA5epr","2021-11-17 23:00 +0000","1277.0","19.0","0.014878621769772905","0.0","0.0","2.0","11.0","0.0","0.0","0.0","0.0","0","0","0","0","0","6","6","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1461026337884311556","https://twitter.com/rOpenSci/status/1461026337884311556","@DJBurnette @ChrisGuiterman @djhocking @chlorophileB Daniel, a) 🙏 for taking on maintenance of rnoaa; b) if you label issues `help wanted` rOpenSci can get attention for them e.g. https://t.co/D1u3VMcN5X and soon I think we'll have a web page up to feature help wanted issues from all rOpenSci pkgs
+(rOpenSci Community Mgr here)","2021-11-17 17:39 +0000","55.0","9.0","0.16363636363636364","0.0","1.0","3.0","1.0","1.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1460744496207908864","https://twitter.com/rOpenSci/status/1460744496207908864","Join us for social coworking &amp; office hours monthly on 1st Tuesdays!
+
+Alternating times for 🌎 🌍 🌏
+
+Hosted by @steffilazerte @nj_tierney @StefanieButland 
+
+Details https://t.co/mFboMTKADI
+
+#RStats","2021-11-16 23:00 +0000","3609.0","18.0","0.004987531172069825","2.0","0.0","3.0","5.0","5.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1458570168007675906","https://twitter.com/rOpenSci/status/1458570168007675906","Have any cool examples using rOpenSci packages? We’d love to see them! Consider adding your use case (or a link to your code/post) in our public forum. We have templates to make it easier, and we’ll tweet to promote them!
+
+https://t.co/l5mVWySWbu https://t.co/YIT48sXcVu","2021-11-10 23:00 +0000","1341.0","17.0","0.01267710663683818","0.0","0.0","1.0","1.0","3.0","0.0","5.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1458123415005671428","https://twitter.com/rOpenSci/status/1458123415005671428","@steffilazerte How do you manage citing R packages? 📦
+
+💡 Do you have any tips, or workflows that work well for you?","2021-11-09 17:24 +0000","1403.0","16.0","0.011404133998574484","2.0","1.0","2.0","1.0","0.0","0.0","10.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1458122961467101194","https://twitter.com/rOpenSci/status/1458122961467101194","[blog] How to Cite R and R Packages 📦
+
+🙏🏻 Developers need our love, gratitude, and most important, our citations! 
+
+🤔 Why does this matter? How do you start?
+
+@steffilazerte's primer includes how to find citation info, wordings, and workflows. 
+
+https://t.co/eR0nmKklzs
+
+#RStats","2021-11-09 17:22 +0000","10365.0","279.0","0.026917510853835022","34.0","1.0","77.0","15.0","100.0","0.0","50.0","0.0","0","0","0","0","0","2","2","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1457750286919819282","https://twitter.com/rOpenSci/status/1457750286919819282","How your team can use and customize the bot and extend our approach to tackle specific automation, code review, &amp; reproducibility challenges.
+
+https://t.co/N8VtBYCugT
+
+5/5","2021-11-08 16:42 +0000","1085.0","11.0","0.010138248847926268","1.0","0.0","4.0","0.0","5.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1457750108141879306","https://twitter.com/rOpenSci/status/1457750108141879306","Use cases of devops or chat-ops, Ruby, GitHub API, Heroku;
+
+4/5","2021-11-08 16:41 +0000","1154.0","7.0","0.006065857885615251","1.0","1.0","2.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1457749980760850437","https://twitter.com/rOpenSci/status/1457749980760850437","How we retired TODO-lists, tedious copy-pasting, local cloning and tinkering, in favor of simple explicit commands like `@ropensci-review-bot check package`; 
+
+3/5","2021-11-08 16:40 +0000","626.0","12.0","0.019169329073482427","1.0","1.0","5.0","0.0","0.0","0.0","5.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1457749871872516097","https://twitter.com/rOpenSci/status/1457749871872516097","Automating tasks like frequent software checks and compliance with best practices via a package run at an API triggered by bot commands;
+
+2/5","2021-11-08 16:40 +0000","508.0","7.0","0.013779527559055118","1.0","1.0","3.0","0.0","0.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1457749751965777927","https://twitter.com/rOpenSci/status/1457749751965777927","📣  Attend our December 7th Community Call on “Enhancing Software Peer Review with GitHub Automation” if you’re curious about...
+
+1/5 https://t.co/izjY3R3qUZ","2021-11-08 16:39 +0000","6832.0","36.0","0.005269320843091335","7.0","1.0","6.0","2.0","2.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1456743124215029762","https://twitter.com/rOpenSci/status/1456743124215029762","Our book - rOpenSci Packages: Development, Maintenance, and Peer Review - has guidance for
+
+- #rstats pkg development
+- authors, reviewers &amp; editors in #SoftwarePeerReview
+- package maintenance
+- how you can contribute
+
+🔗 https://t.co/y74t3eqTuR 
+
+Cite: https://t.co/dtABKgrlaM https://t.co/KUkkMcX6Aj","2021-11-05 22:00 +0000","2668.0","44.0","0.01649175412293853","5.0","0.0","10.0","0.0","21.0","1.0","2.0","0.0","0","0","0","0","0","5","5","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1456276297928294400","https://twitter.com/rOpenSci/status/1456276297928294400","[Community Call] Enhancing Software Peer Review with GitHub Automation
+
+📅 Tues Dec 7, 9-10am PDT (5pm UTC)
+
+w/ @arfon @_inundata @ma_salmon @noamross 
+
+https://t.co/N8VtBYkTpl
+
+#RStats","2021-11-04 15:05 +0000","22862.0","133.0","0.005817513778322106","7.0","0.0","19.0","6.0","50.0","0.0","51.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1456275055529267207","https://twitter.com/rOpenSci/status/1456275055529267207","[blog] Throw-back Thursday!
+
+Whew! rOpenSci's blog is 9 years old this month. Reminisce with us by reviewing our first ever blog post by @ibartomeus!
+
+⌛ is.invasive()
+📅 November 26, 2012
+🔗 https://t.co/r97NRLkggJ
+
+#RStats","2021-11-04 15:00 +0000","1260.0","14.0","0.011111111111111112","2.0","0.0","6.0","0.0","5.0","0.0","1.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1456035691679207425","https://twitter.com/rOpenSci/status/1456035691679207425","@_psyguy @tjmahr targets pkg thanks to @wmlandau ✨","2021-11-03 23:08 +0000","44.0","5.0","0.11363636363636363","0.0","0.0","2.0","0.0","0.0","0.0","3.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1456018349935276038","https://twitter.com/rOpenSci/status/1456018349935276038","Our rOpenSci Community Contributing Guide explores the benefits of contributing to rOpenSci and how to go about making a contribution. It’s easier than you think 😀
+
+🔗 https://t.co/2xbs4EAiLF 
+
+Cite: https://t.co/WeXaiOZE47 https://t.co/OWyCGvcxxK","2021-11-03 22:00 +0000","2576.0","39.0","0.015139751552795032","3.0","0.0","14.0","6.0","7.0","0.0","2.0","0.0","0","0","0","0","0","7","7","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1455912652559978499","https://twitter.com/rOpenSci/status/1455912652559978499","[use case] Using jsonvalidate to validate the packages.json file from your personal universe by @grusonh
+
+https://t.co/2Ou3jTqNAU
+
+with code snippets
+
+jsonvalidate by @rgfitzjohn
+
+#RStats #r-universe #jsonvalidate","2021-11-03 15:00 +0000","1560.0","18.0","0.011538461538461539","4.0","0.0","4.0","1.0","7.0","0.0","2.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
+"1455480762111832069","https://twitter.com/rOpenSci/status/1455480762111832069","For those who wish to participate in today's social coworking, note that the time is
+
+⌚ 5PM CET (4PM UTC).
+
+https://t.co/6lf9eIWZ58
+
+#RStats https://t.co/0gkfraYi2L","2021-11-02 10:23 +0000","3834.0","36.0","0.009389671361502348","5.0","0.0","6.0","3.0","4.0","0.0","18.0","0.0","0","0","0","0","0","0","0","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-","-"
